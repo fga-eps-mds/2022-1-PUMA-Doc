@@ -1,0 +1,13 @@
+site_name: PUMA
+
+extra_css: 
+    - assets/stylesheets/extra.css
+
+theme:
+    name: material
+    language: pt
+    features:
+        - navigation.tabs
+
+nav:
+    - Home: index.md
