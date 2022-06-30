@@ -6,14 +6,15 @@
 **Data de Término:** 26/06/2022;<br>
 **Duração:** 7 dias;<br>
 **Scrum Master da Sprint:** Enzo Gabriel;<br>
-**Devops da Sprint:** Hugo Aragão.<br>
+**Devops da Sprint:** Hugo Aragão;<br>
+**Arquiteto da Sprint:** Giovanna  Bottino.<br>
 
 ## 2. Objetivos
 A Sprint 1 tem como objetivo:
 
 - Iniciar o Lean Inception;<br>
 - Aplicar treinamentos aos MDS;<br>
-- Levantar quadro de conhecimentos da equipe;
+- Levantar quadro de conhecimentos da equipe.
 
 ## 3. Sprint Backlog
 Issues adicionadas:
