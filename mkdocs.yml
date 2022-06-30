@@ -11,3 +11,6 @@ theme:
 
 nav:
     - Home: index.md
+    - Sprints:
+        - Sprint 1:
+            - Planning sprint 1: sprints/sprint1/planning.md
