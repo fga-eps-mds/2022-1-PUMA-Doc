@@ -4,7 +4,9 @@
 **Número da Sprint:** 1;<br>
 **Data de Início:** 20/06/2022;<br>
 **Data de Término:** 26/06/2022;<br>
-**Duração:** 7 dias.<br>
+**Duração:** 7 dias;<br>
+**Scrum Master da Sprint:** Enzo Gabriel;<br>
+**Devops da Sprint:** Hugo Aragão.<br>
 
 ## 2. Objetivos
 A Sprint 1 tem como objetivo:
