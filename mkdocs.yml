@@ -14,3 +14,5 @@ nav:
     - Sprints:
         - Sprint 1:
             - Planning sprint 1: sprints/sprint1/planning.md
+        - Sprint 0:
+            - Planning sprint 0: sprints/sprint0/planning.md
