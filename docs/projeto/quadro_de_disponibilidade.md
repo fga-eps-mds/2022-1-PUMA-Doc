@@ -4,6 +4,7 @@
 | ------ | ---------- | --------- | ------- |
 | 0.1    | 30/06/2022 | Abertura do documento | Bruno |
 | 1.0    | 06/07/2022 | Adiciona ferramentas, reuniões pré-agendadas, quadro de disponibilidade em _iframe_ | Giovanna |
+| 1.1    | 09/07/2022 | Corrige reuniões fixas | Giovanna |
 
 ## Introdução
 
@@ -24,7 +25,7 @@ Ao longo do semestre, o grupo terá inúmeras reuniões para desenvolver o proje
 
 ## Reuniões pré agendadas
 
-- Reunião com o cliente Raissa: segunda-feira às 18h30
+- Reunião com o cliente: segunda-feira às 18h30
 - Reunião com o cliente: quarta-feira às 18h00
 
 
