@@ -7,6 +7,7 @@
 
 ## Issue
 <!--- cole a TAG da issue -->
+<!--- Closes #NUMERO_ISSUE -->
 
 ## Principais Implementações
 <!--- se for de código, descreva altreações relevantes -->
