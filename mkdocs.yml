@@ -12,6 +12,7 @@ theme:
 nav:
     - Home: index.md
     - Projeto:
+        - Quadro de Conhecimento: projeto/quadro_de_conhecimento.md
         - Plano de comunicação: projeto/quadro_de_disponibilidade.md
     - Sprints:
         - Sprint 0:
