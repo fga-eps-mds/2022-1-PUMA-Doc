@@ -1,27 +1,45 @@
+# Plano de comunicação
+
+| Versão | Data       | Descrição | Autores |
+| ------ | ---------- | --------- | ------- |
+| 0.1    | 30/06/2022 | Abertura do documento | Bruno |
+| 1.0    | 06/07/2022 | Adiciona ferramentas, reuniões pré-agendadas, quadro de disponibilidade em _iframe_ | Giovanna |
+| 1.1    | 09/07/2022 | Corrige reuniões fixas | Giovanna |
+
 ## Introdução
 
-&emsp;&emsp;Ao longo do semestre, o grupo terá inúmeras reuniões para desenvolver o projeto. Sabendo disso, mapear os melhores horários para as reuniões é crucial.
+Durante a criação de um plano de comunicação muitos aspectos devem ser envolvidos. Entre as responsabilidades envolvidas temos: como as informações acerca do projeto devem ser transmitidas e por onde devem ser transmitidas. Além do melhor horario de disponibilidade, que deve ser monitorado para garantir que os serviços entreguem com alta qualidade [[1]](#ref1).
 
-&emsp;&emsp;Esse Quadro de Disponibilidade visa o levantamento dos melhores horários para o agendamento de reuniões, levando em consideração o maior número de pessoas livres no horário. 
+Ao longo do semestre, o grupo terá inúmeras reuniões para desenvolver o projeto. Sabendo disso, mapear os melhores horários para as reuniões é crucial. A seguir temos o quadro de disponibilidade que visa o levantamento dos melhores horários para o agendamento de reuniões, levando em consideração o maior número de pessoas livres no horário. 
+
+## Ferramentas
+
+| Ferramenta | Descrição |
+| ---------- | --------- |
+| Discord    | Comunicação rápida com o cliente e reuniões do time |
+| Telegram   | Comunicação rápida entre o time |
+| Teams      | Reuniões com o cliente |
+| GitHub     | Repositório central para documentos e código |
+| ZenHub     | Rocumentar a baseline de requisitos, roadmap, servir como quadro Kanban para o time e atribuições de tarefas |
+
+
+## Reuniões pré agendadas
+
+- Reunião com o cliente: segunda-feira às 18h30
+- Reunião com o cliente: quarta-feira às 18h00
 
 
 ## Quadro de Disponibilidade
 
-&emsp;&emsp;Para o desenvolvimento do Quadro de Disponibilidade, o grupo pegou as informações de disponibilidade de cada integrante e compilou os dados na agenda Geral, de EPS e a de MDS. Segue os resultados do Quadro de Disponibilidade.
+Para o desenvolvimento do Quadro de Disponibilidade, o grupo pegou as informações de disponibilidade de cada integrante e compilou os dados na agenda Geral, de EPS e a de MDS. Segue os resultados do Quadro de Disponibilidade.
 
-&emsp;&emsp;Para a visualização completa do Quadro de Disponibilidade, segue o [link do excel](https://unbbr-my.sharepoint.com/:x:/g/personal/202042927_aluno_unb_br/Eak0DMMoxBRGnc9fWgu9WB8BJ8kWUYswcyEzp21mo9bcng?e=41F88h).
+<iframe width="1000" height="700" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/170011267_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={23236ba8-6b5d-4cde-8870-c83fed5f4faa}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&ejss=false"></iframe>
 
-### Geral
 *Total: 13 Pessoas*
-![Quadro de Disponibilidade - Geral](../../assets/imagens/quadro_de_disponibilidade/quadro_disponibilidade_geral.png)<center>
-[Figura 01: Quadro de Disponibilidade - Geral](../assets/imagens/quadro_de_disponibilidade/quadro_disponibilidade_geral.png)</center>
+*EPS: 5 Pessoas*
+*MDS: 8 Pessoas*
 
-### EPS 
-*Total: 5 Pessoas*
-![Quadro de Disponibilidade - EPS](../../assets/imagens/quadro_de_disponibilidade/quadro_disponibilidade_EPS.png)<center>
-[Figura 02: Quadro de Disponibilidade - EPS](../assets/imagens/quadro_de_disponibilidade/quadro_disponibilidade_EPS.png)</center>
+## Referências
 
-### MDS
-*Total: 8 Pessoas*
-![Quadro de Disponibilidade MDS](../../assets/imagens/quadro_de_disponibilidade/quadro_disponibilidade_MDS.png)<center>
-[Figura 03: Quadro de Disponibilidade - MDS](../assets/imagens/quadro_de_disponibilidade/quadro_disponibilidade_MDS.png)</center>
+<a id="ref1"></a>
+[1] FUNDAMENTOS DE ITIL. Gerenciamento de Disponibilidade. Bradesco. Disponível em <http://ead4.fgv.br/producao/DI/FUNDACAO_BRADESCO/diagramacao/base_15/curso/pag/2_2_13.html>. Acesso em: 06 de Julho de 2022.
