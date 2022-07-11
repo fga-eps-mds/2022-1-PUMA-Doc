@@ -30,7 +30,7 @@ Por questões de padronização e rastreabilidade, os commits devem seguir as se
 
 __Exemplo Trabalhando Sozinho:__
     
-    ``` $ (#43) Corrige erro na autenticação do perfil x de usuário ```
+    $ (#43) Corrige erro na autenticação do perfil x de usuário
 
 
 __Exemplo Trabalhando em grupo:__
