@@ -29,6 +29,7 @@ Por questões de padronização e rastreabilidade, os commits devem seguir as se
 - Caso o commit seja resultado de um trabalho em equipe, utilize _ Co-authored-by:_
 
 __Exemplo Trabalhando Sozinho:__
+    
     ``` $ (#43) Corrige erro na autenticação do perfil x de usuário ```
 
 
