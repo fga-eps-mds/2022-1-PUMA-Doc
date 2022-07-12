@@ -3,14 +3,14 @@
 |    Data    | Versão |                             Alteração                             |                    Autor                    |
 |:----------:|:------:|:-----------------------------------------------------------------:|:-------------------------------------------:|
 |09/07/2022|0.1|Criação do Documento|Enzo Gabriel e Breno Yuri|
+|11/07/2022|1.0|Atualização das referências|Enzo Gabriel|
 
 ## Introdução
 
-&emsp;&emsp;O Plano de Gerenciamento de Risco tem propósito de mapear e analisar possíveis riscos, bem como planejar medidas para contorná-los.
-
+&emsp;&emsp;Segundo Freitas(2018)[2] A função do Plano de Gerenciamento de Riscos é definir como serão conduzidas as atividades de Gestão de Risco, ou seja, informar quais serão as medidas adotadas pela empresa para lidar com as possíveis ameaças ou oportunidades.
 ## Estrutura Analítica de Riscos (EAR)
 
-&emsp;&emsp;É uma técnica que permite agrupar possíveis causas de riscos. A estrutura analítica dos riscos ajuda a equipe do projeto a considerar muitas fontes a partir dos quais os riscos podem surgir em um exercício de identificação de riscos. O EAR é dividido em 4 categorias, que são citadas abaixo:
+&emsp;&emsp;É uma técnica que permite agrupar possíveis causas de riscos. A estrutura analítica dos riscos ajuda a equipe do projeto a considerar muitas fontes a partir dos quais os riscos podem surgir em um exercício de identificação de riscos. O EAR é dividido em 4 categorias[1], que são citadas abaixo:
 
 - **Técnico:** Riscos agregados à tecnologia, requisitos e qualidade.
 - **Externo:** Riscos vinculados ao cliente, mercado ou ambiente.
@@ -83,12 +83,10 @@ Sendo que:
 |**R12**|Conflito entre entregas da sprint e de tarefas de outras disciplinas|Organização das tarefas para não haver choque de entrega|Diminuir o escopo da sprint e redistribuir tarefas|Externo|5|3|13|
 |**R13**|Alteração nas datas da disciplina|Não há nenhuma ação a ser feita|Redefinir datas das entregas|Externo|2|4|8|
 |**R14**|Aperto nas entregas devido ao semestre mais curto|Se organizar previamente para evitar muitas tarefas acumuladas|Se empenhar para fazer a tarefa de maneira correta e melhorar para as próximas|Gerência|4|5|19|
-|**R15**|Greve na UNB|Não há nenhuma ação a ser feita|Não há nenhuma ação a ser feita|Externo|2|5|1|
+|**R15**|Greves na UNB|Não há nenhuma ação a ser feita|Não há nenhuma ação a ser feita|Externo|2|5|1|
 
 ## Bibliografia
 
-* JOÃO, Lucas. Plano de Gerenciamento de Riscos do grupo ArBC. Disponível em: https://github.com/fga-eps-mds/2019.2-ArBC/blob/develop/docs/Plano-Gerenciamento-Riscos.md. Acesso em 09 jul 2022.
+[1] JOÃO, Lucas. Plano de Gerenciamento de Riscos do grupo ArBC. Disponível em: https://github.com/fga-eps-mds/2019.2-ArBC/blob/develop/docs/Plano-Gerenciamento-Riscos.md. Acesso em 09 jul 2022.
 
-* FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio. Disponível em: https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/. Acesso em 09 jul 2022.
-
-* SIQUEIRA, Lucas; OLIVEIRA, Caio. Plano de Gerenciamento de Riscos do grupo +Monitoria. Disponível em: https://fga-eps-mds.github.io/2019.1-MaisMonitoria/docs/plano-riscos. Acesso em 09 jul 2022.
+[2] FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio. Disponível em: https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/. Acesso em 09 jul 2022.
