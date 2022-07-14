@@ -1,5 +1,9 @@
 # Contribuições
 
+| Versão | Data       | Descrição | Autores |
+| ------ | ---------- | --------- | ------- |
+| 1.0    | 10/07/2022 | Abertura do documento | Hugo e Breno Henrique |
+
 Este documento determina as regras para submissão de códigos para este repositório.
 
 ## Issues
@@ -67,7 +71,3 @@ __OBS__: A política de _branchs_ foi idealizada para trabalhar em conjunto com 
 * __doc/\<tema-ou-natureza>__ - Branch onde serão executadas tarefas de suporte relacionadas ao software, como elaboração de documentações, correções de natureza de gerência de configuração, etc.
 
 ---
-
-| Versão | Data       | Descrição | Autores |
-| ------ | ---------- | --------- | ------- |
-| 1.0    | 10/07/2022 | Abertura do documento | Hugo e Breno Henrique |
