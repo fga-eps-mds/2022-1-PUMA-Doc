@@ -39,12 +39,10 @@ A jornada descreve o percurso de um usuário por uma sequência de passos para a
 ### Brainstorming de funcionalidades
 Uma funcionalidade representa uma ação ou interação de um usuário com o produto. O brainstorming de funcionalidades,também chamada de tempestade de ideias, é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião na qual os participantes expõem suas sugestões e debatem sobre as contribuições do coletivo. No âmbito de software o brainstorming serve para que os participantes deem ideias de funcionalidades do produto.
 
-<img src="../assets/imagens/documento_visao/brainstorm-func.png" >
 
 ### Revisão Técnica, de Negócio e de UX
 Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX (Experiência de Usuário) para cada funcionalidade. A partir desta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.
 
-<img src="../assets/imagens/documento_visao/revisao_tecnica.png" width="750px">
 
 ### Sequenciador
 O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto. Para que seja seguida a ordem de priorização temos as seguintes regras:
@@ -55,22 +53,17 @@ O Sequenciador de funcionalidades auxilia na organização e visualização das 
 - Regra 4: A soma de esforço dos cartões não pode ultrapassar cinco 'E's.
 - Regra 5: A soma de valor dos cartões não pode ser menos de quatro $s e quatro corações.
 - Regra 6: Se um cartão depende de outro, esse outro deve estar em alguma onda anterior.
-- 
-<img src="../assets/imagens/documento_visao/sequenciador.png" width="700px">
 
 ### Canvas MVP
 O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
 
-<img src="../assets/imagens/documento_visao/canvas.png" width="950px">
 
 ## Lean Inception 
 
-<iframe src="https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1654695648526/9729fa273298d6972c978044f1661b2c09039abe?invited=true&sender=ueae2f8fa6af9f7e006761768" width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox"></iframe>
-
+<!-- <iframe src="" width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox"></iframe>
+-->
 ## Referências
 
 
 <a id="ref1"></a>
 [1] CAROLI, Paulo. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. Caroli. Disponível em <https://www.caroli.org/livro/lean-inception/>. Acesso em: 13 de Julho de 2022.
-
-
