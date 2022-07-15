@@ -4,6 +4,7 @@
 | ------ | ---------- | --------- | ------- |
 | 0.1    | 13/07/2022 | Abertura do documento | Felipe, Giovanna e Breno Henrique |
 | 0.2    | 14/07/2022 | Adição de novos tópicos | Felipe |
+| 0.3    | 15/07/2022 | Adição das imagens | Eduardo e Breno Yuri |
 
 
 ## Introdução
