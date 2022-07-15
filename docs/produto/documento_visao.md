@@ -63,6 +63,10 @@ O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estr
 
 <img src="../assets/imagens/documento_visao/canvas.png" width="950px">
 
+## Lean Inception 
+
+<iframe src="https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1654695648526/9729fa273298d6972c978044f1661b2c09039abe?invited=true&sender=ueae2f8fa6af9f7e006761768" width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 ## Referências
 
 
