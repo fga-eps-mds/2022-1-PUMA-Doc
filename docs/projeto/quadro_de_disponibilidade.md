@@ -33,7 +33,7 @@ Ao longo do semestre, o grupo terá inúmeras reuniões para desenvolver o proje
 
 Para o desenvolvimento do Quadro de Disponibilidade, o grupo pegou as informações de disponibilidade de cada integrante e compilou os dados na agenda Geral, de EPS e a de MDS. Segue os resultados do Quadro de Disponibilidade.
 
-<iframe width="1000" height="700" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/170011267_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={23236ba8-6b5d-4cde-8870-c83fed5f4faa}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&ejss=false"></iframe>
+<iframe width="1200" height="650" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRROOal9ZGGWnF5Cn2N3W2KoW5b1JzAMPGTFBbOoCSaKd9WqwvLR24D4Rra3O35uQ/pubhtml?widget=true&amp;headers=false"></iframe>
 
 *Total: 13 Pessoas*
 *EPS: 5 Pessoas*

@@ -12,7 +12,7 @@ Por esse motivo, nossa equipe escolheu o quadro de conhecimentos, a função del
 
 ## Quadro de Conhecimento
 
-<iframe width="700" height="346" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/170011267_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={640c58ad-f000-40d5-8bdb-f9bb65e2057d}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&ejss=false"></iframe>
+<iframe width="700" height="300" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSv9Al3GRd9pA_WVTwYYDdHLPqktOUcQLEkvAO45Np4a9KNs5xQSdSR-AwrPvzO9A/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 ## Referências
