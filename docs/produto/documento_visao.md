@@ -12,26 +12,38 @@ Este documento de visão tem como objetivo apresentar o produto PUMA ultilizando
 ### Visão do Produto
 A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes. [[1]](#ref1).
 
+<img src="../assets/imagens/documento_visao/Visao_do_produto.png" width="600px">
+
 ### "É/ Não é" e "Faz/ Não Faz"
 Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é. [[1]](#ref1).
 
+<img src="../assets/imagens/documento_visao/e_naoe_faz_naofaz.png" width="600px">
+
 ### Objetivos do Produto
 Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo com os objetivos gerais do negócio. [[1]](#ref1).
+
+<img src="../assets/imagens/documento_visao/objetivos_do_produto.png" width="600px">
 
 ### Personas
 A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possíve identificar as funcionalidades do sistema por meio de representações de quem se espera obter como de usuários, auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final. [[1]](#ref1).
 Foram criadas 3 personas para este produto, conforme imagens a seguir:
 
+<img src="../assets/imagens/documento_visao/personas.png" >
 
 ### Jornadas do Usuário
 A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns destes passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
 
+<img src="../assets/imagens/documento_visao/jornadas.png" >
 
 ### Brainstorming de funcionalidades
 Uma funcionalidade representa uma ação ou interação de um usuário com o produto. O brainstorming de funcionalidades,também chamada de tempestade de ideias, é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião na qual os participantes expõem suas sugestões e debatem sobre as contribuições do coletivo. No âmbito de software o brainstorming serve para que os participantes deem ideias de funcionalidades do produto.
 
+<img src="../assets/imagens/documento_visao/brainstorm-func.png" >
+
 ### Revisão Técnica, de Negócio e de UX
 Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX (Experiência de Usuário) para cada funcionalidade. A partir desta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.
+
+<img src="../assets/imagens/documento_visao/revisao_tecnica.png" width="750px">
 
 ### Sequenciador
 O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto. Para que seja seguida a ordem de priorização temos as seguintes regras:
@@ -42,9 +54,13 @@ O Sequenciador de funcionalidades auxilia na organização e visualização das 
 - Regra 4: A soma de esforço dos cartões não pode ultrapassar cinco 'E's.
 - Regra 5: A soma de valor dos cartões não pode ser menos de quatro $s e quatro corações.
 - Regra 6: Se um cartão depende de outro, esse outro deve estar em alguma onda anterior.
+- 
+<img src="../assets/imagens/documento_visao/sequenciador.png" width="700px">
 
 ### Canvas MVP
 O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
+
+<img src="../assets/imagens/documento_visao/canvas.png" width="950px">
 
 ## Referências
 
