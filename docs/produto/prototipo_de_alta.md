@@ -6,35 +6,43 @@
 | ---------- | ------ | -------------------- | ------------------------- |
 | 16/07/2022 | 1.0    | Criação do documento | Ana Hoffmann e Breno Yuri |
 
+## Introdução
+
+O protótipo de alta fidelidade é criado utilizando materiais que são esperados no produto final. Por ilustrar o design finalizado, esse recurso é extremamente útil para vender ideias e discutir alterações na usabilidade do produto.
+
 ## Objetivo
 
-Esse documento se propõe a apresentar fotos das principais páginas criadas no protótipo de alta-fidelidade através do Figma.
+Esse documento se propõe a apresentar o design front-end das principais páginas criadas no protótipo de alta-fidelidade. 
 
-## Home
+## Metodologia
+
+Para a criação do protótipo em questão, houve a utilização da tecnologia Figma, ferramenta muito utilizada no design de sites e aplicativos.
+
+### Home
 
 <img src="../assets/imagens/prototipo_de_alta/home.png" width="600px">
 
-## Cadastro 
+### Cadastro 
 
 <img src="../assets/imagens/prototipo_de_alta/cadastro_1.png" width="600px">
 
 <img src="../assets/imagens/prototipo_de_alta/cadastro_2.png" width="600px">
 
-## Tela de login
+### Tela de login
 
 <img src="../assets/imagens/prototipo_de_alta/login.png" width="600px">
 
-## Inicar um projeto
+### Inicar um projeto
 
 <img src="../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_1.png" width="600px">
 
 <img src="../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_2.png" width="600px">
 
-## Detalhes 
+### Detalhes 
 
 <img src="../assets/imagens/prototipo_de_alta/detalhes.png" width="600px">
 
-## Inscrição em projeto
+### Inscrição em projeto
 
 <img src="../assets/imagens/prototipo_de_alta/inscricao_de_projeto.png" width="600px">
 
