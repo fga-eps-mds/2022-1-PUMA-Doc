@@ -14,10 +14,6 @@ O protótipo de alta fidelidade é criado utilizando materiais que são esperado
 
 Esse documento se propõe a apresentar o design front-end das principais páginas criadas no protótipo de alta-fidelidade. 
 
-## Metodologia
-
-
-
 ### Home
 
 <img src="../assets/imagens/prototipo_de_alta/home.png" width="600px">
