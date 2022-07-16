@@ -12,31 +12,31 @@ Esse documento se propõe a apresentar fotos das principais páginas criadas no 
 
 ## Home
 
-<img src="/assets/imagens/prototipo_de_alta/home.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/home.png" width="600px">
 
 ## Cadastro 
 
-<img src="/assets/imagens/prototipo_de_alta/cadastro_1.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/cadastro_1.png" width="600px">
 
-<img src="/assets/imagens/prototipo_de_alta/cadastro_2.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/cadastro_2.png" width="600px">
 
 ## Tela de login
 
-<img src="/assets/imagens/prototipo_de_alta/login.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/login.png" width="600px">
 
 ## Inicar um projeto
 
-<img src="/assets/imagens/prototipo_de_alta/popup_iniciar_projeto_1.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_1.png" width="600px">
 
-<img src="/assets/imagens/prototipo_de_alta/popup_iniciar_projeto_2.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_2.png" width="600px">
 
 ## Detalhes 
 
-<img src="/assets/imagens/prototipo_de_alta/detalhes.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/detalhes.png" width="600px">
 
 ## Inscrição em projeto
 
-<img src="/assets/imagens/prototipo_de_alta/inscricao_de_projeto.png" width="600px">
+<img src="../assets/imagens/prototipo_de_alta/inscricao_de_projeto.png" width="600px">
 
 ## Protótipo no figma
 
