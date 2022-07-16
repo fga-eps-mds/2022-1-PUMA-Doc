@@ -8,7 +8,7 @@
 
 ## Introdução
 
-O protótipo de alta fidelidade é criado utilizando materiais que são esperados no produto final. Por ilustrar o design finalizado, esse recurso é extremamente útil para vender ideias e discutir alterações na usabilidade do produto.
+O protótipo de alta fidelidade é criado utilizando materiais que são esperados no produto final. Por ilustrar o design finalizado, esse recurso é extremamente útil para vender ideias e discutir alterações na usabilidade do produto. Para sua criação, foi utilizada a tecnologia presente no Figma, ideal para elaboração do design de sites e aplicativos.
 
 ## Objetivo
 
@@ -16,7 +16,7 @@ Esse documento se propõe a apresentar o design front-end das principais página
 
 ## Metodologia
 
-Para a criação do protótipo em questão, houve a utilização da tecnologia Figma, ferramenta muito utilizada no design de sites e aplicativos.
+
 
 ### Home
 
