@@ -73,10 +73,14 @@ O plano de comunicação da equipe está dividido em reuniões semanais fixas en
 
 ## Referências 
 
+<a id="ref1"></a>
 [1] COMO FAZER A METODOLOGIA DE UM PROJETO. Disponível em: [http://www.deinf.ufma.br/~portela/metodologia.pdf](http://www.deinf.ufma.br/~portela/metodologia.pdf). Acesso em 14/07/2022
 
+<a id="ref2"></a>
 [2] SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum](https://pt.wikipedia.org/wiki/Scrum). Acesso em: 14/07/2022
 
+<a id="ref3"></a>
 [3] KANBAN. Disponível em: [https://pt.wikipedia.org/wiki/Kanban](https://pt.wikipedia.org/wiki/Kanban). Acesso em 14/07/2022
 
+<a id="ref4"></a>
 [4] [EBOOK] [Caroli, Paulo, Lean Inception: como alinhar pessoas e construir o produto certo](https://mailchi.mp/caroli.org/ebook-lean-inception-gratis)
