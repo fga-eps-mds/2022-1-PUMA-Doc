@@ -13,7 +13,7 @@ nav:
     - Home: index.md
     - Produto: 
         - Documento de Visão: produto/documento_visao.
-        - Protótipo de Alta: produto/prototipo_de_alta.
+        - Protótipo de Alta Fidelidade: produto/prototipo_de_alta.md
     - Projeto:
         - Quadro de Conhecimento: projeto/quadro_de_conhecimento.md
         - Plano de comunicação: projeto/quadro_de_disponibilidade.md
