@@ -13,28 +13,28 @@ Este documento de visão tem como objetivo apresentar o produto PUMA ultilizando
 ### Visão do Produto
 A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes. [[1]](#ref1).
 
-<img src="../assets/imagens/documento_visao/Visao_do_produto.png" width="600px">
+![](../assets/imagens/documento_visao/Visao_do_produto.png)
 
 ### "É/ Não é" e "Faz/ Não Faz"
 Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é. [[1]](#ref1).
 
-<img src="../assets/imagens/documento_visao/e_naoe_faz_naofaz.png" width="600px">
+![](../assets/imagens/documento_visao/e_naoe_faz_naofaz.png)
 
 ### Objetivos do Produto
 Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo com os objetivos gerais do negócio. [[1]](#ref1).
 
-<img src="../assets/imagens/documento_visao/objetivos_do_produto.png" width="600px">
+![](../assets/imagens/documento_visao/objetivos_do_produto.png)
 
 ### Personas
 A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possíve identificar as funcionalidades do sistema por meio de representações de quem se espera obter como de usuários, auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final. [[1]](#ref1).
 Foram criadas 3 personas para este produto, conforme imagens a seguir:
 
-<img src="../assets/imagens/documento_visao/personas.png" >
+![](../assets/imagens/documento_visao/personas.png)
 
 ### Jornadas do Usuário
 A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns destes passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
 
-<img src="../assets/imagens/documento_visao/jornadas.png" >
+![](../assets/imagens/documento_visao/jornadas.png)
 
 ### Brainstorming de funcionalidades
 Uma funcionalidade representa uma ação ou interação de um usuário com o produto. O brainstorming de funcionalidades,também chamada de tempestade de ideias, é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião na qual os participantes expõem suas sugestões e debatem sobre as contribuições do coletivo. No âmbito de software o brainstorming serve para que os participantes deem ideias de funcionalidades do produto.
