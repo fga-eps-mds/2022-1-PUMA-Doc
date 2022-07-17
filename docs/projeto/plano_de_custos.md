@@ -3,6 +3,7 @@
 | Versão | Data       | Descrição | Autores |
 | ------ | ---------- | --------- | ------- |
 | 1.0    | 11/07/2022 | Abertura do documento | Ana e Marcelo |
+| 1.1    | 16/07/2022 | Adição de planilha dinâmica | Marcelo |
 
 ## Introdução
 
@@ -12,22 +13,4 @@ Observações: a jornada de trabalho será de 30 horas semanais (5 horas diária
 
 ## Tabela de Custos
 
-| Atividade | Responsáveis| Custo Estimado | Tempo Max. Estimado |
-| ------ | ---------- | --------- | ------- |
-| Vincular Labels aos Projetos | 2 MDS/1 EPS | R$ 2.980,80 | 20h |
-| Cancelar Projetos | 2 MDS/1 EPS | R$ 2.235,60 | 15h |
-| Avaliação do desempenho dos integrantes dos projetos | 3 MDS/2 EPS | R$ 9.935,00 | 40h |
-| Ver detalhes de projetos | 2 MDS/1 EPS | R$ 2.235,60 | 15h |
-| Atribuir projetos a disciplinas por meio das labels | 3 MDS/1 EPS | R$ 7.948,80 | 40h |
-| Gerenciar os grupos dos projetos (professores) | 3 MDS/2 EPS | R$ 9.935,00 | 40h |
-| Aprovar/reprovar projetos para as disciplinas (professores) | 2 MDS/1 EPS | R$ 2.235,60 | 15h |
-| Gerenciar projetos da disciplina (professores) | 3 MDS/1 EPS | R$ 7.948,80 | 40h |
-| Registrar em projetos (alunos) | 2 MDS/1 EPS | R$ 2.235,60 | 15h |
-| Consultar projetos divulgados para disciplina (professores) | 3 MDS/1 EPS | R$ 5.961,60 | 30h |
-| Avaliação final do projeto (professores) | 3 MDS/1 EPS | R$ 5.961,60 | 30h |
-| Promover melhores projetos (professores) | 2 MDS/1 EPS | R$ 2.235,60 | 15h |
-| Visualizar detalhamento do projeto (clientes) | 2 MDS/1 EPS | R$ 2.980,80 | 20h |
-| Remanejar projetos (professores) | 5 MDS/2 EPS | R$ 17.388,00 | 50h |
-| Tornar páginas responsivas | 5 MDS/2 EPS | R$ 17.388,00 | 50h |
-| Total | - | R$ 99.606,40 | 435h (33,5h/dev) |
-
+<iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTC4ZzWCCuY3Tg95AruukpsHFe1irj-x9_wWBihO6ZthOh03CDklZQdLr1fzqwAXxCEQq813CU9y58w/pubhtml"></iframe>
