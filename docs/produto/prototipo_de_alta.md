@@ -16,31 +16,31 @@ Esse documento se propõe a apresentar o design front-end das principais página
 
 ### Home
 
-<img src="../assets/imagens/prototipo_de_alta/home.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/home.png)
 
 ### Cadastro 
 
-<img src="../assets/imagens/prototipo_de_alta/cadastro_1.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/cadastro_1.png)
 
-<img src="../assets/imagens/prototipo_de_alta/cadastro_2.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/cadastro_2.png)
 
 ### Tela de login
 
-<img src="../assets/imagens/prototipo_de_alta/login.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/login.png)
 
 ### Inicar um projeto
 
-<img src="../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_1.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_1.png)
 
-<img src="../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_2.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/popup_iniciar_projeto_2.png)
 
 ### Detalhes 
 
-<img src="../assets/imagens/prototipo_de_alta/detalhes.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/detalhes.png)
 
 ### Inscrição em projeto
 
-<img src="../assets/imagens/prototipo_de_alta/inscricao_de_projeto.png" width="600px">
+![](../assets/imagens/prototipo_de_alta/inscricao_de_projeto.png width="600px")
 
 ## Protótipo no figma
 
