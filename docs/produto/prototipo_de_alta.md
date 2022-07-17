@@ -40,7 +40,7 @@ Esse documento se propõe a apresentar o design front-end das principais página
 
 ### Inscrição em projeto
 
-![width="200"](../assets/imagens/prototipo_de_alta/inscricao_de_projeto.png ){ width="200" }
+!(../assets/imagens/prototipo_de_alta/inscricao_de_projeto.png ){ width="200" }
 
 ## Protótipo no figma
 
