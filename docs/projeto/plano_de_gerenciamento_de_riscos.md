@@ -85,6 +85,10 @@ Sendo que:
 |**R14**|Aperto nas entregas devido ao semestre mais curto|Se organizar previamente para evitar muitas tarefas acumuladas|Se empenhar para fazer a tarefa de maneira correta e melhorar para as próximas|Gerência|4|5|19|
 |**R15**|Greves na UNB|Não há nenhuma ação a ser feita|Não há nenhuma ação a ser feita|Externo|2|5|1|
 
+## Medidas de gerenciamento
+
+<iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRadOwXUyGLBt_2fbIkZx446JHsAbbQi8Mo8Lrmi3sdPvA8sKFV_lXYHIyYh6xX6aavPU6cEquGNdsR/pubhtml"></iframe>
+
 ## Bibliografia
 
 [1] JOÃO, Lucas. Plano de Gerenciamento de Riscos do grupo ArBC. Disponível em: https://github.com/fga-eps-mds/2019.2-ArBC/blob/develop/docs/Plano-Gerenciamento-Riscos.md. Acesso em 09 jul 2022.
