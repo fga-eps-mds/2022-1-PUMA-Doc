@@ -11,6 +11,8 @@ theme:
 
 nav:
     - Home: index.md
+    - Produto: 
+        - Protótipo de Alta Fidelidade: produto/prototipo_de_alta.md
     - Projeto:
         - Quadro de Conhecimento: projeto/quadro_de_conhecimento.md
         - Plano de comunicação: projeto/quadro_de_disponibilidade.md
