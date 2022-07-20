@@ -6,6 +6,7 @@
 | :--------- | :----- | :---------- | :---- |
 | 10/07/2022 | 0.1    | Criação do documento e adição da introdução | Eduardo    |
 | 17/07/2022 | 0.2    | Acrescentando tópicos                       | Breno Yuri | 
+| 20/07/2022 | 0.3    | Adiciona Representação de Dados             | Breno Yuri, Eduardo, Giovanna, Felipe, Cainã | 
 
 ### Introdução  
 
