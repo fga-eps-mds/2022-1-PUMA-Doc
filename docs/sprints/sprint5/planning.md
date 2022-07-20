@@ -57,30 +57,34 @@
 **Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
 **Pontuação:** 5
 
-9. **Issue:** [#75 Alterar rotulo de botão editar disciplina](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/75)<br>
+9. **Issue:** [#74 Resultado da Avaliação do Relatório de BugFixes](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/74)<br>
+**Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
+**Pontuação:** 5
+
+10. **Issue:** [#75 Alterar rotulo de botão editar disciplina](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/75)<br>
 **Responsáveis:** Hugo e Cabral<br>
 **Pontuação:** 1
 
-10. **Issue:** [#89 Treinamento SQL](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/89)<br>
+11. **Issue:** [#89 Treinamento SQL](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/89)<br>
 **Responsáveis:** Giovanna<br>
 **Pontuação:** 5
 
-11. **Issue:** [#93 Melhorar Documento Plano de Custos](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/93)<br>
+12. **Issue:** [#93 Melhorar Documento Plano de Custos](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/93)<br>
 **Responsáveis:** Marcelo e Ana<br>
 **Pontuação:** 3
 
-12. **Issue:** [#94 Planning Sprint 5 ](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/94)<br>
+13. **Issue:** [#94 Planning Sprint 5 ](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/94)<br>
 **Responsáveis:** Bruno<br>
 **Pontuação:** 1
 
-13. **Issue:** [#95 Desenvolver Product Backlog](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/95)<br>
+14. **Issue:** [#95 Desenvolver Product Backlog](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/95)<br>
 **Responsáveis:** Bruno, Marcelo, Samuel, Breno Henrique e Eduardo<br>
 **Pontuação:** 5
 
-14. **Issue:** [# Desenvolver Documento ROADMAP]()<br>
+15. **Issue:** [# Desenvolver Documento ROADMAP]()<br>
 **Responsáveis:** Enzo, Cabral e Breno Yuri<br>
 **Pontuação:** 3
 
-15. **Issue:** [# Treinamento Testes]()<br>
+16. **Issue:** [# Treinamento Testes]()<br>
 **Responsáveis:** Bruno <br>
 **Pontuação:** x
