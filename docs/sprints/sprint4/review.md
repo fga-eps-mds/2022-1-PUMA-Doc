@@ -6,7 +6,7 @@
 **Data de Término:** 17/07/2022;<br>
 **Duração:** 7 dias;<br>
 **Scrum Master da Sprint:** Giovanna Bottino;<br>
-**Devops da Sprint:** Enzo Gabriel, Bruno<br>
+**Devops da Sprint:** Enzo Gabriel e Bruno Félix<br>
 **Arquiteto da Sprint:** Hugo Aragão.<br>
 
 
@@ -84,7 +84,7 @@
 
 ## 3.1. Burndown
 ![Burndown Report](../../assets/imagens/sprints/sprint4/burndown-report.png)
-<center>[Figura 1: Burndown Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint5/burndown-report.png)</center>
+<center>[Figura 1: Burndown Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint4/burndown-report.png)</center>
 
 ## 3.2. Velocity
 ![Velocity Report](../../assets/imagens/sprints/sprint4/velocity-report.png)
@@ -93,32 +93,30 @@
 
 ## 4. Retrospective
 
-### Pontos Positivos
-- Começo do Projeto;
-- Maior comunicação de MDS → EPS;
-- Início do pareamento;
-- Mais engajamento por parte dos MDS;
-- Primeiro contato mais prático;
-- Planejar, junto ao time do Darcy, o processo de elicitação dos bugs e melhorias.
+### Pontos Positivo
+
+- Levantou todas os bugs e melhorias do projeto;
+- Amadureceu o Lean Inception;
+- Integrou mais o time: Mais pessoas sabem o que estão fazendo e estão participando;
+- Bastante Pareamentos;
+- Pauta de reunião de quarta enviada previamente;
+- Dailies Diárias.
 
 ### Pontos Negativos
-- Não detalhamento das funcionalidades já entregue, bugs e melhorias;
-- Não planejamento para a reunião de Quarta;
-- Lean Inception travou nosso avanço;
-- Algumas issues foram feitas no final da sprint;
-- Não fez Daily nessa sprint;
-- Nem todos os MDS participaram do projeto essa semana;
+
+- Falhas no uso do padrão de Contribuição;
+- Planejar previamente os horários de pareamento;
+- Baixo numero de Comentários nas issues;
+- Issues feitas somente no final da Sprint.
 
 ### Pontos a Melhorar
-- Elicitar relatório das funcionalidades/ melhorias;
-- Enviarmos via discord pauta de reunião até terça feira;
-- Fechar Lean Inception após o relatório das funcionalidades/ melhorias;
-- Fazer issues mais no início do sprint;
-- Fazer Dailies diárias;
-- Mais MDS participarem do projeto;
-- Cada pessoa criar sua própria issue no início da Sprint.
+
+- Cada pessoa criar sua própria issue no inicio da Sprint;
+- Atenção no uso dos padrão de Contribuição;
+- Maior comunicação para alinhar o pareamento;
+- Uso maior da issue como hub da sua tarefa.
 
 
-## 5. Quadro de Conhecimento
+### Quadro de Conhecimento
 ![Quadro de Conhecimento](../../assets/imagens/sprints/sprint4/quadro-conhecimento.png)
-<center>[Figura 3: Quadro de Conhecimento da Sprint 4](../../assets/imagens/sprints/sprint4/quadro-conhecimento.png)</center>
+<center>[Figura 3: Quadro de Conhecimento da Sprint](../../assets/imagens/sprints/sprint4/quadro-conhecimento.png)</center>
