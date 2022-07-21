@@ -9,7 +9,7 @@
 
 ## 2. Sprint Backlog
 
-### 2.1. Dívidas
+### Dívidas
 
 2. **Issue:** [#31 Desenvolver Documento de Visão](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/31)<br>
 **Responsáveis:** MDS + Giovanna e Hugo;<br>
@@ -22,7 +22,7 @@
 **Resultado:** <span class="tarefa-divida">Dívida</span>.
 
 
-### 2.2. Concluídas
+### Concluídas
 
 1. **Issue:** [#34 Desenvolver Plano de Contribuição](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/34)<br>
 **Responsáveis:** Hugo e Breno Henrique;<br>
@@ -68,6 +68,9 @@
 
 **Pontuação Planejada:** 27;<br>
 **Pontuação Concluída:** 17.<br>
+
+
+## 4. Retrospective
 
 ### Pontos Positivos
 - Começo do Projeto;

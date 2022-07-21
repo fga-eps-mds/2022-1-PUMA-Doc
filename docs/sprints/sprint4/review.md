@@ -12,7 +12,7 @@
 
 ## 2. Sprint Backlog
 
-### 2.1. Dívidas
+### Dívidas
 
 1. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
 **Responsáveis:** Bruno;<br>
@@ -39,7 +39,7 @@
 **Pontuação:** 8;<br>
 **Resultado:** <span class="tarefa-divida">Dívida</span>.
 
-### 2.2. Concluídas
+### Concluídas
 
 6. **Issue:** [#65 Documentar Protótipo de Alta](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/65)<br>
 **Responsáveis:** Breno Yuri e Ana;<br>
@@ -82,11 +82,11 @@
 **Pontuação Planejada:** 31;<br>
 **Pontuação Concluída:** 11.<br>
 
-## 3.1. Burndown
+### Burndown
 ![Burndown Report](../../assets/imagens/sprints/sprint4/burndown-report.png)
 <center>[Figura 1: Burndown Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint4/burndown-report.png)</center>
 
-## 3.2. Velocity
+### Velocity
 ![Velocity Report](../../assets/imagens/sprints/sprint4/velocity-report.png)
 <center>[Figura 2: Velocity Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint4/velocity-report.png)</center>
 
