@@ -12,7 +12,7 @@
 ## 2. Detalhes
 
 ### Objetivos
-- Iniciar Desenvolvimento;
+- Iniciar Desenvolvimento de Bugs;
 - Desenvolver Product Backlog;<br>
 - Finalizar o Documento de Visão;<br>
 - Finalizar o Documento de Arquitetura;<br>
@@ -21,7 +21,7 @@
 - Novos Treinamentos.<br>
 
 ### Total de Pontuação Planejada
- - 52 pontos de issues.
+ - 55 pontos de issues.
 
 ## 3. Sprint Backlog
 
@@ -59,7 +59,7 @@
 
 9. **Issue:** [#74 Resultado da Avaliação do Relatório de BugFixes](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/74)<br>
 **Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
-**Pontuação:** 5
+**Pontuação:** 2
 
 10. **Issue:** [#75 Alterar rotulo de botão editar disciplina](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/75)<br>
 **Responsáveis:** Hugo e Cabral<br>
@@ -81,10 +81,10 @@
 **Responsáveis:** Bruno, Marcelo, Samuel, Breno Henrique e Eduardo<br>
 **Pontuação:** 5
 
-15. **Issue:** [# Desenvolver Documento ROADMAP]()<br>
+15. **Issue:** [#97 Desenvolver Documento ROADMAP](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/97)<br>
 **Responsáveis:** Enzo, Cabral e Breno Yuri<br>
 **Pontuação:** 3
 
-16. **Issue:** [# Treinamento Testes]()<br>
+16. **Issue:** [#88 Treinamento Testes](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/88)<br>
 **Responsáveis:** Bruno <br>
-**Pontuação:** x
+**Pontuação:** 5
