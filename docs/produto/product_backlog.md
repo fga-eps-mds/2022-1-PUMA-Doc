@@ -46,3 +46,4 @@
 | :-: | :-: | --- | --- |
 | 20/07/2022 | 0.1 | Abertura do documento | Bruno Félix, Marcelo Santos, Breno Henrique, Eduardo Schuindt e Samuel Victor |
 | 20/07/2022 | 1.0 | Inserindo USs ao documento | Bruno Félix, Marcelo Santos, Breno Henrique, Eduardo Schuindt e Samuel Victor |
+| 21/07/2022 | 1.1 | Aprimorando Épicos e Features | Bruno Félix |
