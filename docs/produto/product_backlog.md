@@ -8,6 +8,7 @@
 | :-: | :-: |
 | E01 | Disciplina |
 | E02 | Projeto |
+| E03 | Usuário |
 
 ## Features
 | **Épico** | **ID** | **Feature** |
@@ -16,6 +17,8 @@
 | E01 | FT02 | Listar Disciplina |
 | E02 | FT03 | Criar Projeto |
 | E02 | FT04 | Listar Projetos |
+| E03 | FT05 | Cadastrar Usuário |
+| E03 | FT06 | Orientar Usuário |
 
 ## User Stories
 | **Épico** | **Feature** | **História de Usuário** | **MoSCoW** | **Pontuação** |
@@ -30,10 +33,10 @@
 | E02 | FT04 | USXX | Ordenação da tabela de projetos das disciplinas |
 | E02 | FT04 | USXX | Visualizar mensagem de não encontrado |
 | E02 | FT03 | USXX | Preencher Campos em Criar Projeto |
-| EXX | FTXX | USXX | Adicionar Opção de Voltar na Tela de Criar Projeto/ Disciplina |
-| EXX | FTXX | USXX | Adicionar nome do usuário logado |
-| EXX | FTXX | USXX | Controlar visualização da senha |
-| EXX | FTXX | USXX | Sinalizar campos obrigatórios no cadastro |
+| E03 | FT06 | USXX | Adicionar Opção de Voltar na Tela de Criar Projeto/ Disciplina |
+| E03 | FT06 | USXX | Adicionar nome do usuário logado |
+| E03 | FT05 | USXX | Controlar visualização da senha |
+| E03 | FT05 | USXX | Sinalizar campos obrigatórios no cadastro |
 
 ## Bibliografia
 
