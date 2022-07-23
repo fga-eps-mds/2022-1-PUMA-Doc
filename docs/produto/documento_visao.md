@@ -6,6 +6,7 @@
 | 0.2    | 14/07/2022 | Adição de novos tópicos | Felipe |
 | 0.3    | 15/07/2022 | Adição das imagens | Eduardo e Breno Yuri |
 | 0.4    | 23/07/2022 | Adição do iframe | Giovanna e Hugo |
+| 0.5    | 23/07/2022 | Adição de etapas com imagens lean inception | Giovanna e Hugo |
 
 
 ## Introdução
@@ -19,31 +20,41 @@ A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançame
 ### "É/ Não é" e "Faz/ Não Faz"
 Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é. [[1]](#ref1).
 
-![](../assets/imagens/documento_visao/e_naoe_faz_naofaz.png)
+![](../assets/imagens/lean_inception/e-nao-e.png)
 
 ### Objetivos do Produto
 Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo com os objetivos gerais do negócio. [[1]](#ref1).
 
-![](../assets/imagens/documento_visao/objetivos_do_produto.png)
+![](../assets/imagens/lean_inception/objetivos.png)
 
 ### Personas
 A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possíve identificar as funcionalidades do sistema por meio de representações de quem se espera obter como de usuários, auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final. [[1]](#ref1).
 Foram criadas 3 personas para este produto, conforme imagens a seguir:
 
-![](../assets/imagens/documento_visao/personas.png)
+![](../assets/imagens/lean_inception/persona1.png)
+
+![](../assets/imagens/lean_inception/persona2.png)
+
+![](../assets/imagens/lean_inception/persona3.png)
 
 ### Jornadas do Usuário
 A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns destes passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
 
-![](../assets/imagens/documento_visao/jornadas.png)
+![](../assets/imagens/lean_inception/jornada1.png)
+
+![](../assets/imagens/lean_inception/jornada2.png)
+
+![](../assets/imagens/lean_inception/jornada3.png)
 
 ### Brainstorming de funcionalidades
 Uma funcionalidade representa uma ação ou interação de um usuário com o produto. O brainstorming de funcionalidades,também chamada de tempestade de ideias, é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião na qual os participantes expõem suas sugestões e debatem sobre as contribuições do coletivo. No âmbito de software o brainstorming serve para que os participantes deem ideias de funcionalidades do produto.
 
+![](../assets/imagens/lean_inception/brainstorm.png)
 
 ### Revisão Técnica, de Negócio e de UX
 Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX (Experiência de Usuário) para cada funcionalidade. A partir desta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.
 
+![](../assets/imagens/lean_inception/revisao-tecnica.png)
 
 ### Sequenciador
 O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto. Para que seja seguida a ordem de priorização temos as seguintes regras:
@@ -55,9 +66,14 @@ O Sequenciador de funcionalidades auxilia na organização e visualização das 
 - Regra 5: A soma de valor dos cartões não pode ser menos de quatro $s e quatro corações.
 - Regra 6: Se um cartão depende de outro, esse outro deve estar em alguma onda anterior.
 
+![](../assets/imagens/lean_inception/sequenciador.png)
+
 ### Canvas MVP
 O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
 
+![](../assets/imagens/lean_inception/mvp1.png)
+
+![](../assets/imagens/lean_inception/mvp2.png)
 
 ## Lean Inception 
 
