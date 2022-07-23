@@ -101,3 +101,11 @@ body{
     margin-left: 10px;
     margin-right: 10px; 
 }
+
+.tarefa-divida{
+    color: red;
+}
+
+.tarefa-concluida{
+    color: green;
+}
