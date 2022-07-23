@@ -115,8 +115,3 @@
 - Atenção no uso dos padrão de Contribuição;
 - Maior comunicação para alinhar o pareamento;
 - Uso maior da issue como hub da sua tarefa.
-
-
-### Quadro de Conhecimento
-![Quadro de Conhecimento](../../assets/imagens/sprints/sprint4/quadro-conhecimento.png)
-<center>[Figura 3: Quadro de Conhecimento da Sprint](../../assets/imagens/sprints/sprint4/quadro-conhecimento.png)</center>

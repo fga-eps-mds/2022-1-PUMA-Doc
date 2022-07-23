@@ -13,11 +13,11 @@
 
 ### Objetivos
 - Iniciar Desenvolvimento de Bugs;
-- Desenvolver Product Backlog;<br>
+- Desenvolver Documentos: Product Backlog, EAP e ROADMAP;<br>
 - Finalizar o Documento de Visão;<br>
 - Finalizar o Documento de Arquitetura;<br>
-- Finalizar plataforma de analytics;<br>
-- Finalizar CI/CD;<br>
+- Melhorar Plano de Custo;<br>
+- Finalizar plataforma de analytics e CI/CD;<br>
 - Novos Treinamentos.<br>
 
 ### Total de Pontuação Planejada
