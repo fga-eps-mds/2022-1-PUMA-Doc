@@ -7,6 +7,7 @@
 | 10/07/2022 | 0.1    | Criação do documento e adição da introdução | Eduardo    |
 | 17/07/2022 | 0.2    | Acrescentando tópicos                       | Breno Yuri | 
 | 20/07/2022 | 0.3    | Adiciona Representação de Dados             | Breno Yuri, Eduardo, Giovanna, Felipe, Cainã | 
+| 23/07/2022 | 0.9    |  Diagrama de relações                       | Giovanna | 
 
 ### Introdução  
 
@@ -42,7 +43,13 @@ Estrutura do documento:
 
 ### Representação de relações
 
-[]()
+A imagem a seguir apresenta uma visão geral de toda a arquitetura. Representando todos os microsserviços utilizados e suas relações.
+
+![](../assets/imagens/arquitetura/diagrama-de-relacoes.png)
+
+Essa arquitetura foi desenvolvida na primeira versão do projeto e é utilizada até hoje. Para esse semestre será modificado apenas alguns serviços apresentados na imagem a seguir.
+
+![](../assets/imagens/arquitetura/diagrama-de-relacoesv2.png)
 
 ### Representação dos Serviços
 
