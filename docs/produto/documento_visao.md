@@ -7,12 +7,17 @@
 | 0.3    | 15/07/2022 | Adição das imagens | Eduardo e Breno Yuri |
 | 0.4    | 23/07/2022 | Adição do iframe | Giovanna e Hugo |
 | 0.5    | 23/07/2022 | Adição de etapas com imagens lean inception | Giovanna e Hugo |
+| 1.0    | 23/07/2022 | Revisão de documento | Hugo |
 
 
 ## Introdução
-Este documento de visão tem como objetivo apresentar o produto PUMA ultilizando o método Lean Inception. Esse método foi desenvolvido por Paulo Caroli, e visa decidir o MVP (Produto Mínimo Viável), que é o produto com o menor risco, ou seja, menor esforço de desenvolvimento, mas que direciona a equipe para o desenvolvimento do produto ideal. Isso com base em workshops divididos em etapas para definição do produto ideal. É desenvolvido de forma colaborativa, resultando numa aprimoração no relacionamento entre membros de equipe e de um produto mais elaborado devido as diversas colocações durante o processo. Por esses benefícios foi escolhido para ser usado no projeto. [[1]](#ref1).
+
+Este documento tem como objetivo apresentar o produto PUMA, utilizando o método Lean Inception. Esse método foi desenvolvido por Paulo Caroli, e visa construir o MVP (Produto Mínimo Viável), que é o produto com o menor risco, ou seja, menor esforço de desenvolvimento, que direciona a equipe para o desenvolvimento do produto ideal.
+
+É desenvolvido de forma colaborativa, dividindo as etapas em <i>workshops</i>, e resultando em um aprimoramento do relacionamento entre membros de equipe e de um produto mais elaborado devido às diversas colocações durante o processo [[1]](#ref1).
 
 ### Visão do Produto
+
 A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes. [[1]](#ref1).
 
 ![](../assets/imagens/lean_inception/visao.png)
@@ -23,21 +28,28 @@ Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Es
 ![](../assets/imagens/lean_inception/e-nao-e.png)
 
 ### Objetivos do Produto
-Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo com os objetivos gerais do negócio. [[1]](#ref1).
+
+Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo c/om os objetivos gerais do negócio. [[1]](#ref1).
 
 ![](../assets/imagens/lean_inception/objetivos.png)
 
 ### Personas
-A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possíve identificar as funcionalidades do sistema por meio de representações de quem se espera obter como de usuários, auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final. [[1]](#ref1).
+
+A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possível identificar as funcionalidades do sistema, trazendo as necessidades da persona e auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final. [[1]](#ref1).
+
 Foram criadas 3 personas para este produto, conforme imagens a seguir:
 
-![](../assets/imagens/lean_inception/persona1.png)
+<b>Persona 1</b>
+![Persona 1](../assets/imagens/lean_inception/persona1.png)
 
+<b>Persona 2</b>
 ![](../assets/imagens/lean_inception/persona2.png)
 
+<b>Persona 3</b>
 ![](../assets/imagens/lean_inception/persona3.png)
 
 ### Jornadas do Usuário
+
 A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns destes passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
 
 ![](../assets/imagens/lean_inception/jornada1.png)
@@ -52,11 +64,13 @@ Uma funcionalidade representa uma ação ou interação de um usuário com o pro
 ![](../assets/imagens/lean_inception/brainstorm.png)
 
 ### Revisão Técnica, de Negócio e de UX
+
 Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX (Experiência de Usuário) para cada funcionalidade. A partir desta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.
 
 ![](../assets/imagens/lean_inception/revisao-tecnica.png)
 
 ### Sequenciador
+
 O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto. Para que seja seguida a ordem de priorização temos as seguintes regras:
 
 - Regra 1: Uma onda pode conter no máximo três cartões.
