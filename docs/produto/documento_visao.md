@@ -5,6 +5,7 @@
 | 0.1    | 13/07/2022 | Abertura do documento | Felipe, Giovanna e Breno Henrique |
 | 0.2    | 14/07/2022 | Adição de novos tópicos | Felipe |
 | 0.3    | 15/07/2022 | Adição das imagens | Eduardo e Breno Yuri |
+| 0.4    | 23/07/2022 | Adição do iframe | Giovanna e Hugo |
 
 
 ## Introdução
@@ -13,7 +14,7 @@ Este documento de visão tem como objetivo apresentar o produto PUMA ultilizando
 ### Visão do Produto
 A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes. [[1]](#ref1).
 
-![](../assets/imagens/documento_visao/Visao_do_produto.png)
+![](../assets/imagens/lean_inception/visao.png)
 
 ### "É/ Não é" e "Faz/ Não Faz"
 Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é. [[1]](#ref1).
@@ -60,8 +61,13 @@ O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estr
 
 ## Lean Inception 
 
-<!-- <iframe src="" width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox"></iframe>
--->
+<iframe src='https://app.mural.co/embed/bafdeee6-4d4a-4ce4-a9fe-1791d3bf528a'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
 ## Referências
 
 
