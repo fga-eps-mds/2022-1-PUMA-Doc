@@ -7,19 +7,20 @@
 | 10/07/2022 | 0.1    | Criação do documento e adição da introdução | Eduardo    |
 | 17/07/2022 | 0.2    | Acrescentando tópicos                       | Breno Yuri | 
 | 20/07/2022 | 0.3    | Adiciona Representação de Dados             | Breno Yuri, Eduardo, Giovanna, Felipe, Cainã | 
-| 23/07/2022 | 0.9    |  Diagrama de relações                       | Giovanna | 
+| 23/07/2022 | 0.9    | Diagrama de relações                        | Giovanna | 
+| 23/07/2022 | 1.0    | Revisão de documento                        | Hugo     |
 
 ### Introdução  
 
-<p  align="justify">    Este documento tem como função explicar e exemplificar a arquitetura de software utilizada no desenvolvimento do projeto PUMA, afim de garantir uma maior facilidade na visualização dos requisitos e da estrutura para os desenvolvedores.</p>
-
 #### Finalidade  
 
-<p  align="justify">    Fazendo um projeto da arquitetura do projeto PUMA, possibilitará uma visão ampla da arquitetura do projeto. Portanto esse documento tem como finalidade mostrar as decisões tomadas pela equipe no desenvolvimento PUMA.</p>
+<p  align="justify"> Este documento tem como finalidade especificar e documentar as decisões arquiteturais do software PUMA, usando diferentes visões arquiteturais para detalhar diferentes aspectos do sistema.</p>
 
 #### Escopo
 
-<p  align="justify">    O PUMA tem como principal função dar suporte para a Engenharia de Produção, sendo no auxilio na seleção de times, propostas, projetos e feedbacks aos agentes externos. Neste documento será exposto os padrões arquiteturais utilizados no desenvolvimento do projeto. Será apresentado neste documento a lógica de construção do sistema, tecnologias utilizadas, implementação e frameworks.</p>
+<p  align="justify">    O PUMA tem como principal função dar suporte para o curso de Engenharia de Produção da Universidade de Brasília, possibilitando a seleção de grupos, cadastrar propostas de projetos, monitorar de disciplinas e receber feedbacks dos <i>stakeholders</i>.</p> 
+
+<p  align="justify"> Neste documento serão expostos os padrões arquiteturais utilizados no desenvolvimento do projeto. Será apresentado neste documento a lógica de construção do sistema, tecnologias utilizadas, implementação e frameworks.</p>
 
 #### Visão Geral
 
@@ -55,16 +56,16 @@ Essa arquitetura foi desenvolvida na primeira versão do projeto e é utilizada 
 
 #### Front End
 
-O front end é a interface onde o usuário irá se comunicar com o sistema. É composto por uma tela de cadastro e outra de registro, o que leva à página inicial do PUMA, a página de perfil de usuário. Nesse ponto, há a possibilidade de seguir diversos caminhos dentro do sistema, como as páginas de cadastro de proposta, avaliação de proposta e repositório de projetos [[2]](#ref2).
+O <i>Front End</i> é a interface onde o usuário irá se comunicar com o sistema. É composto por uma tela de cadastro e outra de registro, o que leva à página inicial do PUMA, a página de perfil de usuário. Nesse ponto, há a possibilidade de seguir diversos caminhos dentro do sistema, como as páginas de cadastro de proposta, avaliação de proposta e repositório de projetos [[2]](#ref2).
 
 
 #### API Gateway
 
-O API Gateway é utilizado como um mutex para a comunicação entre a interface de usuário e os outros micro-serviços. Dessa forma, ao receber uma requisição o gateway atua como uma ponte entre o front end e o serviço desejado [[2]](#ref2).
+O <i>API Gateway</i> é utilizado como um mutex para a comunicação entre a interface de usuário e os outros micro-serviços. Dessa forma, ao receber uma requisição o <i>gateway</i> atua como uma ponte entre o <i>front end</i> e o serviço desejado [[2]](#ref2).
 
 #### Project-Service
 
-O serviço "Project-Service" foi planejado para lidar com todas as tarefas envolvendo projetos do sistema. Assim, o envio de propostas, o encaminhamento para o professor / disciplina adequada e as possíveis alterações nos projetos seriam todas tarefas para o Project-Service resolver [[2]](#ref2).
+O serviço <i>Project-Service</i> foi planejado para lidar com todas as tarefas envolvendo projetos do sistema. Assim, o envio de propostas, o encaminhamento para o professor/disciplina adequada e as possíveis alterações nos projetos seriam todas tarefas para o <i>Project-Service</i> resolver [[2]](#ref2).
 
 #### User-Service
 
@@ -74,19 +75,19 @@ Desenvolvido para manter o controle de usuários, desde sua criação até o con
 
 #### Vue.js 
 
-Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única [[6]](#ref6). 
+<i>Vue.js</i> é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única [[6]](#ref6). 
 
 #### Node.js
 
-Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web [[4]](#ref4). 
+<i>Node.js</i> é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web [[4]](#ref4). 
 
 #### PostgreSQL 
 
-PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto [[5]](#ref5).
+<i>PostgreSQL</i> é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto [[5]](#ref5).
 
 #### Docker
 
-Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração [[3]](#ref3).
+<i>Docker</i> é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração [[3]](#ref3).
 
 #### Docker Compose
 
