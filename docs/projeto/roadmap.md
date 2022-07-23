@@ -17,6 +17,4 @@
 
 ## Referências
 
-- GABRIEL, Enzo; BARCELOS, Daniel; DIAS, Emily; PORTO, Daniel; RÓGERES, Denys. Vamos Cuidar - Roadmap. Disponível em: https://fga-eps-mds.github.io/2020.1-VC_Usuario/#/docs/Roadmap. Acesso em 22 jul 2022.
-
 - PEREIRA, Mateus. Conheça o roadmap: a ferramenta que auxilia no desenvolvimento de projetos. Disponível em: https://blog.runrun.it/o-que-e-roadmap/#a. Acesso em 22 jul 2022.
