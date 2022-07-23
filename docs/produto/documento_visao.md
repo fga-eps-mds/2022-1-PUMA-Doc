@@ -73,16 +73,17 @@ Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao 
 
 O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto. Para que seja seguida a ordem de priorização temos as seguintes regras:
 
-- Regra 1: Uma onda pode conter no máximo três cartões.
-- Regra 2: Uma onda não pode conter mais de uma cartão vermelho.
-- Regra 3: Uma onda não pode conter três cartões somente amarelos ou vermelhos.
-- Regra 4: A soma de esforço dos cartões não pode ultrapassar cinco 'E's.
-- Regra 5: A soma de valor dos cartões não pode ser menos de quatro $s e quatro corações.
-- Regra 6: Se um cartão depende de outro, esse outro deve estar em alguma onda anterior.
+- **Regra 1**: Uma onda pode conter no máximo três cartões.
+- **Regra 2**: Uma onda não pode conter mais de uma cartão vermelho.
+- **Regra 3**: Uma onda não pode conter três cartões somente amarelos ou vermelhos.
+- **Regra 4**: A soma de esforço dos cartões não pode ultrapassar cinco 'E's.
+- **Regra 5**: A soma de valor dos cartões não pode ser menos de quatro $s e quatro corações.
+- **Regra 6**: Se um cartão depende de outro, esse outro deve estar em alguma onda anterior.
 
 ![](../assets/imagens/lean_inception/sequenciador.png)
 
 ### Canvas MVP
+
 O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
 
 ![](../assets/imagens/lean_inception/mvp1.png)
