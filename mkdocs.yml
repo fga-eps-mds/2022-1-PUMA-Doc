@@ -11,7 +11,8 @@ theme:
 
 nav:
     - Home: index.md
-    - Produto: 
+    - Produto:
+        - Visão do produto: produto/documento_visao.md
         - Documento de Arquitetura: produto/doc_arquitetura.md
         - Protótipo de Alta Fidelidade: produto/prototipo_de_alta.md
     - Projeto:
@@ -30,5 +31,9 @@ nav:
             - Planning sprint 2: sprints/sprint2/planning.md
         - Sprint 3:
             - Planning sprint 3: sprints/sprint3/planning.md
+            - Review sprint 3: sprints/sprint3/review.md
         - Sprint 4:
             - Planning sprint 4: sprints/sprint4/planning.md
+            - Review sprint 4: sprints/sprint4/review.md
+        - Sprint 5:
+            - Planning sprint 5: sprints/sprint5/planning.md
