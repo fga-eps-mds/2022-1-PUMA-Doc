@@ -13,7 +13,7 @@
 
 ## Roadmap
 
-<iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQmpkGOKgmA7R4bmQt4xoP1hT90Ly7dUtYgwi7KXWmVyZOLowOg4xbZ69de4oHSarA17hcf3QD_fad/pubhtml"></iframe>
+<iframe width="1000" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQmpkGOKgmA7R4bmQt4xoP1hT90Ly7dUtYgwi7KXWmVyZOLowOg4xbZ69de4oHSarA17hcf3QD_fad/pubhtml"></iframe>
 
 ## Referências
 
