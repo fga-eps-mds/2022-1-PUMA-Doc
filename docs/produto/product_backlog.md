@@ -9,6 +9,7 @@
 | E01 | Disciplina |
 | E02 | Projeto |
 | E03 | Usuário |
+| E04 | Home |
 
 ## Features
 | **Épico** | **ID** | **Feature** |
@@ -37,6 +38,10 @@
 | E03 | FT06 | USXX | Adicionar nome do usuário logado |
 | E03 | FT05 | USXX | Controlar visualização da senha |
 | E03 | FT05 | USXX | Sinalizar campos obrigatórios no cadastro |
+| E04 | FTXX | USXX | Eu, como usuário, gostaria de visualizar os idealizadores e desenvolvedores da plataforma |
+| E04 | FTXX | USXX | Eu, como usuário, gostaria de visualizar os propósitos da plataforma |
+| E04 | FTXX | USXX | Eu, como usuário, gostaria de visualizar um resumo da história de desenvolvimento da plataforma |
+| E04 | FTXX | USXX | Eu, como usuário, gostaria de visualizar os projetos que já passaram pela plataforma e seus resultados |
 
 ## Bibliografia
 
