@@ -11,10 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           pip3 install requests && python3 metrics_file.py ${{github.event.client_payload.repo_name}} ${{github.event.client_payload.version}}
-          git config --global user.email "${{secrets.CI_EMAIL}}"
-          git config --global user.name "${{secrets.CI_USERNAME}}"
-          git pull
           git add .
-          git commit -m "Generating sonarcloud metrics ${{github.event.client_payload.repo_name}} v${{github.event.client_payload.version}}"
+          git commit -m "Gerando métricas SonarCloud ${{github.event.client_payload.repo_name}} v${{github.event.client_payload.version}}"
           git push
           echo "Metrics File Generated Successfully."
