@@ -174,14 +174,14 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 | RC    | ENUM | Utilizado quando a proposta for recusada por um professor/administrador.           |
 | IC    | ENUM | Utilizado quando a proposta for incluída para o semestre de alguma disciplina.     |
 | EX    | ENUM | Utilizado quando o(s) time(s) designado(s) inicia(m) o desenvolvimento do projeto. |
-| EC    | ENUM | Utilizado quando o desenvolvimento do proejto for concluído.                       |
+| EC    | ENUM | Utilizado quando o desenvolvimento do projeto for concluído.                       |
 
 
 #### SEMESTER
 
 | Sigla | Tipo | Descrição                                |
 | ----- | ---- | ---------------------------------------- |
-| AD    | ENUM | Para os semestres eu estão em andamento. |
+| AD    | ENUM | Para os semestres que estão em andamento. |
 | CD    | ENUM | Para os semestres concluídos.            |
 
 
