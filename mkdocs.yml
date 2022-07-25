@@ -11,8 +11,9 @@ theme:
 
 nav:
     - Home: index.md
-    - Produto: 
+    - Produto:
         - Visão do produto: produto/documento_visao.md
+        - Documento de Arquitetura: produto/doc_arquitetura.md
         - Protótipo de Alta Fidelidade: produto/prototipo_de_alta.md
     - Projeto:
         - Quadro de Conhecimento: projeto/quadro_de_conhecimento.md
