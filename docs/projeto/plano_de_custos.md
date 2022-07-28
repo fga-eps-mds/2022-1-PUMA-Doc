@@ -44,7 +44,7 @@ Há o gasto diário de energia, associado ao tempo que cada desenvolvedor irá g
 
 ### Custo com hospedagem na nuvem
 
-Nesse projeto é necessario levar em conta o custo de publicação na nuvem. Foi pensado em valores base de hospedagem cobrada em Dólar americano e foi feita uma equivalência com a cotação do dia 28 de julho de 2022 para R$99,64 mensais no [netlify](https://www.netlify.com/pricing/), na opção PRO.
+Nesse projeto é necessario levar em conta o custo de publicação na nuvem. Foi pensado em valores base de hospedagem cobrada em Dólar americano e foi feita uma equivalência com a cotação do dia 28 de julho de 2022 para R$99,64 mensais.
 
 <p style="text-align: center; background-color: lightgray; margin: 2em;">Custo hospedagem = (valorHospedagem X qtdMeses)</p>
 
