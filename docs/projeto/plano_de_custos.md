@@ -8,6 +8,7 @@
 | 0.4    | 28/07/2022 | Adição de custo de hospedagem | Giovanna |
 | 0.5    | 28/07/2022 | Adição de EVM | Giovanna |
 | 0.6    | 28/07/2022 | Retira inglês de EVM | Giovanna |
+| 0.7    | 28/07/2022 | Adiciona planilha EVM | Giovanna e Marcelo |
 
 ## Introdução
 
@@ -106,6 +107,9 @@ Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, p
 * SC	- Orçamento gasto por Sprint
 * TSC	- Total de Sprints Concluídas
 * TSE	- Total de Sprints Estimadas
+
+### Planilha EVM
+<iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform:scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQRhanQHg-5c_-EcjrciTQnGJkHgv3BZQZGXix11V6Rjmr7e4C9-IT84_H7ctLwXFOiciw6j1ZAHexT/pubhtml"></iframe>
 
 ## Referências 
 
