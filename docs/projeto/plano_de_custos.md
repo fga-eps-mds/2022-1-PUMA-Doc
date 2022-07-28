@@ -7,6 +7,7 @@
 | 0.3    | 22/07/2022 | Adição de descrições e melhorias | Ana Hoffmann |
 | 0.4    | 28/07/2022 | Adição de custo de hospedagem | Giovanna |
 | 0.5    | 28/07/2022 | Adição de EVM | Giovanna |
+| 0.6    | 28/07/2022 | Retira inglês de EVM | Giovanna |
 
 ## Introdução
 
@@ -89,20 +90,20 @@ Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, p
 
 #### Parâmetros das Releases
 
-* PRP	– Planned Release Points - Pontos Planejados por Release
-* RPC	– Completed Release Points - Pontos Concluídos por Release
-* BAC	– Bugeted Cost at Completion - Orçamento estimado por Release
-* AC	– Actual Cost - Custo até o momento
-* PV	– Planned Value - Valor Planejado por Release
-* EV	– Earned Value - Valor Agregado por Release
+* PRP	– Pontos Planejados por Release
+* RPC	– Pontos Concluídos por Release
+* BAC	– Orçamento estimado por Release
+* AC	– Custo até o momento
+* PV	– Valor Planejado por Release
+* EV	– Valor Agregado por Release
 
 #### Parâmetros das Sprints
 
-* PP	- Planned Points - Pontos Planejados por Sprint
-* PC	- Points Completed - Pontos Concluídos por Sprint
-* PI	- Incompleted Points - Pontos Incompletos por Sprint
-* AP	- Added Points - Pontos Adicionados por Sprint
-* SC	- Sprint's Cost - Orçamento gasto por Sprint
+* PP	- Pontos Planejados por Sprint
+* PC	- Pontos Concluídos por Sprint
+* PI	- Pontos Incompletos por Sprint
+* AP	- Pontos Adicionados por Sprint
+* SC	- Orçamento gasto por Sprint
 * TSC	- Total de Sprints Concluídas
 * TSE	- Total de Sprints Estimadas
 
