@@ -2,9 +2,11 @@
 
 | Versão | Data       | Descrição | Autores |
 | ------ | ---------- | --------- | ------- |
-| 1.0    | 11/07/2022 | Abertura do documento | Ana Hoffmann e Marcelo |
-| 1.1    | 16/07/2022 | Adição de planilha dinâmica | Marcelo |
-| 1.2    | 22/07/2022 | Adição de descrições e melhorias | Ana Hoffmann |
+| 0.1    | 11/07/2022 | Abertura do documento | Ana Hoffmann e Marcelo |
+| 0.2    | 16/07/2022 | Adição de planilha dinâmica | Marcelo |
+| 0.3    | 22/07/2022 | Adição de descrições e melhorias | Ana Hoffmann |
+| 0.4    | 28/07/2022 | Adição de custo de hospedagem | Giovanna |
+| 0.5    | 28/07/2022 | Adição de EVM | Giovanna |
 
 ## Introdução
 
@@ -16,7 +18,7 @@ Por fim, note que não há estimativa de custos para publicação do produto e, 
 
 ## Custo com Pessoal
 
-Considerando que a equipe é formada por 13 membros matriculados em Engenharia de Software na Universidade de Brasília, e utilizando informações presentes no inforgráfico disponibilizado em [O Globo](https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html), têm-se que o custo por aluno em tal universidade, no ano de 2016, foi de R$ 38.805,00. Convertendo o valor anual para mensal e diário, têm-se, respectivamente, R$3.233,75 e R$104,31.
+Considerando que a equipe é formada por 13 membros matriculados em Engenharia de Software na Universidade de Brasília, e utilizando informações presentes no inforgráfico disponibilizado em [O Globo](https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html), têm-se que o custo por aluno em tal universidade, no ano de 2016, foi de R$ 38.805,00. Convertendo o valor anual para mensal e diário, têm-se, respectivamente, R$3.233,75 e R$104,31 [[2]](#ref2).
 
 É importante destacar que a jornada de trabalho será de 30 horas semanais, ou seja, 5 horas diárias. Assim, o cálculo do custo total com os desenvolvedores será dado por:
 
@@ -32,9 +34,9 @@ As configurações recomendadas de hardware para este projeto são: i5 de 10a ge
 
 ## Custo com Serviços
 
-O desenvolvimento do projeto exige conexão estável com a internet, sendo, portanto, recomendada a contratação de um pacote de internet por operadora. Há ofertas de planos de conexão para uso individual a partir de R$79,90 mensais. O plano escolhido tem custo de R$99,90 mensais e oferece 400MB.
+O desenvolvimento do projeto exige conexão estável com a internet, sendo, portanto, recomendada a contratação de um pacote de internet por operadora. Há ofertas de planos de conexão para uso individual a partir de R$79,90 mensais. O plano escolhido tem custo de R$99,90 mensais e oferece 400MB [[3]](#ref3).
 
-Há o gasto diário de energia, associado ao tempo que cada desenvolvedor irá gastar no projeto. A planilha leva como base a tarifa de R$0,57, representada na seção B1 - Residencial [deste documento](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf) para cálculo do consumo.
+Há o gasto diário de energia, associado ao tempo que cada desenvolvedor irá gastar no projeto. A planilha leva como base a tarifa de R$0,57, representada na seção B1 - Residencial [deste documento](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf) para cálculo do consumo [[4]](#ref4).
 
 <p style="text-align: center; background-color: lightgray; margin: 2em;">custoServiços = (valorInternet X qtdMeses X qtdPessoas) + (valorEnergia X qtdHorasPessoas X qtdPessoas)</p>
 
@@ -53,14 +55,72 @@ Os custos acima são referentes unicamente aos gastos durante o semestre atual, 
 
 ## Metodologia Utilizada
 
-## Planilha de Custo do Produto
+### Gerenciamento de Valor Agregado (EVM – Earned Value Management)
 
-<!-- <iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform:scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTC4ZzWCCuY3Tg95AruukpsHFe1irj-x9_wWBihO6ZthOh03CDklZQdLr1fzqwAXxCEQq813CU9y58w/pubhtml"></iframe> -->
+A Análise do Valor Agregado é um método de mensuração do desempenho desenvolvido pelo departamento de defesa dos EUA. Usado para estabelecer padrões de análise de contratos que considerassem não somente os custos e prazos mas também a performance e a eficiência do projeto [[1]](#ref1), [[5]](#ref5).
 
-## Referências
+Ele usa algumas informações como:
 
-Planos de Internet em Brasília. Acesso em Jul. 2022. Disponível em: [https://podecomparar.com.br/telecom/internet](https://podecomparar.com.br/telecom/internet)
+1. Quantas Sprints ou Iterações tem o seu projeto ou release
+2. Quantas Sprints ou Iterações foram concluídas até o momento
+3. Qual o total de esforço para concluir o seu projeto ou release (seja em horas, seja em pontos ou outra métrica)
+4. Qual o esforço concluído (Done) até o momento
+5. Qual o orçamento do projeto ou release
+6. Quanto foi gasto até o momento
 
-Infográfico O Globo: Ranking do custo anual por aluno nas federais (2016). Acesso em Jul. 2022. Disponível em: [https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html]( https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html)
+Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, para cada release tem também das sprints: 
 
-Tabela de Tarifas de Energia Elétrica. Acesso em Jul. 2022. Disponível em: [https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf)
+#### Parâmetros EVM 
+
+* BAC – Orçamento estimado para a Release, detalhado na tabela de custos
+* AC = EV / BAC – Custo até o momento
+* PV = BAC * (TSC / TSE) – Valor Planejado
+* EV = BAC * (RPC / PRP) – Valor Agregado
+* CPI = EV / AC – Índice de Desempenho de Custos
+* CPV = EV - AC – Variação de Desempenho de Custo
+* SPI = EV / PV – Índice de Desempenho de Prazo
+* SPV = EV - PV – Variação de Desempenho de Prazo
+
+#### Parâmetros Gerais do Projeto
+* CPI – Índice de Desempenho de Custos
+* SPI – Índice de Desempenho de Prazo
+* CPV – Variação de Desempenho de Custo
+* SPV – Variação de Desempenho de Prazo
+
+#### Parâmetros das Releases
+
+* PRP	– Planned Release Points - Pontos Planejados por Release
+* RPC	– Completed Release Points - Pontos Concluídos por Release
+* BAC	– Bugeted Cost at Completion - Orçamento estimado por Release
+* AC	– Actual Cost - Custo até o momento
+* PV	– Planned Value - Valor Planejado por Release
+* EV	– Earned Value - Valor Agregado por Release
+
+#### Parâmetros das Sprints
+
+* PP	- Planned Points - Pontos Planejados por Sprint
+* PC	- Points Completed - Pontos Concluídos por Sprint
+* PI	- Incompleted Points - Pontos Incompletos por Sprint
+* AP	- Added Points - Pontos Adicionados por Sprint
+* SC	- Sprint's Cost - Orçamento gasto por Sprint
+* TSC	- Total de Sprints Concluídas
+* TSE	- Total de Sprints Estimadas
+
+## Referências 
+
+<a id="ref1"></a>
+[1] Hiflex consultoria. Gerenciamento De Valor Agregado (EVM) Em Projetos Ágeis. Acesso em Jul. 2022. Disponível em: https://hiflexconsultoria.com.br/gerenciamento-de-valor-agregado-evm-em-projetos-ageis/
+
+<a id="ref2"></a>
+[2] Infográfico O Globo: Ranking do custo anual por aluno nas federais (2016). Acesso em Jul. 2022. Disponível em: [https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html]( https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html)
+
+
+<a id="ref3"></a>
+[3] Planos de Internet em Brasília. Acesso em Jul. 2022. Disponível em: [https://podecomparar.com.br/telecom/internet](https://podecomparar.com.br/telecom/internet)
+
+
+<a id="ref4"></a>
+[4] Tabela de Tarifas de Energia Elétrica. Acesso em Jul. 2022. Disponível em: [https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf)
+
+<a id="ref5"></a>
+[5] VEC. Análise de Valor Agregado (EVM) em Projetos: Conheça e aprenda a calcular. Acesso em Jul. 2022. Disponível em:http://valorecompetencia.com.br/gestao_de_projetos/analise-de-valor-agregado-evm-em-projetos-conheca-e-aprenda-a-calcular
