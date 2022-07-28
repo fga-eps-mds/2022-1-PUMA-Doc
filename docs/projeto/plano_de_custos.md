@@ -38,8 +38,14 @@ Há o gasto diário de energia, associado ao tempo que cada desenvolvedor irá g
 
 <p style="text-align: center; background-color: lightgray; margin: 2em;">custoServiços = (valorInternet X qtdMeses X qtdPessoas) + (valorEnergia X qtdHorasPessoas X qtdPessoas)</p>
 
+### Custo com hospedagem na nuvem
+
+Nesse projeto é necessario levar em conta o custo de publicação na nuvem. Foi pensado em valores base de hospedagem cobrada em Dólar americano e foi feita uma equivalência com a cotação do dia 28 de julho de 2022 para R$99,64 mensais no [netlify](https://www.netlify.com/pricing/), na opção PRO.
+
+<p style="text-align: center; background-color: lightgray; margin: 2em;">Custo hospedagem = (valorHospedagem X qtdMeses)</p>
+
 ## Planilha de Custos de Base
-<iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform:scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-uoHT7nQ1_pbrrsAzkZMbWH6IKPO05uSthJbX1kUIjEyupD0MX2sOnP8ApCiUyqlwJE7tpYc42EZ0/pubhtml"></iframe>
+<iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform:scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQukIJxgB9rI68ySzAPsyFXSLf-TOnjljPT126DsTgey6jvmTDPSt6SI3f2JQbID0QiFhQC6p8Hdioz/pubhtml"></iframe>
 
 ## Custo Total
 
