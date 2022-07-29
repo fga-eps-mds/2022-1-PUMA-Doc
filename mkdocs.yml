@@ -23,6 +23,7 @@ nav:
         - Plano de custos: projeto/plano_de_custos.md
         - Metodologia: projeto/metodologia.md
         - Estrutura Analítica do Projeto: projeto/eap.md
+        - Roadmap: projeto/roadmap.md
     - Sprints:
         - Sprint 0:
             - Planning sprint 0: sprints/sprint0/planning.md
