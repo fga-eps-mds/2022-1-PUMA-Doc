@@ -75,9 +75,7 @@ O Sequenciador de funcionalidades auxilia na organização e visualização das 
 
 O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
 
-![](../assets/imagens/lean_inception/mvp1.png)
-
-![](../assets/imagens/lean_inception/mvp2.png)
+![](../assets/imagens/lean_inception/mvp-canvas.png)
 
 ## Lean Inception 
 
@@ -103,3 +101,4 @@ O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estr
 | 0.5    | 23/07/2022 | Adição de etapas com imagens lean inception | Giovanna e Hugo |
 | 1.0    | 23/07/2022 | Revisão de documento | Hugo |
 | 1.1    | 31/07/2022 | Atualiza Brainstorm e 'Revisão Técnica' | Hugo |
+| 1.2    | 31/07/2022 | Atualiza Canvas e Sequenciador | Hugo |
