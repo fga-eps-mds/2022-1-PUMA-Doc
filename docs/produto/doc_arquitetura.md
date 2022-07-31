@@ -47,10 +47,12 @@ Estrutura do documento:
 A imagem a seguir apresenta uma visão geral de toda a arquitetura. Representando todos os microsserviços utilizados e suas relações.
 
 ![](../assets/imagens/arquitetura/diagrama-de-relacoes.png)
+<center>[Figura 1: Visão Geral da Arquitetura](../assets/imagens/arquitetura/diagrama-de-relacoes.png)</center>
 
 Essa arquitetura foi desenvolvida na primeira versão do projeto e é utilizada até hoje. Para esse semestre será modificado apenas alguns serviços apresentados na imagem a seguir.
 
 ![](../assets/imagens/arquitetura/diagrama-de-relacoesv2.png)
+<center>[Figura 2: Escopo de Arquitetura do Semestre](../assets/imagens/arquitetura/diagrama-de-relacoesv2.png)</center>
 
 ### Representação dos Serviços
 
@@ -157,10 +159,12 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 #### Diagrama Entidade-Relacionamento
 
 ![](../assets/imagens/arquitetura/DER.png)
+<center>[Figura 3: Diagrama Entidade-Relacionamento](../assets/imagens/arquitetura/DER.png)</center>
 
 #### Diagrama Lógico de Dados
 
 ![](../assets/imagens/arquitetura/DLD.png)
+<center>[Figura 4: Diagrama Lógico de Dados](../assets/imagens/arquitetura/DLD.png)</center>
 
 #### Dicionario de Dados
 
