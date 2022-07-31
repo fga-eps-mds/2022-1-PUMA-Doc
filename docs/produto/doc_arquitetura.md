@@ -1,18 +1,5 @@
 # Documento de Arquitetura
-
-## Histórico de Revisão
-
-| Data       | Versão | Modificação | Autor |
-| :--------- | :----- | :---------- | :---- |
-| 10/07/2022 | 0.1    | Criação do documento e adição da introdução | Eduardo    |
-| 17/07/2022 | 0.2    | Acrescentando tópicos                       | Breno Yuri | 
-| 20/07/2022 | 0.3    | Adiciona Representação de Dados             | Breno Yuri, Eduardo, Giovanna, Felipe, Cainã | 
-| 23/07/2022 | 0.9    | Diagrama de relações                        | Giovanna | 
-| 23/07/2022 | 1.0    | Revisão de documento                        | Hugo     |
-
-### Introdução  
-
-#### Finalidade  
+### Introdução 
 
 <p  align="justify"> Este documento tem como finalidade especificar e documentar as decisões arquiteturais do software PUMA, usando diferentes visões arquiteturais para detalhar diferentes aspectos do sistema.</p>
 
@@ -216,3 +203,14 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 
 <a id="ref6"></a>
 [6] WIKIPEDIA. Vue.js. Disponível em: https://pt.wikipedia.org/wiki/Vue.js. Acesso em 20 Jul 2022.
+
+## Histórico de Revisão
+
+| Data       | Versão | Modificação | Autor |
+| :--------- | :----- | :---------- | :---- |
+| 10/07/2022 | 0.1    | Criação do documento e adição da introdução | Eduardo    |
+| 17/07/2022 | 0.2    | Acrescentando tópicos                       | Breno Yuri | 
+| 20/07/2022 | 0.3    | Adiciona Representação de Dados             | Breno Yuri, Eduardo, Giovanna, Felipe, Cainã | 
+| 23/07/2022 | 0.9    | Diagrama de relações                        | Giovanna | 
+| 23/07/2022 | 1.0    | Revisão de documento                        | Hugo     |
+| 31/07/2022 | 1.1    | Padronização do documento                   | Hugo     |
