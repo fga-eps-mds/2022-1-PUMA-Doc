@@ -1,15 +1,4 @@
 # Documento Visão
-
-| Versão | Data       | Descrição | Autores |
-| ------ | ---------- | --------- | ------- |
-| 0.1    | 13/07/2022 | Abertura do documento | Felipe, Giovanna e Breno Henrique |
-| 0.2    | 14/07/2022 | Adição de novos tópicos | Felipe |
-| 0.3    | 15/07/2022 | Adição das imagens | Eduardo e Breno Yuri |
-| 0.4    | 23/07/2022 | Adição do iframe | Giovanna e Hugo |
-| 0.5    | 23/07/2022 | Adição de etapas com imagens lean inception | Giovanna e Hugo |
-| 1.0    | 23/07/2022 | Revisão de documento | Hugo |
-
-
 ## Introdução
 
 Este documento tem como objetivo apresentar o produto PUMA, utilizando o método Lean Inception. Esse método foi desenvolvido por Paulo Caroli, e visa construir o MVP (Produto Mínimo Viável), que é o produto com o menor risco, ou seja, menor esforço de desenvolvimento, que direciona a equipe para o desenvolvimento do produto ideal.
@@ -104,3 +93,13 @@ O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estr
 
 <a id="ref1"></a>
 [1] CAROLI, Paulo. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. Caroli. Disponível em <https://www.caroli.org/livro/lean-inception/>. Acesso em: 13 de Julho de 2022.
+
+| Versão | Data       | Descrição | Autores |
+| ------ | ---------- | --------- | ------- |
+| 0.1    | 13/07/2022 | Abertura do documento | Felipe, Giovanna e Breno Henrique |
+| 0.2    | 14/07/2022 | Adição de novos tópicos | Felipe |
+| 0.3    | 15/07/2022 | Adição das imagens | Eduardo e Breno Yuri |
+| 0.4    | 23/07/2022 | Adição do iframe | Giovanna e Hugo |
+| 0.5    | 23/07/2022 | Adição de etapas com imagens lean inception | Giovanna e Hugo |
+| 1.0    | 23/07/2022 | Revisão de documento | Hugo |
+| 1.1    | 31/07/2022 | Atualiza Brainstorm e 'Revisão Técnica' | Hugo |
