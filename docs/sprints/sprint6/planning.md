@@ -98,3 +98,7 @@
 18. **Issue:** [#108 Replanejar Funcionalidades, Sequenciador e Canvas e Escopo do Projeto](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/108)<br>
 **Responsáveis:** Bruno, Enzo e Hugo<br>
 **Pontuação:** 13
+
+19. **Issue:** [#61 Revisar Documentação](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/61)<br>
+**Responsáveis:** Hugo<br>
+**Pontuação:** 1
