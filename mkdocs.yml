@@ -24,18 +24,18 @@ nav:
         - Metodologia: projeto/metodologia.md
         - Estrutura Analítica do Projeto: projeto/eap.md
         - Roadmap: projeto/roadmap.md
-    - Sprints:
-        - Sprint 0:
-            - Planning sprint 0: sprints/sprint0/planning.md
-        - Sprint 1:
-            - Planning sprint 1: sprints/sprint1/planning.md
-        - Sprint 2:
-            - Planning sprint 2: sprints/sprint2/planning.md
-        - Sprint 3:
-            - Planning sprint 3: sprints/sprint3/planning.md
-            - Review sprint 3: sprints/sprint3/review.md
-        - Sprint 4:
-            - Planning sprint 4: sprints/sprint4/planning.md
-            - Review sprint 4: sprints/sprint4/review.md
-        - Sprint 5:
-            - Planning sprint 5: sprints/sprint5/planning.md
+    - Gestão do projeto:
+        - Semana 0:
+            - Planning: sprints/sprint0/planning.md
+        - Semana 1:
+            - Planning: sprints/sprint1/planning.md
+        - Semana 2:
+            - Planning: sprints/sprint2/planning.md
+        - Semana 3:
+            - Planning: sprints/sprint3/planning.md
+            - Review: sprints/sprint3/review.md
+        - Semana 4:
+            - Planning: sprints/sprint4/planning.md
+            - Review: sprints/sprint4/review.md
+        - Semana 5:
+            - Planning: sprints/sprint5/planning.md

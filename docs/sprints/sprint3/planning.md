@@ -1,20 +1,20 @@
-# Planejamento Sprint 3
+# Planejamento Semana 3
 
 ## 1. Visão Geral
-**Número da Sprint:** 3;<br>
+**Número da Semana:** 3;<br>
 **Data de Início:** 04/07/2022; <br>
 **Data de Término:** 10/07/2022;<br>
 **Duração:** 7 dias;<br>
 
 ## 2. Objetivos
-A Sprint 3 tem como objetivo:
+A Semana 3 tem como objetivo:
 - Começar a desenvolver <br>
 - Realizar mais treinamentos <br>
 - Iniciar o Documento de Visão;<br>
 - Iniciar o Documento de Arquitetura;<br>
 - Finalizar Backlog;<br>
 
-## 3. Sprint Backlog
+## 3. Semana Backlog
 Issues adicionadas:
 
 1. **Issue:** [#32 Desenvolver Documento de Arquitetura](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/32)<br>

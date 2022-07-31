@@ -1,23 +1,23 @@
-# Planejamento Sprint 4
+# Planejamento Semana 4
 
 ## 1. Visão Geral
-**Número da Sprint:** 4;<br>
+**Número da Semana:** 4;<br>
 **Data de Início:** 11/07/2022;<br>
 **Data de Término:** 17/07/2022;<br>
 **Duração:** 7 dias;<br>
-**Scrum Master da Sprint:** Giovanna Bottino;<br>
-**Devops da Sprint:** Enzo Gabriel, Bruno<br>
-**Arquiteto da Sprint:** Hugo Aragão.<br>
+**Scrum Master da Semana:** Giovanna Bottino;<br>
+**Devops da Semana:** Enzo Gabriel, Bruno<br>
+**Arquiteto da Semana:** Hugo Aragão.<br>
 
 ## 2. Objetivos
-A Sprint 4 tem como objetivo:<br>
+A Semana 4 tem como objetivo:<br>
 - Finalizar o Documento de Visão;<br>
 - Finalizar o Documento de Arquitetura;<br>
 - Implementar plataforma de analytics;<br>
 - Implementar DevOps;<br>
 - Finalizar Backlog;<br>
 
-## 3. Sprint Backlog
+## 3. Semana Backlog
 Issues adicionadas:
 
 1. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
