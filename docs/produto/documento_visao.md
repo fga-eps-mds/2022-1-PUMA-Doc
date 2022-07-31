@@ -9,18 +9,24 @@ Este documento tem como objetivo apresentar o produto PUMA, utilizando o método
 
 A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes. [[1]](#ref1).
 
-![](../assets/imagens/lean_inception/visao.png)
+![Visão](../assets/imagens/lean_inception/visao.png)
+<center>[Visão](../assets/imagens/lean_inception/visao.png)</center>
+
 
 ### "É/ Não é" e "Faz/ Não Faz"
 Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é. [[1]](#ref1).
 
-![](../assets/imagens/lean_inception/e-nao-e.png)
+![É não é](../assets/imagens/lean_inception/e-nao-e.png)
+<center>[É não é](../assets/imagens/lean_inception/e-nao-e.png)</center>
+
 
 ### Objetivos do Produto
 
 Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo c/om os objetivos gerais do negócio. [[1]](#ref1).
 
-![](../assets/imagens/lean_inception/objetivos.png)
+![Objetivos do Produto](../assets/imagens/lean_inception/objetivo.png)
+<center>[Objetivos do Produto](../assets/imagens/lean_inception/objetivos.png)</center>
+
 
 ### Personas
 
@@ -28,35 +34,42 @@ A criação de personas serve para representar um usuário do sistema, descreven
 
 Foram criadas 3 personas para este produto, conforme imagens a seguir:
 
-<b>Persona 1</b>
 ![Persona 1](../assets/imagens/lean_inception/persona1.png)
+<center>[Persona 1: Cristiano Empreendedor](../assets/imagens/lean_inception/persona1.png)</center>
 
-<b>Persona 2</b>
-![](../assets/imagens/lean_inception/persona2.png)
+![Persona 2](../assets/imagens/lean_inception/persona2.png)
+<center>[Persona 2: Professor Jinn](../assets/imagens/lean_inception/persona2.png)</center>
 
-<b>Persona 3</b>
-![](../assets/imagens/lean_inception/persona3.png)
+![Persona 3](../assets/imagens/lean_inception/persona3.png)
+<center>[Persona 3: Estudante George](../assets/imagens/lean_inception/persona3.png)</center>
 
 ### Jornadas do Usuário
 
 A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns destes passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
 
-![](../assets/imagens/lean_inception/jornada1.png)
+![Jornada 1](../assets/imagens/lean_inception/jornada1.png)
+<center>[Jornada1: Cristiano cadastra um projeto](../assets/imagens/lean_inception/jornada1.png)</center>
 
-![](../assets/imagens/lean_inception/jornada2.png)
+![Jornada 2](../assets/imagens/lean_inception/jornada2.png)
+<center>[Jornada2: Jinn gerencia projetos e turmas](../assets/imagens/lean_inception/jornada2.png)</center>
 
-![](../assets/imagens/lean_inception/jornada3.png)
+
+![Jornada 3](../assets/imagens/lean_inception/jornada3.png)
+<center>[Jornada 3: Estudante George econtra projetos para trabalhar na disciplina](../assets/imagens/lean_inception/jornada3.png)</center>
 
 ### Brainstorming de funcionalidades
 Uma funcionalidade representa uma ação ou interação de um usuário com o produto. O brainstorming de funcionalidades,também chamada de tempestade de ideias, é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião na qual os participantes expõem suas sugestões e debatem sobre as contribuições do coletivo. No âmbito de software o brainstorming serve para que os participantes deem ideias de funcionalidades do produto.
 
-![](../assets/imagens/lean_inception/brainstorm.png)
+![Brainstorm](../assets/imagens/lean_inception/brainstorm.png)
+<center>[Brainstorm de Funcionalidades](../assets/imagens/lean_inception/brainstorm.png)</center>
 
 ### Revisão Técnica, de Negócio e de UX
 
 Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX (Experiência de Usuário) para cada funcionalidade. A partir desta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.
 
-![](../assets/imagens/lean_inception/revisao-tecnica.png)
+![Revisão Técnica](../assets/imagens/lean_inception/revisao-tecnica.png)
+<center>[Revisão Técnica](../assets/imagens/lean_inception/revisao-tecnica.png)</center>
+
 
 ### Sequenciador
 
@@ -69,15 +82,21 @@ O Sequenciador de funcionalidades auxilia na organização e visualização das 
 - **Regra 5**: A soma de valor dos cartões não pode ser menos de quatro $s e quatro corações.
 - **Regra 6**: Se um cartão depende de outro, esse outro deve estar em alguma onda anterior.
 
-![](../assets/imagens/lean_inception/sequenciador.png)
+![Sequenciador](../assets/imagens/lean_inception/sequenciador.png)
+<center>[Sequenciador](../assets/imagens/lean_inception/sequenciador.png)</center>
+
 
 ### Canvas MVP
 
 O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
 
-![](../assets/imagens/lean_inception/mvp-canvas.png)
+![Canvas MVP](../assets/imagens/lean_inception/mvp-canvas.png)
+<center>[Canvas MVP](../assets/imagens/lean_inception/mvp-canvas.png)</center>
+
 
 ## Lean Inception 
+Abaixo podemos observar o resuldado do Lean Inseption de modo interativo, onde temos uma 
+visualização completa dos passos executados para concluir o método.
 
 <iframe src='https://app.mural.co/embed/bafdeee6-4d4a-4ce4-a9fe-1791d3bf528a'
         width='100%'
