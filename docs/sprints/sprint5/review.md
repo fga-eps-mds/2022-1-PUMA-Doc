@@ -1,4 +1,4 @@
-# Review Sprint 4
+# Review Sprint 5
 
 ## 1. Visão Geral
 **Número da Sprint:** 5;<br>
@@ -6,7 +6,7 @@
 **Data de Término:** 24/07/2022;<br>
 **Duração:** 7 dias;<br>
 **Scrum Master da Sprint:** Bruno Félix;<br>
-**Devops da Sprint:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
+**Devops da Sprint:** Enzo Gabriel e Bruno Félix.<br>
 
 ## 2. Sprint Backlog
 
