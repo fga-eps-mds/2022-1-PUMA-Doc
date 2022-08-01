@@ -1,0 +1,1980 @@
+{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 100,
+        "total": 42
+    },
+    "baseComponent": {
+        "id": "AYIHqDFDeFj9HSJltYOh",
+        "key": "fga-eps-mds_2022-1-PUMA-ApiGateway",
+        "name": "2022-1-PUMA-ApiGateway",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "duplicated_lines_density",
+                "value": "27.6",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "562"
+            },
+            {
+                "metric": "security_rating",
+                "value": "3.0",
+                "bestValue": false
+            },
+            {
+                "metric": "files",
+                "value": "30"
+            },
+            {
+                "metric": "complexity",
+                "value": "574"
+            },
+            {
+                "metric": "ncloc",
+                "value": "2517"
+            },
+            {
+                "metric": "comment_lines_density",
+                "value": "0.1",
+                "bestValue": false
+            }
+        ]
+    },
+    "components": [
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTI",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/__legacy__",
+            "name": "__legacy__",
+            "qualifier": "DIR",
+            "path": "tests/__legacy__",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "75"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "4"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "75"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "371"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTL",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/utils/authentication.js",
+            "name": "authentication.js",
+            "qualifier": "FIL",
+            "path": "src/utils/authentication.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "7"
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "34"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTD",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/__legacy__/integrationTests/cadastroConstants.js",
+            "name": "cadastroConstants.js",
+            "qualifier": "FIL",
+            "path": "tests/__legacy__/integrationTests/cadastroConstants.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "37"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTb",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/config",
+            "name": "config",
+            "qualifier": "DIR",
+            "path": "src/config",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "5"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "32"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlS7",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/utils/constants.js",
+            "name": "constants.js",
+            "qualifier": "FIL",
+            "path": "tests/utils/constants.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "341"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTC",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/__legacy__/integrationTests/constants.js",
+            "name": "constants.js",
+            "qualifier": "FIL",
+            "path": "tests/__legacy__/integrationTests/constants.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "128"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTZ",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/controller",
+            "name": "controller",
+            "qualifier": "DIR",
+            "path": "src/controller",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "114"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "5"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "115"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "298"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.7",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlS5",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:docker-compose.yaml",
+            "name": "docker-compose.yaml",
+            "qualifier": "FIL",
+            "path": "docker-compose.yaml",
+            "language": "yaml",
+            "measures": [
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTK",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/utils/endpoints.js",
+            "name": "endpoints.js",
+            "qualifier": "FIL",
+            "path": "src/utils/endpoints.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "76"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "57.1",
+                    "bestValue": false
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTa",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/config/environment.js",
+            "name": "environment.js",
+            "qualifier": "FIL",
+            "path": "src/config/environment.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "5"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "32"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTe",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:index.js",
+            "name": "index.js",
+            "qualifier": "FIL",
+            "path": "index.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "17"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "5.6",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTB",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/integration",
+            "name": "integration",
+            "qualifier": "DIR",
+            "path": "tests/integration",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "77.8",
+                    "bestValue": false
+                },
+                {
+                    "metric": "functions",
+                    "value": "276"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "4"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "276"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "1064"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTE",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/__legacy__/integrationTests/integration.Integrationtest.js",
+            "name": "integration.Integrationtest.js",
+            "qualifier": "FIL",
+            "path": "tests/__legacy__/integrationTests/integration.Integrationtest.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "73"
+                },
+                {
+                    "metric": "functions",
+                    "value": "73"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "200"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTF",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/__legacy__/integrationTests",
+            "name": "integrationTests",
+            "qualifier": "DIR",
+            "path": "tests/__legacy__/integrationTests",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "73"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "3"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "73"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "365"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlS-",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/integration/keyword.test.js",
+            "name": "keyword.test.js",
+            "qualifier": "FIL",
+            "path": "tests/integration/keyword.test.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "265"
+                },
+                {
+                    "metric": "functions",
+                    "value": "70"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "70"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "97.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTV",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/controller/keywordController.js",
+            "name": "keywordController.js",
+            "qualifier": "FIL",
+            "path": "src/controller/keywordController.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "24"
+                },
+                {
+                    "metric": "functions",
+                    "value": "24"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "67"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTR",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/routes/keywordRouter.js",
+            "name": "keywordRouter.js",
+            "qualifier": "FIL",
+            "path": "src/routes/keywordRouter.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "18"
+                },
+                {
+                    "metric": "functions",
+                    "value": "18"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "47"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYI3A64CiUA-2mGidixl",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:metrics",
+            "name": "metrics",
+            "qualifier": "DIR",
+            "path": "metrics",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "3"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "28"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYI3A64CiUA-2mGidixk",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:metrics/metrics_file.py",
+            "name": "metrics_file.py",
+            "qualifier": "FIL",
+            "path": "metrics/metrics_file.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "3"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "28"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTd",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:package-lock.json",
+            "name": "package-lock.json",
+            "qualifier": "FIL",
+            "path": "package-lock.json",
+            "language": "json",
+            "measures": [
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTf",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:package.json",
+            "name": "package.json",
+            "qualifier": "FIL",
+            "path": "package.json",
+            "language": "json",
+            "measures": [
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlS9",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/integration/project.test.js",
+            "name": "project.test.js",
+            "qualifier": "FIL",
+            "path": "tests/integration/project.test.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "290"
+                },
+                {
+                    "metric": "functions",
+                    "value": "77"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "77"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "97.5",
+                    "bestValue": false
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTU",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/controller/projectController.js",
+            "name": "projectController.js",
+            "qualifier": "FIL",
+            "path": "src/controller/projectController.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "33"
+                },
+                {
+                    "metric": "functions",
+                    "value": "33"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "78"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTN",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/routes/projectRouter.js",
+            "name": "projectRouter.js",
+            "qualifier": "FIL",
+            "path": "src/routes/projectRouter.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "27"
+                },
+                {
+                    "metric": "functions",
+                    "value": "27"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "68"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTO",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/routes/router.js",
+            "name": "router.js",
+            "qualifier": "FIL",
+            "path": "src/routes/router.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "19"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTT",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/routes",
+            "name": "routes",
+            "qualifier": "DIR",
+            "path": "src/routes",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "90"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "6"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "91"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "248"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTX",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/controller/semesterController.js",
+            "name": "semesterController.js",
+            "qualifier": "FIL",
+            "path": "src/controller/semesterController.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTS",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/routes/semesterRouter.js",
+            "name": "semesterRouter.js",
+            "qualifier": "FIL",
+            "path": "src/routes/semesterRouter.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTc",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src",
+            "name": "src",
+            "qualifier": "DIR",
+            "path": "src",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "5.6",
+                    "bestValue": false
+                },
+                {
+                    "metric": "functions",
+                    "value": "209"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "14"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "218"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "688"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.3",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlS_",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/integration/subject.test.js",
+            "name": "subject.test.js",
+            "qualifier": "FIL",
+            "path": "tests/integration/subject.test.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "286"
+                },
+                {
+                    "metric": "functions",
+                    "value": "77"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "77"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "98.4",
+                    "bestValue": false
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTW",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/controller/subjectController.js",
+            "name": "subjectController.js",
+            "qualifier": "FIL",
+            "path": "src/controller/subjectController.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "36"
+                },
+                {
+                    "metric": "functions",
+                    "value": "36"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "83"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTQ",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/routes/subjectRouter.js",
+            "name": "subjectRouter.js",
+            "qualifier": "FIL",
+            "path": "src/routes/subjectRouter.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "27"
+                },
+                {
+                    "metric": "functions",
+                    "value": "27"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "68"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTg",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:test.docker-compose.yaml",
+            "name": "test.docker-compose.yaml",
+            "qualifier": "FIL",
+            "path": "test.docker-compose.yaml",
+            "language": "yaml",
+            "measures": [
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlS6",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/utils/testapp.js",
+            "name": "testapp.js",
+            "qualifier": "FIL",
+            "path": "tests/utils/testapp.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "8"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTJ",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests",
+            "name": "tests",
+            "qualifier": "DIR",
+            "path": "tests",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "47.3",
+                    "bestValue": false
+                },
+                {
+                    "metric": "functions",
+                    "value": "351"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "10"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "351"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "1784"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTG",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/__legacy__/unitaryTests/unitary.test.js",
+            "name": "unitary.test.js",
+            "qualifier": "FIL",
+            "path": "tests/__legacy__/unitaryTests/unitary.test.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "6"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTH",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/__legacy__/unitaryTests",
+            "name": "unitaryTests",
+            "qualifier": "DIR",
+            "path": "tests/__legacy__/unitaryTests",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "6"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTA",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/integration/user.test.js",
+            "name": "user.test.js",
+            "qualifier": "FIL",
+            "path": "tests/integration/user.test.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "52"
+                },
+                {
+                    "metric": "functions",
+                    "value": "52"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "223"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTY",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/controller/userController.js",
+            "name": "userController.js",
+            "qualifier": "FIL",
+            "path": "src/controller/userController.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "22"
+                },
+                {
+                    "metric": "functions",
+                    "value": "21"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "70"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "2.8",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTP",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/routes/userRouter.js",
+            "name": "userRouter.js",
+            "qualifier": "FIL",
+            "path": "src/routes/userRouter.js",
+            "language": "js",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "17"
+                },
+                {
+                    "metric": "functions",
+                    "value": "16"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "46"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlS8",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:tests/utils",
+            "name": "utils",
+            "qualifier": "DIR",
+            "path": "tests/utils",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "349"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNfMCdBMdL9bDlTM",
+            "key": "fga-eps-mds_2022-1-PUMA-ApiGateway:src/utils",
+            "name": "utils",
+            "qualifier": "DIR",
+            "path": "src/utils",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "38.3",
+                    "bestValue": false
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "7"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "110"
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        }
+    ]
+}

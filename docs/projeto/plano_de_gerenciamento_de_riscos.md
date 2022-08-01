@@ -1,10 +1,3 @@
-## Histórico de Versão
-
-|    Data    | Versão |                             Alteração                             |                    Autor                    |
-|:----------:|:------:|:-----------------------------------------------------------------:|:-------------------------------------------:|
-|09/07/2022|0.1|Criação do Documento|Enzo Gabriel e Breno Yuri|
-|11/07/2022|1.0|Atualização das referências|Enzo Gabriel|
-
 ## Introdução
 
 &emsp;&emsp;Segundo Freitas(2018)[2] A função do Plano de Gerenciamento de Riscos é definir como serão conduzidas as atividades de Gestão de Risco, ou seja, informar quais serão as medidas adotadas pela empresa para lidar com as possíveis ameaças ou oportunidades.
@@ -94,3 +87,10 @@ Sendo que:
 [1] JOÃO, Lucas. Plano de Gerenciamento de Riscos do grupo ArBC. Disponível em: https://github.com/fga-eps-mds/2019.2-ArBC/blob/develop/docs/Plano-Gerenciamento-Riscos.md. Acesso em 09 jul 2022.
 
 [2] FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio. Disponível em: https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/. Acesso em 09 jul 2022.
+
+## Histórico de Versão
+
+|    Data    | Versão |    Alteração  |       Autor                    |
+|:----------:|:------:|:-------------:|:------------------------------:|
+|09/07/2022|0.1|Criação do Documento|Enzo Gabriel e Breno Yuri|
+|11/07/2022|1.0|Atualização das referências|Enzo Gabriel|

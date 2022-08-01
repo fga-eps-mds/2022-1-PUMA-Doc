@@ -1,16 +1,16 @@
-# Planejamento Sprint 2
+# Planejamento Semana 2
 
 ## 1. Visão Geral
-**Número da Sprint:** 2;<br>
+**Número da Semana:** 2;<br>
 **Data de Início:** 27/06/2022;<br>
 **Data de Término:** 03/07/2022;<br>
 **Duração:** 7 dias;<br>
-**Scrum Master da Sprint:** Enzo Gabriel;<br>
-**Devops da Sprint:** Hugo Aragão;<br>
-**Arquiteto da Sprint:** Giovanna  Bottino.<br>
+**Scrum Master da Semana:** Enzo Gabriel;<br>
+**Devops da Semana:** Hugo Aragão;<br>
+**Arquiteto da Semana:** Giovanna  Bottino.<br>
 
 ## 2. Objetivos
-A Sprint 2 tem como objetivo:
+A Semana 2 tem como objetivo:
 
 - Finalizar o Lean Inception;<br>
 - Aplicar mais treinamentos aos MDS;<br>
@@ -21,7 +21,7 @@ A Sprint 2 tem como objetivo:
 - Estudar plataforma de analytics;<br>
 - Compreender a arquitetura do projeto.
 
-## 3. Sprint Backlog
+## 3. Semana Backlog
 Issues adicionadas:
 
 1. **Issue:** [#12 Configurar Repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/12)<br>

@@ -11,7 +11,9 @@ theme:
 
 nav:
     - Home: index.md
-    - Produto: 
+    - Produto:
+        - Visão do produto: produto/documento_visao.md
+        - Documento de Arquitetura: produto/doc_arquitetura.md
         - Protótipo de Alta Fidelidade: produto/prototipo_de_alta.md
         - Backlog Inicial do Produto: produto/backlog_inicial_produto.md
     - Projeto:
@@ -21,14 +23,20 @@ nav:
         - Plano de gerenciamento de riscos: projeto/plano_de_gerenciamento_de_riscos.md
         - Plano de custos: projeto/plano_de_custos.md
         - Metodologia: projeto/metodologia.md
-    - Sprints:
-        - Sprint 0:
-            - Planning sprint 0: sprints/sprint0/planning.md
-        - Sprint 1:
-            - Planning sprint 1: sprints/sprint1/planning.md
-        - Sprint 2:
-            - Planning sprint 2: sprints/sprint2/planning.md
-        - Sprint 3:
-            - Planning sprint 3: sprints/sprint3/planning.md
-        - Sprint 4:
-            - Planning sprint 4: sprints/sprint4/planning.md
+        - Estrutura Analítica do Projeto: projeto/eap.md
+        - Roadmap: projeto/roadmap.md
+    - Gestão do projeto:
+        - Semana 0:
+            - Planning: sprints/sprint0/planning.md
+        - Semana 1:
+            - Planning: sprints/sprint1/planning.md
+        - Semana 2:
+            - Planning: sprints/sprint2/planning.md
+        - Semana 3:
+            - Planning: sprints/sprint3/planning.md
+            - Review: sprints/sprint3/review.md
+        - Semana 4:
+            - Planning: sprints/sprint4/planning.md
+            - Review: sprints/sprint4/review.md
+        - Semana 5:
+            - Planning: sprints/sprint5/planning.md
