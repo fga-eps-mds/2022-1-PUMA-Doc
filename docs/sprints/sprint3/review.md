@@ -1,13 +1,13 @@
-# Review Sprint 4
+# Review Semana 4
 
 ## 1. Visão Geral
-**Número da Sprint:** 3;<br>
+**Número da Semana:** 3;<br>
 **Data de Início:** 04/07/2022;<br>
 **Data de Término:** 10/07/2022;<br>
 **Duração:** 7 dias.<br>
 
 
-## 2. Sprint Backlog
+## 2. Semana Backlog
 
 ### Dívidas
 
@@ -29,7 +29,7 @@
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
-1. **Issue:** [#14 Planning Sprint 3](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/14)<br>
+1. **Issue:** [#14 Planning Semana 3](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/14)<br>
 **Responsáveis:** Giovanna;<br>
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
@@ -84,15 +84,15 @@
 - Não detalhamento das funcionalidades já entregue, bugs e melhorias;
 - Não planejamento para a reunião de Quarta;
 - Lean Inception travou nosso avanço;
-- Algumas issues foram feitas no final da sprint;
-- Não fez Daily nessa sprint;
+- Algumas issues foram feitas no final da Semana;
+- Não fez Daily nessa Semana;
 - Nem todos os MDS participaram do projeto essa semana.
 
 ### Pontos a Melhorar
 - Elicitar relatório das funcionalidades/ melhorias;
 - Enviarmos via discord pauta de reunião até terça feira;
 - Fechar Lean Inception após o relatório das funcionalidades/ melhorias;
-- Fazer issues mais no início do sprint;
+- Fazer issues mais no início do Semana;
 - Fazer Dailies diárias;
 - Mais MDS participarem do projeto;
-- Cada pessoa criar sua própria issue no início da Sprint.
+- Cada pessoa criar sua própria issue no início da Semana.

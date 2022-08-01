@@ -1,16 +1,16 @@
-# Review Sprint 4
+# Review Semana 4
 
 ## 1. Visão Geral
-**Número da Sprint:** 4;<br>
+**Número da Semana:** 4;<br>
 **Data de Início:** 11/07/2022;<br>
 **Data de Término:** 17/07/2022;<br>
 **Duração:** 7 dias;<br>
-**Scrum Master da Sprint:** Giovanna Bottino;<br>
-**Devops da Sprint:** Enzo Gabriel e Bruno Félix<br>
-**Arquiteto da Sprint:** Hugo Aragão.<br>
+**Scrum Master da Semana:** Giovanna Bottino;<br>
+**Devops da Semana:** Enzo Gabriel e Bruno Félix<br>
+**Arquiteto da Semana:** Hugo Aragão.<br>
 
 
-## 2. Sprint Backlog
+## 2. Semana Backlog
 
 ### Dívidas
 
@@ -66,12 +66,12 @@
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
-8. **Issue:** [#14 Planning Sprint 3](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/14)<br>
+8. **Issue:** [#14 Planning Semana 3](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/14)<br>
 **Responsáveis:** Giovanna;<br>
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
-8. **Issue:** [#56 Planning Sprint 4](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/56)<br>
+8. **Issue:** [#56 Planning Semana 4](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/56)<br>
 **Responsáveis:** Giovanna;<br>
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
@@ -107,11 +107,11 @@
 - Falhas no uso do padrão de Contribuição;
 - Planejar previamente os horários de pareamento;
 - Baixo numero de Comentários nas issues;
-- Issues feitas somente no final da Sprint.
+- Issues feitas somente no final da Semana.
 
 ### Pontos a Melhorar
 
-- Cada pessoa criar sua própria issue no inicio da Sprint;
+- Cada pessoa criar sua própria issue no inicio da Semana;
 - Atenção no uso dos padrão de Contribuição;
 - Maior comunicação para alinhar o pareamento;
 - Uso maior da issue como hub da sua tarefa.

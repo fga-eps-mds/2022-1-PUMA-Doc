@@ -1,15 +1,4 @@
 # Plano de Custos
-
-| Versão | Data       | Descrição | Autores |
-| ------ | ---------- | --------- | ------- |
-| 0.1    | 11/07/2022 | Abertura do documento | Ana Hoffmann e Marcelo |
-| 0.2    | 16/07/2022 | Adição de planilha dinâmica | Marcelo |
-| 0.3    | 22/07/2022 | Adição de descrições e melhorias | Ana Hoffmann |
-| 0.4    | 28/07/2022 | Adição de custo de hospedagem | Giovanna |
-| 0.5    | 28/07/2022 | Adição de EVM | Giovanna |
-| 0.6    | 28/07/2022 | Retira inglês de EVM | Giovanna |
-| 0.7    | 28/07/2022 | Adiciona planilha EVM | Giovanna e Marcelo |
-
 ## Introdução
 
 Esse documento foi criado com o objetivo de registrar as estimativas dos custos financeiros relacionados à realização do projeto PUMA no semestre 2022.1. Para sua montagem, foram utilizados dados disponíveis no Mural, no Zenhub e no backlog do produto, além de consultas a preços de produtos disponíveis em lojas virtuais e serviços ofertados em Brasília, DF.
@@ -129,3 +118,13 @@ Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, p
 
 <a id="ref5"></a>
 [5] VEC. Análise de Valor Agregado (EVM) em Projetos: Conheça e aprenda a calcular. Acesso em Jul. 2022. Disponível em:http://valorecompetencia.com.br/gestao_de_projetos/analise-de-valor-agregado-evm-em-projetos-conheca-e-aprenda-a-calcular
+
+| Versão | Data       | Descrição | Autores |
+| ------ | ---------- | --------- | ------- |
+| 0.1    | 11/07/2022 | Abertura do documento | Ana Hoffmann e Marcelo |
+| 0.2    | 16/07/2022 | Adição de planilha dinâmica | Marcelo |
+| 0.3    | 22/07/2022 | Adição de descrições e melhorias | Ana Hoffmann |
+| 0.4    | 28/07/2022 | Adição de custo de hospedagem | Giovanna |
+| 0.5    | 28/07/2022 | Adição de EVM | Giovanna |
+| 0.6    | 28/07/2022 | Retira inglês de EVM | Giovanna |
+| 0.7    | 28/07/2022 | Adiciona planilha EVM | Giovanna e Marcelo |

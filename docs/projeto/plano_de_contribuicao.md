@@ -1,9 +1,6 @@
 # Contribuições
 
-| Versão | Data       | Descrição | Autores |
-| ------ | ---------- | --------- | ------- |
-| 1.0    | 10/07/2022 | Abertura do documento | Hugo e Breno Henrique |
-
+## Introdução
 Este documento determina as regras para submissão de códigos para este repositório.
 
 ## Issues
@@ -60,14 +57,19 @@ __OBS__: A política de _branchs_ foi idealizada para trabalhar em conjunto com 
 
 ### Branches para Desenvolvimento
 
-* __feature/\<nome-da-feature>__ - Branch utilizada para o desenvolvimento de novas features do _backlog_. Caso a feature tenha sido proposta por uma _issue_ do repositório e aceita no _backlog_ o nome deverá conter o número da _issue_. **Ex**: feature/1-\<nome-da-nova-feature> (Considerando que a feature tenha sido solicitada na _issue_ #1)
+* __feature/<nome-da-feature>__ - Branch utilizada para o desenvolvimento de novas features do _backlog_. Caso a feature tenha sido proposta por uma _issue_ do repositório e aceita no _backlog_ o nome deverá conter o número da _issue_. **Ex**: feature/1-\<nome-da-nova-feature> (Considerando que a feature tenha sido solicitada na _issue_ #1)
 
-* __bugfix/\<nome-do-bug>__ - Branch utilizada para corrigir bugs de **baixa/média urgência** e que não estão presentes na branch __master__. Caso o bug tenha sido reportado por uma _issue_ do repositório o nome deverá conter o número da _issue_. **Ex**: bugfix/1-\<descrição-do-bug> (Considerando que o bug tenha sido reportado na _issue_ #1)
+* __bugfix/<nome-do-bug>__ - Branch utilizada para corrigir bugs de **baixa/média urgência** e que não estão presentes na branch __master__. Caso o bug tenha sido reportado por uma _issue_ do repositório o nome deverá conter o número da _issue_. **Ex**: bugfix/1-\<descrição-do-bug> (Considerando que o bug tenha sido reportado na _issue_ #1)
 
-* __hotfix/\<nome-do-bug>__ - Branch utilizada para corrigir bugs de **alta urgência** e que estão presentes na branch __master__. Caso o bug tenha sido reportado por uma _issue_ do repositório o nome deverá conter o número da _issue_. **Ex**: hotfix/1-<descrição-do-bug> (Considerando que o bug tenha sido reportado na _issue_ #1)
+* __hotfix/<nome-do-bug>__ - Branch utilizada para corrigir bugs de **alta urgência** e que estão presentes na branch __master__. Caso o bug tenha sido reportado por uma _issue_ do repositório o nome deverá conter o número da _issue_. **Ex**: hotfix/1-<descrição-do-bug> (Considerando que o bug tenha sido reportado na _issue_ #1)
 
-* __release/\<versão-da-release>__ - Branch onde será feito os ajustes finais/build antes da entrega de uma versão do produto de software. Constará no nome da branch a versão da release a ser entregue.
+* __release/<versão-da-release>__ - Branch onde será feito os ajustes finais/build antes da entrega de uma versão do produto de software. Constará no nome da branch a versão da release a ser entregue.
 
-* __doc/\<tema-ou-natureza>__ - Branch onde serão executadas tarefas de suporte relacionadas ao software, como elaboração de documentações, correções de natureza de gerência de configuração, etc.
+* __doc/<tema-ou-natureza>__ - Branch onde serão executadas tarefas de suporte relacionadas ao software, como elaboração de documentações, correções de natureza de gerência de configuração, etc.
+
+
+| Versão | Data       | Descrição | Autores |
+| ------ | ---------- | --------- | ------- |
+| 1.0    | 10/07/2022 | Abertura do documento | Hugo e Breno Henrique |
 
 ---

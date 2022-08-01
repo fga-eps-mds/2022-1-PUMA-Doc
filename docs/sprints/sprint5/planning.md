@@ -1,13 +1,13 @@
-# Planejamento Sprint 5
+# Planejamento Semana 5
 
 ## 1. Visão Geral
-**Número da Sprint:** 5;<br>
+**Número da Semana:** 5;<br>
 **Data de Início:** 18/07/2022;<br>
 **Data de Término:** 24/07/2022;<br>
 **Duração:** 7 dias;<br>
-**Scrum Master da Sprint:** Bruno Félix;<br>
-**Devops da Sprint:** Enzo Gabriel e Bruno Félix;<br>
-**Arquiteto da Sprint:** Hugo Aragão.<br>
+**Scrum Master da Semana:** Bruno Félix;<br>
+**Devops da Semana:** Enzo Gabriel e Bruno Félix;<br>
+**Arquiteto da Semana:** Hugo Aragão.<br>
 
 ## 2. Detalhes
 
@@ -23,7 +23,7 @@
 ### Total de Pontuação Planejada
  - 55 pontos de issues.
 
-## 3. Sprint Backlog
+## 3. Semana Backlog
 
 1. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
 **Responsáveis:** Bruno<br>
@@ -73,7 +73,7 @@
 **Responsáveis:** Marcelo e Ana<br>
 **Pontuação:** 3
 
-13. **Issue:** [#94 Planning Sprint 5 ](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/94)<br>
+13. **Issue:** [#94 Planning Semana 5 ](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/94)<br>
 **Responsáveis:** Bruno<br>
 **Pontuação:** 1
 
