@@ -1,11 +1,4 @@
 # Metodologia
-
-## Contribuições
-
-| Versão | Data       | Descrição | Autores |
-| ------ | ---------- | --------- | ------- |
-| 1.0    | 14/07/2022 | Abertura do documento | Marcelo e Gabriel Cabral |
-
 ## Introdução
 
 O documento de metodologia tem como objetivo analisar características dos métodos utilizados no desenvolvimento de um projeto ou trabalho. É uma explicação minuciosa e detalhada dos caminhos escolhidos no decorrer da produção, explicando sobre os instrumentos utilizados no decorrer do processo, o tempo previsto, a equipe de produção, a divisão de tarefas, a forma de comunicação, etc. Em resumo é estudar os métodos utilizados no decorrer da produção de um projeto. [[1]](#ref1)
@@ -84,3 +77,9 @@ O plano de comunicação da equipe está dividido em reuniões semanais fixas en
 
 <a id="ref4"></a>
 [4] [EBOOK] [Caroli, Paulo, Lean Inception: como alinhar pessoas e construir o produto certo](https://mailchi.mp/caroli.org/ebook-lean-inception-gratis)
+
+## Contribuições
+
+| Versão | Data       | Descrição | Autores |
+| ------ | ---------- | --------- | ------- |
+| 1.0    | 14/07/2022 | Abertura do documento | Marcelo e Gabriel Cabral |

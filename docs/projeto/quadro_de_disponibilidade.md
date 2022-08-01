@@ -1,11 +1,4 @@
 # Plano de comunicação
-
-| Versão | Data       | Descrição | Autores |
-| ------ | ---------- | --------- | ------- |
-| 0.1    | 30/06/2022 | Abertura do documento | Bruno |
-| 1.0    | 06/07/2022 | Adiciona ferramentas, reuniões pré-agendadas, quadro de disponibilidade em _iframe_ | Giovanna |
-| 1.1    | 09/07/2022 | Corrige reuniões fixas | Giovanna |
-
 ## Introdução
 
 Durante a criação de um plano de comunicação muitos aspectos devem ser envolvidos. Entre as responsabilidades envolvidas temos: como as informações acerca do projeto devem ser transmitidas e por onde devem ser transmitidas. Além do melhor horario de disponibilidade, que deve ser monitorado para garantir que os serviços entreguem com alta qualidade [[1]](#ref1).
@@ -43,3 +36,10 @@ Para o desenvolvimento do Quadro de Disponibilidade, o grupo pegou as informaç�
 
 <a id="ref1"></a>
 [1] FUNDAMENTOS DE ITIL. Gerenciamento de Disponibilidade. Bradesco. Disponível em <http://ead4.fgv.br/producao/DI/FUNDACAO_BRADESCO/diagramacao/base_15/curso/pag/2_2_13.html>. Acesso em: 06 de Julho de 2022.
+
+
+| Versão | Data       | Descrição | Autores |
+| ------ | ---------- | --------- | ------- |
+| 0.1    | 30/06/2022 | Abertura do documento | Bruno |
+| 1.0    | 06/07/2022 | Adiciona ferramentas, reuniões pré-agendadas, quadro de disponibilidade em _iframe_ | Giovanna |
+| 1.1    | 09/07/2022 | Corrige reuniões fixas | Giovanna |
