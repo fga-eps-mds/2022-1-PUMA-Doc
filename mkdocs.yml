@@ -13,7 +13,7 @@ nav:
     - Home: index.md
     - Produto: 
         - Protótipo de Alta Fidelidade: produto/prototipo_de_alta.md
-        - Product Backlog: produto/product_backlog.md
+        - Backlog Inicial do Produto: produto/backlog_inicial_produto.md
     - Projeto:
         - Quadro de Conhecimento: projeto/quadro_de_conhecimento.md
         - Plano de comunicação: projeto/quadro_de_disponibilidade.md
