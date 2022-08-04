@@ -15,7 +15,7 @@
 1. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
 **Responsáveis:** Bruno;<br>
 **Pontuação:** 3;<br>
-**Resultado:** <span class="tarefa-divida">Concluída</span>.
+**Resultado:** <span class="tarefa-divida">Dívida</span>.
 
 2. **Issue:** [#54 Implementar Analytics do Projeto](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/54)<br>
 **Responsáveis:** Enzo, Bruno, Eduardo, Cainã;<br>
