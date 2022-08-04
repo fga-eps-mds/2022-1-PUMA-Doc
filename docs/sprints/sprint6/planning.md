@@ -25,18 +25,20 @@
 ### Total de Pontuação Planejada
  - 72 pontos de issues.
 
-## 3. Sprint Backlog
+## 3. Backlog da Semana
 
-1. **Issue:** [#53 Implementar o CI/CD nos Repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/53)<br>
-**Responsáveis:** Bruno, Enzo, Eduardo e Cainã<br>
-**Pontuação:** 5
+### Desenvolvimento
 
-2. **Issue:** [#71 [Melhoria] Sinalizar Visualmente os campos obrigatórios no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/71)<br>
+1. **Issue:** [#71 [Melhoria] Sinalizar Visualmente os campos obrigatórios no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/71)<br>
 **Responsáveis:** Breno Henrique e Ana<br>
 **Pontuação:** 2
 
-3. **Issue:** [#76 [Melhoria] Alterar Ordenação da lista de palavras-chaves](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/76)<br>
+2. **Issue:** [#76 [Melhoria] Alterar Ordenação da lista de palavras-chaves](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/76)<br>
 **Responsáveis:** Cainã e Felipe<br>
+**Pontuação:** 3
+
+3. **Issue:** [#67 [Bugfix] Validar campos obrigatórios no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/67)<br>
+**Responsáveis:** Ana e Breno Yuri<br>
 **Pontuação:** 3
 
 4. **Issue:** [#82 [Bugfix] Corrigir estilo cabeçalho da tabela listagem projetos](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/82)<br>
@@ -47,58 +49,60 @@
 **Responsáveis:** Ana e Gabriel<br>
 **Pontuação:** 1
 
-6. **Issue:** [#95 Desenvolver Product Backlog](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/95)<br>
+### Demais
+
+1. **Issue:** [#53 Implementar o CI/CD nos Repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/53)<br>
+**Responsáveis:** Bruno, Enzo, Eduardo e Cainã<br>
+**Pontuação:** 5
+
+2. **Issue:** [#95 Desenvolver Product Backlog](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/95)<br>
 **Responsáveis:** Bruno, Marcelo, Samuel, Breno Henrique e Eduardo<br>
 **Pontuação:** 5
 
-7. **Issue:** [#10 Desenvolver Product Backlog](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/10)<br>
+3. **Issue:** [#10 Desenvolver Product Backlog](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/10)<br>
 **Responsáveis:** Bruno<br>
 **Pontuação:** 1
 
-8. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
+4. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
 **Responsáveis:** Bruno<br>
 **Pontuação:** 3
 
-9. **Issue:** [#32 Desenvolver Documento de Arquitetura](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/32)<br>
+5. **Issue:** [#32 Desenvolver Documento de Arquitetura](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/32)<br>
 **Responsáveis:** MDS + Giovanna e Hugo<br>
 **Pontuação:** 8
 
-10. **Issue:** [#54 Implementar Analytics do Projeto](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/54)<br>
+6. **Issue:** [#54 Implementar Analytics do Projeto](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/54)<br>
 **Responsáveis:** Bruno, Enzo, Eduardo e Cainã<br>
 **Pontuação:** 2
 
-11. **Issue:** [#64 Desenvolver Documento EAP](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/64)<br>
+7. **Issue:** [#64 Desenvolver Documento EAP](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/64)<br>
 **Responsáveis:** Bruno, Marcelo, Breno Yuri e Cainã<br>
 **Pontuação:** 5
 
-12. **Issue:** [#68 [Bugfix] Validar telefone de usuário no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/68)<br>
-**Responsáveis:** Enzo, Ana e Samuel<br>
-**Pontuação:** 3
-
-13. **Issue:** [#70 [Bugfix] Validar nome de Disciplina no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/70)<br>
+8. **Issue:** [#70 [Bugfix] Validar nome de Disciplina no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/70)<br>
 **Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
 **Pontuação:** 5
 
-14. **Issue:** [#74 Resultado da Avaliação do Relatório de BugFixes e Melhorias](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/74)<br>
+9. **Issue:** [#74 Resultado da Avaliação do Relatório de BugFixes e Melhorias](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/74)<br>
 **Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
 **Pontuação:** 2
 
-15. **Issue:** [#88 Treinamento de Testes](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/88)<br>
+10. **Issue:** [#88 Treinamento de Testes](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/88)<br>
 **Responsáveis:** Bruno<br>
 **Pontuação:** 5
 
-16. **Issue:** [#93 Melhorar Documento Plano de Custos](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/93)<br>
+11. **Issue:** [#93 Melhorar Documento Plano de Custos](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/93)<br>
 **Responsáveis:** Marcelo e Ana<br>
 **Pontuação:** 3
 
-17. **Issue:** [#97 Desenvolver Documento ROADMAP](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/97)<br>
+12. **Issue:** [#97 Desenvolver Documento ROADMAP](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/97)<br>
 **Responsáveis:** Enzo, Cabral e Breno Yuri<br>
 **Pontuação:** 3
 
-18. **Issue:** [#108 Replanejar Funcionalidades, Sequenciador e Canvas e Escopo do Projeto](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/108)<br>
+13. **Issue:** [#108 Replanejar Funcionalidades, Sequenciador e Canvas e Escopo do Projeto](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/108)<br>
 **Responsáveis:** Bruno, Enzo e Hugo<br>
 **Pontuação:** 13
 
-19. **Issue:** [#61 Revisar Documentação](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/61)<br>
+14. **Issue:** [#61 Revisar Documentação](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/61)<br>
 **Responsáveis:** Hugo<br>
 **Pontuação:** 1

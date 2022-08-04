@@ -16,7 +16,15 @@ A Semana X tem como objetivo:
 ### Total de Pontuação Planejada
  - Y pontos de issues.
 
-## 3. Semana Backlog
+## 3. Backlog da Semana
+
+### Desenvolvimento 
+
+1. **Issue:** [#1 [TIPO] ISSUE ](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/16)<br>
+**Responsáveis:** Lorem ipsum, Lorem ipsum, Lorem ipsum<br>
+**Pontuação:** z
+
+### Demais
 
 1. **Issue:** [#1 ISSUE ](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/16)<br>
 **Responsáveis:** Lorem ipsum, Lorem ipsum, Lorem ipsum<br>

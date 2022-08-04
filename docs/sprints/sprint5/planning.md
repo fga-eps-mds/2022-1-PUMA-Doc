@@ -23,7 +23,23 @@
 ### Total de Pontuação Planejada
  - 55 pontos de issues.
 
-## 3. Semana Backlog
+## 3. Backlog da Semana
+
+### Desenvolvimento 
+
+1. **Issue:** [#68 [Bugfix] Validar telefone de usuário no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/68)<br>
+**Responsáveis:** Enzo, Ana e Samuel<br>
+**Pontuação:** 3
+
+2. **Issue:** [#70 [Bugfix] Validar nome de Disciplina no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/70)<br>
+**Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
+**Pontuação:** 5
+
+3. **Issue:** [#75 [Bugfix] Alterar rotulo de botão editar disciplina](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/75)<br>
+**Responsáveis:** Hugo e Cabral<br>
+**Pontuação:** 1
+
+### Demais
 
 1. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
 **Responsáveis:** Bruno<br>
@@ -49,21 +65,9 @@
 **Responsáveis:** Bruno, Marcelo, Breno Yuri e Cainã<br>
 **Pontuação:** 5
 
-7. **Issue:** [#68 Validar telefone de usuário no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/68)<br>
-**Responsáveis:** Enzo, Ana e Samuel<br>
-**Pontuação:** 3
-
-8. **Issue:** [#70 Validar nome de Disciplina no cadastro](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/70)<br>
-**Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
-**Pontuação:** 5
-
 9. **Issue:** [#74 Resultado da Avaliação do Relatório de BugFixes](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/74)<br>
 **Responsáveis:** Bruno, Breno Henrique e Eduardo<br>
 **Pontuação:** 2
-
-10. **Issue:** [#75 Alterar rotulo de botão editar disciplina](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/75)<br>
-**Responsáveis:** Hugo e Cabral<br>
-**Pontuação:** 1
 
 11. **Issue:** [#89 Treinamento SQL](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/89)<br>
 **Responsáveis:** Giovanna<br>
