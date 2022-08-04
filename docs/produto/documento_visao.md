@@ -25,7 +25,7 @@ Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Es
 Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo c/om os objetivos gerais do negócio. [[1]](#ref1).
 
 ![Objetivos do Produto](../assets/imagens/lean_inception/objetivo.png)
-<center>[Objetivos do Produto](../assets/imagens/lean_inception/objetivos.png)</center>
+<center>[Objetivos do Produto](../assets/imagens/lean_inception/objetivo.png)</center>
 
 
 ### Personas
