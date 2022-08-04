@@ -12,20 +12,20 @@ theme:
 nav:
     - Home: index.md
     - Produto:
-        - Visão do produto: produto/documento_visao.md
+        - Visão do Produto: produto/documento_visao.md
         - Documento de Arquitetura: produto/doc_arquitetura.md
         - Protótipo de Alta Fidelidade: produto/prototipo_de_alta.md
         - Backlog Inicial do Produto: produto/backlog_inicial_produto.md
     - Projeto:
         - Quadro de Conhecimento: projeto/quadro_de_conhecimento.md
-        - Plano de comunicação: projeto/quadro_de_disponibilidade.md
-        - Plano de contribuição: projeto/plano_de_contribuicao.md
-        - Plano de gerenciamento de riscos: projeto/plano_de_gerenciamento_de_riscos.md
-        - Plano de custos: projeto/plano_de_custos.md
+        - Plano de Comunicação: projeto/quadro_de_disponibilidade.md
+        - Plano de Contribuição: projeto/plano_de_contribuicao.md
+        - Plano de Gerenciamento de Riscos: projeto/plano_de_gerenciamento_de_riscos.md
+        - Plano de Custos: projeto/plano_de_custos.md
         - Metodologia: projeto/metodologia.md
         - Estrutura Analítica do Projeto: projeto/eap.md
         - Roadmap: projeto/roadmap.md
-    - Gestão do projeto:
+    - Gestão do Projeto:
         - Semana 0:
             - Planning: sprints/sprint0/planning.md
         - Semana 1:
@@ -40,3 +40,6 @@ nav:
             - Review: sprints/sprint4/review.md
         - Semana 5:
             - Planning: sprints/sprint5/planning.md
+            - Review: sprints/sprint5/review.md
+        - Semana 6:
+            - Planning: sprints/sprint6/planning.md
