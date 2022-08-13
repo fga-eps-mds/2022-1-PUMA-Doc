@@ -153,6 +153,11 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 ![](../assets/imagens/arquitetura/DLD.png)
 <center>[Figura 4: Diagrama Lógico de Dados](../assets/imagens/arquitetura/DLD.png)</center>
 
+Esse DLD foi modelado na primeira versão do projeto, nesse semestre o grupo irá trabalhar e fazer transações apenas nas tabelas a seguir. 
+
+![](../assets/imagens/arquitetura/DLDv2.png)
+<center>[Figura 5: Diagrama Lógico de Dados V2](../assets/imagens/arquitetura/DLDv2.png)</center>
+
 #### Dicionario de Dados
 
 ##### PROJECT
@@ -214,3 +219,4 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 | 23/07/2022 | 0.4    | Diagrama de relações                        | Giovanna | 
 | 23/07/2022 | 1.0    | Revisão de documento                        | Hugo     |
 | 31/07/2022 | 1.1    | Padronização do documento                   | Hugo     |
+| 13/08/2022 | 1.2    | Atualização dos diagramas                   | Giovanna e Ana     |
