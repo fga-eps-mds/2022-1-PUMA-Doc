@@ -124,3 +124,4 @@ visualização completa dos passos executados para concluir o método.
 | 1.3    | 11/08/2022 | Atualiza Brainstorm | Hugo  e Eduardo |
 | 1.4    | 14/08/2022 | Atualiza Revisão técnica | Hugo  e Eduardo |
 | 1.5    | 14/08/2022 | Atualiza Sequenciador | Hugo  e Eduardo |
+| 1.6    | 14/08/2022 | Atualiza Canvas | Hugo  e Eduardo |
