@@ -84,6 +84,8 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 
 ### Representação de Dados
 
+A modelagem foi feita pela primeira equipe de desenvolvimento e continuada nesse semestre. Esse modelo foi pensado no PUMA em sua versão final, portanto, a versão atual ainda não utiliza todas as entidades presentes no mesmo. A seguir, representaremos todas as entidades, relacionamentos e tabelas para o projeto.
+
 #### Modelo Entidade-Relacionamento
 
 ##### Entidades
@@ -153,6 +155,11 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 ![](../assets/imagens/arquitetura/DLD.png)
 <center>[Figura 4: Diagrama Lógico de Dados](../assets/imagens/arquitetura/DLD.png)</center>
 
+Esse DLD foi modelado na primeira versão do projeto e se encontra ultrapassada ao representar entidades sem relacionamentos em um Modelo Relacional de Dados. Isso deveria ser corrigido, no entanto, está fora das prioridades do cliente por não agregar nenhum valor atualmente relevante para o projeto. Nesse semestre o grupo irá trabalhar e fazer transações apenas nas tabelas existentes a seguir. 
+
+![](../assets/imagens/arquitetura/DLDv2.png)
+<center>[Figura 5: Diagrama Lógico de Dados V2](../assets/imagens/arquitetura/DLDv2.png)</center>
+
 #### Dicionario de Dados
 
 ##### PROJECT
@@ -214,3 +221,5 @@ O Compose é uma ferramenta para definir e executar aplicativos Docker de vário
 | 23/07/2022 | 0.4    | Diagrama de relações                        | Giovanna | 
 | 23/07/2022 | 1.0    | Revisão de documento                        | Hugo     |
 | 31/07/2022 | 1.1    | Padronização do documento                   | Hugo     |
+| 13/08/2022 | 1.2    | Atualização dos diagramas                   | Giovanna e Ana     |
+| 13/08/2022 | 1.3    | Atualização de descrição do Modelo Relacional de Dados | Giovanna e Ana     |
