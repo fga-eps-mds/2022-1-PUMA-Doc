@@ -1,4 +1,4 @@
-# Planejamento Sprint 6
+# Planejamento Semana 6
 
 ## 1. Visão Geral
 **Número da Sprint:** 6;<br>
