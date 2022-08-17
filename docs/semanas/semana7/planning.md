@@ -12,18 +12,15 @@
 
 ### Objetivos
 - Desenvolver mais código;<br>
-- Corrigir mais Bugs e Desenvolver Melhorias;<br>
-- Preparar o projeto para entrega da Release 1;<br>
-- Gerar um Resultado da Avaliação do Relatório de Bugs e Melhorias; <br>
-- Replanejar Funcionalidades, Sequenciador e Canvas e Escopo do Projeto;<br>
-- Finalizar Treinamentos para a Release 1;<br>
-- Finalizar o Documento de Arquitetura;<br>
-- Desenvolver Documentos: Product Backlog, EAP e ROADMAP;<br>
-- Melhorar Plano de Custo;<br>
-- Finalizar plataforma de analytics e CI/CD.<br>
+- Continuar correção Bugs e desenvolvimento de melhorias;<br>
+- Conseguir gerar CI para todos os repositórios; <br>
+- Adicionar README a todos os repositórios; <br>
+- Adicionar README a todos os repositórios; <br>
+- Atualizar documentação; <br>
+- Revisar tabelas dinâmicas de todos os documentos.<br>
 
 ### Total de Pontuação Planejada
- - 72 pontos de issues.
+ - 41 pontos de issues.
 
 ## 3. Backlog da Semana
 
