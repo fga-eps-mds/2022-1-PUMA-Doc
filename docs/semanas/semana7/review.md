@@ -2,8 +2,8 @@
 
 ## 1. Visão Geral
 **Número da Semana:** 7;<br>
-**Data de Início:** 02/08/2022;<br>
-**Data de Término:** 09/08/2022;<br>
+**Data de Início:** 09/08/2022;<br>
+**Data de Término:** 16/08/2022;<br>
 **Duração:** 7 dias;<br>
 **Scrum Master da Semana:** Enzo Gabriel;<br>
 **Devops da Semana:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
