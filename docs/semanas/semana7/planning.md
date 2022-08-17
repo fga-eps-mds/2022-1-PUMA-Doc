@@ -68,6 +68,6 @@
 **Responsáveis:** Giovanna<br>
 **Pontuação:** 8
 
-6. **Issue:** [#134 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/134)<br>
+7. **Issue:** [#134 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/134)<br>
 **Responsáveis:** Bruno, Enzo, Hugo e Giovanna<br>
 **Pontuação:** 8
