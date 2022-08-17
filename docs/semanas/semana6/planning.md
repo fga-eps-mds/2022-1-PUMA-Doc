@@ -1,12 +1,12 @@
 # Planejamento Semana 6
 
 ## 1. Visão Geral
-**Número da Sprint:** 6;<br>
+**Número da Semana:** 6;<br>
 **Data de Início:** 25/07/2022;<br>
-**Data de Término:** 01/07/2022;<br>
-**Duração:** 8 dias;<br>
-**Scrum Master da Sprint:** Bruno Félix;<br>
-**Devops da Sprint:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
+**Data de Término:** 01/08/2022;<br>
+**Duração:** 7 dias;<br>
+**Scrum Master da Semana:** Bruno Félix;<br>
+**Devops da Semana:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
 
 ## 2. Detalhes
 
