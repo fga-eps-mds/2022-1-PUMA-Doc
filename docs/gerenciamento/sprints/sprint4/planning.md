@@ -2,8 +2,8 @@
 
 ## 1. Visão Geral
 **Número da Semana:** 7;<br>
-**Data de Início:** 17/08/2022;<br>
-**Data de Término:** 23/08/2022;<br>
+**Data de Início:** 16/08/2022;<br>
+**Data de Término:** 22/08/2022;<br>
 **Duração:** 7 dias;<br>
 **Scrum Master da Semana:** Enzo Gabriel;<br>
 **Devops da Semana:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
@@ -29,13 +29,13 @@
 **Responsáveis:** Breno Yuri e Cainã<br>
 **Pontuação:** 2
 
-2. **Issue:** [#98 [US] Eu, como usuário, gostaria de voltar para a página passada](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/98)<br>
+2. **Issue:** [#98 [US] Eu, como professor, gostaria de ver as minhas disciplinas em destaque](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/98)<br>
 **Responsáveis:** Ana e Cabral<br>
-**Pontuação:** 3
+**Pontuação:** 8
 
 3. **Issue:** [#101 [Melhoria] Correções visuais dos campos de seleção em Criar disciplinas](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/101)<br>
 **Responsáveis:** Hugo e Enzo<br>
-**Pontuação:** 3
+**Pontuação:** 2
 
 4. **Issue:** [#109 [US] Eu, como professor, gostaria de ver somente informações importantes na listagem de disciplinas, além de uma coluna com os nomes dos professores responsáveis por cada disciplina](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/109)<br>
 **Responsáveis:** Eduardo e Breno Henrique<br>
@@ -59,13 +59,9 @@
 **Responsáveis:** Enzo e Giovanna<br>
 **Pontuação:** 3
 
-4. **Issue:** [#128 Adicionar CI ao repositório de front](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/128)<br>
+5. **Issue:** [#128 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/128)<br>
 **Responsáveis:** Bruno, Enzo, Hugo e Giovanna<br>
-**Pontuação:** 8
-
-5. **Issue:** [#134 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/134)<br>
-**Responsáveis:** Bruno, Enzo, Hugo e Giovanna<br>
-**Pontuação:** 8
+**Pontuação:** 13
 
 6. **Issue:** [#136 Corrigir documento de planejamento de riscos](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/136)<br>
 **Responsáveis:** Enzo<br>

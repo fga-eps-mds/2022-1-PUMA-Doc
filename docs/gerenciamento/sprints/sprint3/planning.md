@@ -3,7 +3,7 @@
 ## 1. Visão Geral
 **Número da Semana:** 7;<br>
 **Data de Início:** 09/08/2022;<br>
-**Data de Término:** 16/08/2022;<br>
+**Data de Término:** 15/08/2022;<br>
 **Duração:** 7 dias;<br>
 **Scrum Master da Semana:** Enzo Gabriel;<br>
 **Devops da Semana:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
@@ -38,9 +38,9 @@
 **Responsáveis:** Breno Yuri e Cainã<br>
 **Pontuação:** 2
 
-4. **Issue:** [#98 [US] Eu, como usuário, gostaria de voltar para a página passada](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/98)<br>
+4. **Issue:** [#98 [US] Eu, como professor, gostaria de ver as minhas disciplinas em destaque](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/98)<br>
 **Responsáveis:** Ana e Cabral<br>
-**Pontuação:** 3
+**Pontuação:** 8
 
 ### Demais
 
@@ -64,10 +64,6 @@
 **Responsáveis:** Enzo e Giovanna<br>
 **Pontuação:** 3
 
-6. **Issue:** [#128 Adicionar CI ao repositório de front](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/128)<br>
-**Responsáveis:** Giovanna<br>
-**Pontuação:** 8
-
-7. **Issue:** [#134 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/134)<br>
+7. **Issue:** [#128 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/128)<br>
 **Responsáveis:** Bruno, Enzo, Hugo e Giovanna<br>
-**Pontuação:** 8
+**Pontuação:** 13

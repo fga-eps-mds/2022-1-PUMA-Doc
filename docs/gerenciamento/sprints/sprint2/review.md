@@ -107,14 +107,20 @@
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
+
 ## 3. Resultados
 
-**Pontuação Planejada:** 72;<br>
-**Pontuação Concluída:** 72.<br>
+**Pontuação Planejada:** 75;<br>
+**Pontuação Concluída:** 56.<br>
 
 ### Burndown
+![Burndown Report](../../../assets/imagens/gerenciamento/sprints/sprint2/burndown-report.png)
+<center>[Figura 1: Burndown Report gerado pelo Zenhub](../../../assets/imagens/gerenciamento/sprints/sprint2/burndown-report.png)</center>
 
 ### Velocity
+![Velocity Report](../../../assets/imagens/gerenciamento/sprints/sprint2/velocity-report.png)
+<center>[Figura 2: Velocity Report gerado pelo Zenhub](../../../assets/imagens/gerenciamento/sprints/sprint2/velocity-report.png)</center>
+
 
 ## 4. Retrospective
 

@@ -12,9 +12,9 @@
 
 ### Dívidas
 
-1. **Issue:** [#98 [US] Eu, como usuário, gostaria de voltar para a página passada](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/98)<br>
+1. **Issue:** [#98 [US] Eu, como professor, gostaria de ver as minhas disciplinas em destaque](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/98)<br>
 **Responsáveis:** Ana e Cabral;<br>
-**Pontuação:** 3;<br>
+**Pontuação:** 8;<br>
 **Resultado:** <span class="tarefa-divida">Dívida</span>.
 
 2. **Issue:** [#83 [US] Eu, como usuário, gostaria de voltar para a página passada](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/83)<br>
@@ -32,14 +32,9 @@
 **Pontuação:** 3;<br>
 **Resultado:** <span class="tarefa-divida">Dívida</span>.
 
-5. **Issue:** [#134 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/134)<br>
+5. **Issue:** [#128 Adicionar CI aos demais repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/128)<br>
 **Responsáveis:** Bruno, Enzo, Hugo e Giovanna<br>
-**Pontuação:** 8;<br>
-**Resultado:** <span class="tarefa-divida">Dívida</span>.
-
-6. **Issue:** [#128 Adicionar CI ao repositório de front](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/128)<br>
-**Responsáveis:** Giovanna<br>
-**Pontuação:** 8;<br>
+**Pontuação:** 13;<br>
 **Resultado:** <span class="tarefa-divida">Dívida</span>.
 
 7. **Issue:** [#130 Documentar planejamento de qualidade](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/130)<br>
@@ -69,14 +64,20 @@
 **Pontuação:** 3;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
+
 ## 3. Resultados
 
-**Pontuação Planejada:** 41;<br>
+**Pontuação Planejada:** 37;<br>
 **Pontuação Concluída:** 11.<br>
 
 ### Burndown
+![Burndown Report](../../../assets/imagens/gerenciamento/sprints/sprint3/burndown-report.png)
+<center>[Figura 1: Burndown Report gerado pelo Zenhub](../../../assets/imagens/gerenciamento/sprints/sprint3/burndown-report.png)</center>
 
 ### Velocity
+![Velocity Report](../../../assets/imagens/gerenciamento/sprints/sprint3/velocity-report.png)
+<center>[Figura 2: Velocity Report gerado pelo Zenhub](../../../assets/imagens/gerenciamento/sprints/sprint3/velocity-report.png)</center>
+
 
 ## 4. Retrospective
 

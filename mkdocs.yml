@@ -26,22 +26,27 @@ nav:
         - Estrutura Analítica do Projeto: projeto/eap.md
         - Roadmap: projeto/roadmap.md
     - Gestão do Projeto:
-        - Semana 0:
-            - Planning: semanas/semana0/planning.md
         - Semana 1:
-            - Planning: semanas/semana1/planning.md
+            - Planning: gerenciamento/semanas/semana1/planning.md
         - Semana 2:
-            - Planning: semanas/semana2/planning.md
+            - Planning: gerenciamento/semanas/semana2/planning.md
         - Semana 3:
-            - Planning: semanas/semana3/planning.md
-            - Review: semanas/semana3/review.md
+            - Planning: gerenciamento/semanas/semana3/planning.md
         - Semana 4:
-            - Planning: semanas/semana4/planning.md
-            - Review: semanas/semana4/review.md
+            - Planning: gerenciamento/semanas/semana4/planning.md
+            - Review: gerenciamento/semanas/semana4/review.md
         - Semana 5:
-            - Planning: semanas/semana5/planning.md
-            - Review: semanas/semana5/review.md
-        - Semana 6:
-            - Planning: semanas/semana6/planning.md
-            - Review: semanas/semana6/review.md
+            - Planning: gerenciamento/semanas/semana5/planning.md
+            - Review: gerenciamento/semanas//semana5/review.md
+        - Sprint 1:
+            - Planning: gerenciamento/sprints/sprint1/planning.md
+            - Review: gerenciamento/sprints/sprint1/review.md
+        - Sprint 2:
+            - Planning: gerenciamento/sprints/sprint2/planning.md
+            - Review: gerenciamento/sprints/sprint2/review.md
+        - Sprint 3:
+            - Planning: gerenciamento/sprints/sprint3/planning.md
+            - Review: gerenciamento/sprints/sprint3/review.md
+        - Sprint 4:
+            - Planning: gerenciamento/sprints/sprint3/planning.md
 
