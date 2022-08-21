@@ -25,6 +25,7 @@ nav:
         - Metodologia: projeto/metodologia.md
         - Estrutura Analítica do Projeto: projeto/eap.md
         - Roadmap: projeto/roadmap.md
+        - Padrões da Comunidade: projeto/padroes_da_comunidade.md
     - Gestão do Projeto:
         - Semana 0:
             - Planning: sprints/sprint0/planning.md
