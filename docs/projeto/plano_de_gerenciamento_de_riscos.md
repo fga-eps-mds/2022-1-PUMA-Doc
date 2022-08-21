@@ -57,27 +57,6 @@ Sendo que:
 ## Identificação dos Riscos
 
 É feito um levantamento dos riscos analisando eventos anteriores de outros projetos e do time atual, fazendo comparações e analisando o presente momento de execução do projeto, para podermos categorizar os riscos levantados.
-
-## Riscos levantados
-
-|Risco|Descrição|Ação Preventiva|Ação Corretiva|Categoria|Probabilidade|Impacto|Prioridade|
-|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|**R01**|Dificuldade com as tecnologias do projeto|Criar tarefas para estudo e aplicar treinamentos|Estudo e pareamentos efetivos|Técnico|3|5|15|
-|**R02**|Atraso nas entregas|Organizar melhor o tempo dos integrantes|Definir novas datas e caso precise um novo pareamento|Gerência|4|4|17|
-|**R03**|Qualidade do projeto não atender às expectativas do cliente|Alinhar frequentemente o estado do projeto e captar feedbacks dos clientes|Adaptar o projeto de acordo com as demandas do cliente|Externo|3|5|15|
-|**R04**|Alguns dos membros contrair o Corona Vírus ou outra doença|Tomar vacinas, usar máscara com frequência e evitar ficar em lugares muito cheios|Realocar as tarefas do membro adoentado para outras pessoas do grupo|Externo|4|3|11|
-|**R05**|A pandemia do Corona Vírus piorar ou surgir uma nova pandemia de alguma doença|Tomar cuidado, e seguir as recomendações das autoridades|Não há nada a ser feito|Externo|2|5|18|
-|**R06**|Indisponibilidade de membros da equipe|Ter uma transparência de horários disponíveis e indisponíveis|Ter uma maior organização de tempo e redistribuição de tarefas|Externo|2|4|8|
-|**R07**|Baixa produtividade dos integrantes do grupo|Motivação dos membros, e uma maior integração com reuniões constantes|Ter conversas para saber o motivo e agir diretamente no problema|Gerência|4|5|18|
-|**R08**|Falta dos membros durante Daily e reunião de planejamento|Definir datas, horários e locais que sejam acessíveis a todos|Procurar saber os motivos da pessoa, e agir sobre esses motivos|Gerência|5|5|19|
-|**R09**|Alteração do escopo|Manter boa comunicação com as partes envolvidas do projeto|Documentar e aprimorar os requisitos|Gerência|5|4|20|
-|**R10**|Desistência da disciplina|Estimular a máxima participação dos membros da equipe|Distribuir tarefas para a quantidade de membros atuais do projeto|Gerência|3|5|15|
-|**R11**|Falta de comunicação|Elaborar e seguir plano de comunicações|Rever plano de comunicação|Organizacional|4|3|13|
-|**R12**|Conflito entre entregas da sprint e de tarefas de outras disciplinas|Organização das tarefas para não haver choque de entrega|Diminuir o escopo da sprint e redistribuir tarefas|Externo|5|3|13|
-|**R13**|Alteração nas datas da disciplina|Não há nenhuma ação a ser feita|Redefinir datas das entregas|Externo|2|4|8|
-|**R14**|Aperto nas entregas devido ao semestre mais curto|Se organizar previamente para evitar muitas tarefas acumuladas|Se empenhar para fazer a tarefa de maneira correta e melhorar para as próximas|Gerência|4|5|19|
-|**R15**|Greves na UNB|Não há nenhuma ação a ser feita|Não há nenhuma ação a ser feita|Externo|2|5|1|
-
 ## Medidas de gerenciamento
 
 <iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRadOwXUyGLBt_2fbIkZx446JHsAbbQi8Mo8Lrmi3sdPvA8sKFV_lXYHIyYh6xX6aavPU6cEquGNdsR/pubhtml"></iframe>
