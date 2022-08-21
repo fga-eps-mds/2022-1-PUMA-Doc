@@ -1,7 +1,7 @@
 # Quadro de Conhecimento
 ## Introdução
 
-Segundo Sardagna(2021) [[1]](#ref1) a gestão do conhecimento engloba uma série de ações para "identificar e analisar os conhecimentos disponíveis e desejáveis para o desenvolvimento da empresa”. Isso é: identificar quais os conhecimentos que a equipe possui, evolui-los e usa-los a favor do projeto. 
+Segundo Sardagna(2021) a gestão do conhecimento engloba uma série de ações para "identificar e analisar os conhecimentos disponíveis e desejáveis para o desenvolvimento da empresa”. Isso é: identificar quais os conhecimentos que a equipe possui, evolui-los e usa-los a favor do projeto. 
 
 Por esse motivo, nossa equipe escolheu o quadro de conhecimentos, a função dele é  mostrar aos integrantes da equipe o nível de cada membro nas tecnologias que serão utilizadas no desenvolvimento do projeto, facilitando assim a distribuição de tarefas e evolução ao longo do semestre.
 

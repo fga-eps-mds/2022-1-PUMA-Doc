@@ -84,9 +84,9 @@ Sendo que:
 
 ## Bibliografia
 
-[1] JOÃO, Lucas. Plano de Gerenciamento de Riscos do grupo ArBC. Disponível em: https://github.com/fga-eps-mds/2019.2-ArBC/blob/develop/docs/Plano-Gerenciamento-Riscos.md. Acesso em 09 jul 2022.
+[1] JOÃO, Lucas. Plano de Gerenciamento de Riscos do grupo ArBC. Disponível em: <https://github.com/fga-eps-mds/2019.2-ArBC/blob/develop/docs/Plano-Gerenciamento-Riscos.md>. Acesso em 09 jul 2022.
 
-[2] FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio. Disponível em: https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/. Acesso em 09 jul 2022.
+[2] FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio. Disponível em: <https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/>. Acesso em 09 jul 2022.
 
 ## Histórico de Versão
 
