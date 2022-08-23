@@ -1,14 +1,14 @@
-# Review Semana 7
+# Review Sprint 3
 
 ## 1. Visão Geral
-**Número da Semana:** 7;<br>
+**Número da Sprint:** 7;<br>
 **Data de Início:** 09/08/2022;<br>
 **Data de Término:** 16/08/2022;<br>
 **Duração:** 7 dias;<br>
-**Scrum Master da Semana:** Enzo Gabriel;<br>
-**Devops da Semana:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
+**Scrum Master da Sprint:** Enzo Gabriel;<br>
+**Devops da Sprint:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
 
-## 2. Semana Backlog
+## 2. Sprint Backlog
 
 ### Dívidas
 
@@ -90,7 +90,7 @@
 ### Pontos Negativos
 
 - Tarefas de desenvolvimentos ficaram como dívida técnica;
-- Semana bastante corrida;
+- Sprint bastante corrida;
 - Muitas dívidas técnicas pós Release,
 
 ### Pontos a Melhorar
