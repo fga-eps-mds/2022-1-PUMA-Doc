@@ -1,4 +1,4 @@
-# Review Sprint 6
+# Review Sprint 2
 
 ## 1. Visão Geral
 **Número da Sprint:** 2;<br>
