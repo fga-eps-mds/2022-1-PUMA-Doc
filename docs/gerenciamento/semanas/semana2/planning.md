@@ -1,7 +1,7 @@
-# Planejamento Semana 1
+# Planejamento Semana 2
 
 ## 1. Visão Geral
-**Número da Semana:** 1;<br>
+**Número da Semana:** 2;<br>
 **Data de Início:** 20/06/2022;<br>
 **Data de Término:** 26/06/2022;<br>
 **Duração:** 7 dias;<br>

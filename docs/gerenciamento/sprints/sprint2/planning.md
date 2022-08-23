@@ -1,10 +1,10 @@
-# Planejamento Sprint 6
+# Planejamento Sprint 2
 
 ## 1. Visão Geral
-**Número da Sprint:** 6;<br>
+**Número da Sprint:** 2;<br>
 **Data de Início:** 25/07/2022;<br>
-**Data de Término:** 01/07/2022;<br>
-**Duração:** 8 dias;<br>
+**Data de Término:** 01/08/2022;<br>
+**Duração:** 7 dias;<br>
 **Scrum Master da Sprint:** Bruno Félix;<br>
 **Devops da Sprint:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
 
@@ -25,7 +25,7 @@
 ### Total de Pontuação Planejada
  - 72 pontos de issues.
 
-## 3. Backlog da Semana
+## 3. Backlog da Sprint
 
 ### Desenvolvimento
 

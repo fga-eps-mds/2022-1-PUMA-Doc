@@ -1,14 +1,14 @@
-# Review Semana 5
+# Review Sprint 1
 
 ## 1. Visão Geral
-**Número da Semana:** 5;<br>
+**Número da Sprint:** 1;<br>
 **Data de Início:** 18/07/2022;<br>
 **Data de Término:** 24/07/2022;<br>
 **Duração:** 7 dias;<br>
-**Scrum Master da Semana:** Bruno Félix;<br>
-**Devops da Semana:** Enzo Gabriel e Bruno Félix.<br>
+**Scrum Master da Sprint:** Bruno Félix;<br>
+**Devops da Sprint:** Enzo Gabriel e Bruno Félix.<br>
 
-## 2. Semana Backlog
+## 2. Sprint Backlog
 
 ### Dívidas
 
@@ -84,7 +84,7 @@
 **Pontuação:** 2;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
-4. **Issue:** [#94 Planning Semana 5](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/94)<br>
+4. **Issue:** [#94 Planning Sprint 1](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/94)<br>
 **Responsáveis:** Bruno;<br>
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
@@ -101,24 +101,24 @@
 **Pontuação Concluída:** 12.<br>
 
 ### Burndown
-![Burndown Report](../../assets/imagens/sprints/sprint5/burndown-report.png)
-<center>[Figura 1: Burndown Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint5/burndown-report.png)</center>
+![Burndown Report](../../../assets/imagens/gerenciamento/sprints/sprint1/burndown-report.png)
+<center>[Figura 1: Burndown Report gerado pelo Zenhub](../../../assets/imagens/gerenciamento/sprints/sprint1/burndown-report.png)</center>
 
 ### Velocity
-![Velocity Report](../../assets/imagens/sprints/sprint5/velocity-report.png)
-<center>[Figura 2: Velocity Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint5/velocity-report.png)</center>
+![Velocity Report](../../../assets/imagens/gerenciamento/sprints/sprint1/velocity-report.png)
+<center>[Figura 2: Velocity Report gerado pelo Zenhub](../../../assets/imagens/gerenciamento/sprints/sprint1/velocity-report.png)</center>
 
 
 ## 4. Retrospective
 
 ### Pontos Positivo
 
-- Semana de início de código;
+- Sprint de início de código;
 - Cada pessoa criar sua própria issue;
 - Uso dos padrão de Contribuição;
 - Maior comunicação para pareamentos;
 - Todos participaram do projeto;
-- Semana de inicio de código.
+- Sprint de inicio de código.
 
 ### Pontos Negativos
 
