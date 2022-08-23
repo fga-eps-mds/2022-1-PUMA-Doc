@@ -1,12 +1,12 @@
-# Planejamento Semana 7
+# Planejamento Sprint 4
 
 ## 1. Visão Geral
-**Número da Semana:** 7;<br>
+**Número da Sprint:** 4;<br>
 **Data de Início:** 16/08/2022;<br>
 **Data de Término:** 22/08/2022;<br>
 **Duração:** 7 dias;<br>
-**Scrum Master da Semana:** Enzo Gabriel;<br>
-**Devops da Semana:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
+**Scrum Master da Sprint:** Enzo Gabriel;<br>
+**Devops da Sprint:** Enzo Gabriel, Bruno Félix e Giovanna Bottino.<br>
 
 ## 2. Detalhes
 
@@ -21,7 +21,7 @@
 ### Total de Pontuação Planejada
  - 41 pontos de issues.
 
-## 3. Backlog da Semana
+## 3. Backlog da Sprint
 
 ### Desenvolvimento
 

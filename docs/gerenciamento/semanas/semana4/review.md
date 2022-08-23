@@ -2,32 +2,14 @@
 
 ## 1. Visão Geral
 **Número da Semana:** 4;<br>
-**Data de Início:** 11/07/2022;<br>
-**Data de Término:** 17/07/2022;<br>
-**Duração:** 7 dias;<br>
-**Scrum Master da Semana:** Giovanna Bottino;<br>
-**Devops da Semana:** Enzo Gabriel e Bruno Félix<br>
-**Arquiteto da Semana:** Hugo Aragão.<br>
+**Data de Início:** 04/07/2022;<br>
+**Data de Término:** 10/07/2022;<br>
+**Duração:** 7 dias.<br>
 
 
 ## 2. Semana Backlog
 
 ### Dívidas
-
-1. **Issue:** [#21 Treinamento Docker](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/21)<br>
-**Responsáveis:** Bruno;<br>
-**Pontuação:** 3;<br>
-**Resultado:** <span class="tarefa-divida">Dívida</span>.
-
-4. **Issue:** [#53 Implementar o CI/CD nos Repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/53)<br>
-**Responsáveis:** Bruno, Enzo, Eduardo e Cainã;<br>
-**Pontuação:** 5;<br>
-**Resultado:** <span class="tarefa-divida">Dívida</span>.
-
-5. **Issue:** [#54 Implementar Analytics do Projeto](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/54)<br>
-**Responsáveis:** Bruno, Enzo, Eduardo e Cainã;<br>
-**Pontuação:** 2;<br>
-**Resultado:** <span class="tarefa-divida">Dívida</span>.
 
 2. **Issue:** [#31 Desenvolver Documento de Visão](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/31)<br>
 **Responsáveis:** MDS + Giovanna e Hugo;<br>
@@ -39,79 +21,78 @@
 **Pontuação:** 8;<br>
 **Resultado:** <span class="tarefa-divida">Dívida</span>.
 
+
 ### Concluídas
 
-6. **Issue:** [#65 Documentar Protótipo de Alta](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/65)<br>
-**Responsáveis:** Breno Yuri e Ana;<br>
-**Pontuação:** 3;<br>
-**Resultado:** <span class="tarefa-concluida">Concluída</span>.
-
-7. **Issue:** [Desenvolver Documento de Metodologia](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/60)<br>
-**Responsáveis:** Marcelo e Cabral;<br>
-**Pontuação:** 2;<br>
-**Resultado:** <span class="tarefa-concluida">Concluída</span>.
-
-8. **Issue:** [#79 Desenvolver Home/ README](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/79)<br>
-**Responsáveis:** Breno Henrique;<br>
-**Pontuação:** 2;<br>
-**Resultado:** <span class="tarefa-concluida">Concluída</span>.
-
-8. **Issue:** [#62 Documentação dinâmica](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/62)<br>
-**Responsáveis:** Giovanna, Enzo e Marcelo;<br>
-**Pontuação:** 1;<br>
-**Resultado:** <span class="tarefa-concluida">Concluída</span>.
-
-8. **Issue:** [#34 Desenvolver Plano de Contribuição](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/34)<br>
+1. **Issue:** [#34 Desenvolver Plano de Contribuição](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/34)<br>
 **Responsáveis:** Hugo e Breno Henrique;<br>
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
-8. **Issue:** [#14 Planning Semana 3](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/14)<br>
+1. **Issue:** [#14 Planning Semana 3](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/14)<br>
 **Responsáveis:** Giovanna;<br>
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
-8. **Issue:** [#56 Planning Semana 4](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/56)<br>
+1. **Issue:** [#41 Desenvolver Plano de Custos](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/41)<br>
+**Responsáveis:** Marcelo e Ana;<br>
+**Pontuação:** 3;<br>
+**Resultado:** <span class="tarefa-concluida">Concluída</span>.
+
+1. **Issue:** [#15 Desenvolver Plano de Gerenciamento de Risco](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/15)<br>
+**Responsáveis:** Enzo e Breno Yuri;<br>
+**Pontuação:** 5;<br>
+**Resultado:** <span class="tarefa-concluida">Concluída</span>.
+
+1. **Issue:** [#33 Criar ROADMAP ZenHub](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/33)<br>
+**Responsáveis:** Bruno;<br>
+**Pontuação:** 1;<br>
+**Resultado:** <span class="tarefa-concluida">Concluída</span>.
+
+1. **Issue:** [#39 Desenvolver Plano de Comunicação](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/39)<br>
 **Responsáveis:** Giovanna;<br>
 **Pontuação:** 1;<br>
 **Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
+1. **Issue:** [#40 Documentar Quadro de Conhecimento](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/40)<br>
+**Responsáveis:** Giovanna e Gabriel;<br>
+**Pontuação:** 3;<br>
+**Resultado:** <span class="tarefa-concluida">Concluída</span>.
+
+1. **Issue:** [#45 Importar repositórios](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/issues/45)<br>
+**Responsáveis:** Giovanna e Hugo;<br>
+**Pontuação:** 2;<br>
+**Resultado:** <span class="tarefa-concluida">Concluída</span>.
 
 ## 3. Resultados
 
-**Pontuação Planejada:** 31;<br>
-**Pontuação Concluída:** 11.<br>
-
-### Burndown
-![Burndown Report](../../assets/imagens/sprints/sprint4/burndown-report.png)
-<center>[Figura 1: Burndown Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint4/burndown-report.png)</center>
-
-### Velocity
-![Velocity Report](../../assets/imagens/sprints/sprint4/velocity-report.png)
-<center>[Figura 2: Velocity Report gerado pelo Zenhub](../../assets/imagens/sprints/sprint4/velocity-report.png)</center>
+**Pontuação Planejada:** 27;<br>
+**Pontuação Concluída:** 17.<br>
 
 
 ## 4. Retrospective
 
-### Pontos Positivo
-
-- Levantou todas os bugs e melhorias do projeto;
-- Amadureceu o Lean Inception;
-- Integrou mais o time: Mais pessoas sabem o que estão fazendo e estão participando;
-- Bastante Pareamentos;
-- Pauta de reunião de quarta enviada previamente;
-- Dailies Diárias.
+### Pontos Positivos
+- Começo do Projeto;
+- Maior comunicação de MDS para EPS;
+- Início do pareamento;
+- Mais engajamento por parte dos MDS;
+- Primeiro contato mais prático;
+- Planejar, junto ao time do Darcy, o processo de elicitação dos bugs e melhorias.
 
 ### Pontos Negativos
-
-- Falhas no uso do padrão de Contribuição;
-- Planejar previamente os horários de pareamento;
-- Baixo numero de Comentários nas issues;
-- Issues feitas somente no final da Semana.
+- Não detalhamento das funcionalidades já entregue, bugs e melhorias;
+- Não planejamento para a reunião de Quarta;
+- Lean Inception travou nosso avanço;
+- Algumas issues foram feitas no final da Semana;
+- Não fez Daily nessa Semana;
+- Nem todos os MDS participaram do projeto essa semana.
 
 ### Pontos a Melhorar
-
-- Cada pessoa criar sua própria issue no inicio da Semana;
-- Atenção no uso dos padrão de Contribuição;
-- Maior comunicação para alinhar o pareamento;
-- Uso maior da issue como hub da sua tarefa.
+- Elicitar relatório das funcionalidades/ melhorias;
+- Enviarmos via discord pauta de reunião até terça feira;
+- Fechar Lean Inception após o relatório das funcionalidades/ melhorias;
+- Fazer issues mais no início do Semana;
+- Fazer Dailies diárias;
+- Mais MDS participarem do projeto;
+- Cada pessoa criar sua própria issue no início da Semana.
