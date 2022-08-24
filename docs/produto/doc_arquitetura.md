@@ -33,12 +33,12 @@ Estrutura do documento:
 
 A imagem a seguir apresenta uma visão geral de toda a arquitetura. Representando todos os microsserviços utilizados e suas relações.
 
-![](../assets/imagens/arquitetura/diagrama-de-relacoes.png)
+![Relacoes v1](../assets/imagens/arquitetura/diagrama-de-relacoes.png)
 <center>[Figura 1: Visão Geral da Arquitetura](../assets/imagens/arquitetura/diagrama-de-relacoes.png)</center>
 
 Essa arquitetura foi desenvolvida na primeira versão do projeto e é utilizada até hoje. Para esse semestre será modificado apenas alguns serviços apresentados na imagem a seguir.
 
-![](../assets/imagens/arquitetura/diagrama-de-relacoesv2.png)
+![Relacoes v2](../assets/imagens/arquitetura/diagrama-de-relacoesv2.png)
 <center>[Figura 2: Escopo de Arquitetura do Semestre](../assets/imagens/arquitetura/diagrama-de-relacoesv2.png)</center>
 
 ### Representação dos Serviços
@@ -147,17 +147,17 @@ A modelagem foi feita pela primeira equipe de desenvolvimento e continuada nesse
 
 #### Diagrama Entidade-Relacionamento
 
-![](../assets/imagens/arquitetura/DER.png)
+![DER](../assets/imagens/arquitetura/DER.png)
 <center>[Figura 3: Diagrama Entidade-Relacionamento](../assets/imagens/arquitetura/DER.png)</center>
 
 #### Diagrama Lógico de Dados
 
-![](../assets/imagens/arquitetura/DLD.png)
+![DLD](../assets/imagens/arquitetura/DLD.png)
 <center>[Figura 4: Diagrama Lógico de Dados](../assets/imagens/arquitetura/DLD.png)</center>
 
 Esse DLD foi modelado na primeira versão do projeto e se encontra ultrapassada ao representar entidades sem relacionamentos em um Modelo Relacional de Dados. Isso deveria ser corrigido, no entanto, está fora das prioridades do cliente por não agregar nenhum valor atualmente relevante para o projeto. Nesse semestre o grupo irá trabalhar e fazer transações apenas nas tabelas existentes a seguir. 
 
-![](../assets/imagens/arquitetura/DLDv2.png)
+![DLDv2](../assets/imagens/arquitetura/DLDv2.png)
 <center>[Figura 5: Diagrama Lógico de Dados V2](../assets/imagens/arquitetura/DLDv2.png)</center>
 
 #### Dicionario de Dados

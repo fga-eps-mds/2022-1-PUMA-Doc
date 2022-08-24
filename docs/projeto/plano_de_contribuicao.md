@@ -8,6 +8,7 @@ Este documento determina as regras para submissão de códigos para este reposit
 Toda e qualquer contribuição deve estar vinculada a uma e tão somente uma issue. Toda issue deve ser preenchida obrigatoriamente conforme o [template _feature_](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/blob/main/.github/ISSUE_TEMPLATE/default_issue.md) ou [_bug_](https://github.com/fga-eps-mds/2022-1-PUMA-Doc/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) e deve representar uma contribuição clara, objetiva e independente de outras issues, dentro do possível.
 
 Se uma issue _feature_ precisar de mais de um pull request ou se o prazo de conclusão for maior que uma sprint, essa issue deve ser quebrada em issues menores. As issues possuirão dois perfis de responsáveis:
+
 1. Assignees: pessoa(s) responsáveis por desenvolver a issue, seja de código, seja de design, seja de documentação. Em caso de código, o pull request será vinculado. Em caso de outros tipos de artefato, eles devem ser linkados ou anexados na issue como prova de conclusão.
 2. Reviewers: pessoa(s) responsáveis por verificar a conclusão da issue. Em caso de código, eles devem executar a funcionalidade ou correção de bug para verificar a conclusão.
 
@@ -27,7 +28,7 @@ Por questões de padronização e rastreabilidade, os commits devem seguir as se
 - Utilize a língua portuguesa na mensagem do commit
 - Deve conter um título curto e objetivo do que foi feito naquele _commit_
 - Deve começar com um verbo no presente do indicativo (corrige, adiciona, retira, melhora, etc.)
-- Caso o commit seja resultado de um trabalho em equipe, utilize _ Co-authored-by:_
+- Caso o commit seja resultado de um trabalho em equipe, utilize *Co-authored-by:*
 
 __Exemplo Trabalhando Sozinho:__
     

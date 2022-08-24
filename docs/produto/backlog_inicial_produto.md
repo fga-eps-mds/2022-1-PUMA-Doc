@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Após todo o debate e discussões com o cliente a cerca do escopo do produto, geramos uma série de funcionalidades para serem trabalhadas no semestre, esse processo pode ser visto no [Lean Inception](https://fga-eps-mds.github.io/2022-1-PUMA-Doc/produto/documento_visao/).
+Após todo o debate e discussões com o cliente a cerca do escopo do produto, geramos uma série de funcionalidades para serem trabalhadas no semestre, esse processo pode ser visto no [Documento de Visão](https://fga-eps-mds.github.io/2022-1-PUMA-Doc/produto/documento_visao/) onde desenvolvemos o Lean Inseption.
 
 Com tudo isso podemos gerar um resultado de todos os Bugs, Melhorias e Novas Implementações que são conhecidas atualmente e poderão ser desenvolvidos ao longo do tempo.
 
@@ -22,7 +22,7 @@ Com tudo isso podemos gerar um resultado de todos os Bugs, Melhorias e Novas Imp
 | Corrigir estilo cabeçalho da tabela listagem projetos | 5 |
 | Corrigir posição do Botão Avaliar | 5 |
 
-### Melhoria
+### Melhorias
 
 | **Melhoria** | **Pontuação** |
 | :-: | :-: |

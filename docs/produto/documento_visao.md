@@ -3,18 +3,18 @@
 
 Este documento tem como objetivo apresentar o produto PUMA, utilizando o método Lean Inception. Esse método foi desenvolvido por Paulo Caroli, e visa construir o MVP (Produto Mínimo Viável), que é o produto com o menor risco, ou seja, menor esforço de desenvolvimento, que direciona a equipe para o desenvolvimento do produto ideal.
 
-É desenvolvido de forma colaborativa, dividindo as etapas em <i>workshops</i>, e resultando em um aprimoramento do relacionamento entre membros de equipe e de um produto mais elaborado devido às diversas colocações durante o processo [[1]](#ref1).
+É desenvolvido de forma colaborativa, dividindo as etapas em <i>workshops</i>, e resultando em um aprimoramento do relacionamento entre membros de equipe e de um produto mais elaborado devido às diversas colocações durante o processo.
 
 ### Visão do Produto
 
-A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes. [[1]](#ref1).
+A visão do produto ajuda a trilhar o caminho inicial entre a ideia e o lançamento do MVP. Ele ajuda a definir a visão do produto de modo colaborativo e definir a essência do valor de negócio, refletindo uma mensagem clara e convincente para os clientes.
 
 ![Visão](../assets/imagens/lean_inception/visao.png)
 <center>[Visão](../assets/imagens/lean_inception/visao.png)</center>
 
 
 ### "É/ Não é" e "Faz/ Não Faz"
-Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é. [[1]](#ref1).
+Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Esta atividade ajuda a definir o produto de forma que, por vezes é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Tem o objetivo de transmitir aos envolvidos uma visão mais alinhada a respeito do que o produto faz, o que o produto não faz, o que ele é e o que não é.
 
 ![É não é](../assets/imagens/lean_inception/e-nao-e.png)
 <center>[É não é](../assets/imagens/lean_inception/e-nao-e.png)</center>
@@ -22,7 +22,7 @@ Muitas vezes é mais fácil descrever o que alguma coisa não é ou não faz. Es
 
 ### Objetivos do Produto
 
-Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo c/om os objetivos gerais do negócio. [[1]](#ref1).
+Cada participante deve compartilhar o que entende como objetivo para o negócio, e os vários pontos de vista devem ser discutidos para chegar a um consenso sobre o que é realmente importante. Esta atividade serve para auxiliar no levantamento e esclarecimento dos objetivos de acordo c/om os objetivos gerais do negócio.
 
 ![Objetivos do Produto](../assets/imagens/lean_inception/objetivo.png)
 <center>[Objetivos do Produto](../assets/imagens/lean_inception/objetivo.png)</center>
@@ -30,7 +30,7 @@ Cada participante deve compartilhar o que entende como objetivo para o negócio,
 
 ### Personas
 
-A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possível identificar as funcionalidades do sistema, trazendo as necessidades da persona e auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final. [[1]](#ref1).
+A criação de personas serve para representar um usuário do sistema, descrevendo o seu papel e suas necessidades específicas. Assim, é possível identificar as funcionalidades do sistema, trazendo as necessidades da persona e auxiliando o time a descrever funcionalidades do ponto de vista de quem irá interagir com o produto final.
 
 Foram criadas 3 personas para este produto, conforme imagens a seguir:
 
