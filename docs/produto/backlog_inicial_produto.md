@@ -11,50 +11,15 @@ Com tudo isso podemos gerar um resultado de todos os Bugs, Melhorias e Novas Imp
 
 ### Bugs
 
-| **Bug** | **Pontuação** |
-| :-: | :-: |
-| Validar campos obrigatórios no cadastro | 3 |
-| Validar nome de Disciplina no cadastro | 5 |
-| Validar telefone de usuário no cadastro | 3 |
-| Validar campos em Análise da Proposta | 1 |
-| Corrigir Mensagem de erro de validação nos campos dos formulários | 1 |
-| Alterar rotulo de botão editar disciplina | 1 |
-| Corrigir estilo cabeçalho da tabela listagem projetos | 5 |
-| Corrigir posição do Botão Avaliar | 5 |
+<iframe  width="1000" height="400" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnQ6-iNGnkofjgkoXbExh1I32xcNTdWx5VrLkTrHPmoI4flywH7YZqrrbT2OWG0kW073nMO2Tn4nAx/pubhtml?gid=0&single=true"></iframe>
 
 ### Melhoria
 
-| **Melhoria** | **Pontuação** |
-| :-: | :-: |
-| Sinalizar Visualmente os campos obrigatórios no cadastro | 2 |
-| Permitir visualização da senha | 2 |
-| Alterar Ordenação da lista de palavras-chaves | 3 |
-| Ampliar números de palavras-chaves Cadastradas de uma vez | 3 |
-| Alterar ordem dos Campos em Criar Projeto | 1 |
-| Alterar Ordenação da lista de projetos | 3 |
-| Notificar pesquisa com resultados não encontrados | 2 |
-| Alterar Composição do Formulário de Criar Disciplina | 5 |
-| Melhorar visualização dos Campos em Criar Disciplina | 2 |
+<iframe  width="1000" height="400" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnQ6-iNGnkofjgkoXbExh1I32xcNTdWx5VrLkTrHPmoI4flywH7YZqrrbT2OWG0kW073nMO2Tn4nAx/pubhtml?gid=383460659&single=true"></iframe>
 
 ### User Stories
 
-| **História de Usuário** | **Pontuação** |
-| :-: | :-: |
-| Eu, como usuário, desejo visualizar os nomes logados, para que eu entenda que estou logado | 3 |
-| Eu, como usuário, gostaria de voltar para a página passada, para que possa navegar com mais facilidade | 2 |
-| Eu, como professor, gostaria de ver os nomes dos professores responsáveis pelas disciplinas | 3 |
-| Eu, como professor, gostaria de ver as minhas disciplinas em destaque | 3 |
-| Eu, como Professor, quero estar atrelado a disciplina que estou criando, para agilizar o processo de criação | 5 |
-| Eu, como professor, gostaria de poder formatar o texto da ementa da disciplina que estou criando, para poder melhor disponibiliza-la para as pessoas lerem | 13 |
-| Eu, como professor, gostaria de visualizar de forma escrita qual a palavra chave estou criando, para que seja claro ação que estou prestes a fazer | 3 |
-| Eu, como usuário, gostaria de visualizar um Objetivo, Resumo e Informações sobre PUMA, para saber mais sobre a plataforma | - |
-| Eu, como usuário, gostaria de visualizar a lista de disciplinas trabalhadas no PUMA, para saber mais sobre a plataforma | - |
-| Eu, como usuário, gostaria de entender e receber orientações sobre o processo de submissão de projetos no PUMA, para saber mais sobre a plataforma | - |
-| Eu, como usuário, gostaria de visualizar os Principais Parceiros que já trabalharam com o PUMA, para saber mais sobre a plataforma | - |
-| Eu, como usuário, gostaria de visualizar Contato dos responsáveis pelo PUMA, para contactar os responsáveis pela plataforma | - |
-| Eu, como administrador ou professor, gostaria de criar e gerenciar as Publicações do Projeto, para que consiga disponibilizar mais informações na Home da plataforma | - |
-| Eu, como usuário, gostaria de visualizar os projetos destaques do PUMA, para saber mais sobre os projetos que passaram pela plataforma | - |
-| Eu, como usuário, gostaria de visualizar Notícias e Editais relacionadas ao PUMA, para me manter informado pela plataforma | - |
+<iframe  width="1000" height="400" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnQ6-iNGnkofjgkoXbExh1I32xcNTdWx5VrLkTrHPmoI4flywH7YZqrrbT2OWG0kW073nMO2Tn4nAx/pubhtml?gid=589246266&single=true"></iframe>
 
 ## Bibliografia
 
@@ -70,3 +35,4 @@ Com tudo isso podemos gerar um resultado de todos os Bugs, Melhorias e Novas Imp
 | 20/07/2022 | 1.0 | Inserindo USs ao documento | Bruno Félix, Marcelo Santos, Breno Henrique, Eduardo Schuindt e Samuel Victor |
 | 21/07/2022 | 1.1 | Aprimorando Épicos e Features | Bruno Félix |
 | 31/07/2022 | 2.0 | Refatorando para Backlog Inicial do Produto | Bruno Félix |
+| 29/08/2022 | 3.0 | Tornando as tabelas dinâmicas | Gabriel Cabral |
