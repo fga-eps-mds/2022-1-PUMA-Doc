@@ -8,7 +8,7 @@ A Estrutura Analítica do Projeto (EAP) é uma separação hierárquica para est
 
 ## Referência
 <a id="ref1"></a>
-RAEBURN, Alicia. Estrutura analítica de projeto (EAP) para gestores: o que é e como usá-la. Disponível em: https://asana.com/pt/resources/work-breakdown-structure. Acesso em 21 jul 2022.
+RAEBURN, Alicia. Estrutura analítica de projeto (EAP) para gestores: o que é e como usá-la. Disponível em: <https://asana.com/pt/resources/work-breakdown-structure>. Acesso em 21 jul 2022.
 
 ## Versionamento
 

@@ -103,7 +103,7 @@ Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, p
 ## Referências 
 
 <a id="ref1"></a>
-[1] Hiflex consultoria. Gerenciamento De Valor Agregado (EVM) Em Projetos Ágeis. Acesso em Jul. 2022. Disponível em: https://hiflexconsultoria.com.br/gerenciamento-de-valor-agregado-evm-em-projetos-ageis/
+[1] Hiflex consultoria. Gerenciamento De Valor Agregado (EVM) Em Projetos Ágeis. Acesso em Jul. 2022. Disponível em: <https://hiflexconsultoria.com.br/gerenciamento-de-valor-agregado-evm-em-projetos-ageis/>
 
 <a id="ref2"></a>
 [2] Infográfico O Globo: Ranking do custo anual por aluno nas federais (2016). Acesso em Jul. 2022. Disponível em: [https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html]( https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html)
@@ -117,7 +117,7 @@ Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, p
 [4] Tabela de Tarifas de Energia Elétrica. Acesso em Jul. 2022. Disponível em: [https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf)
 
 <a id="ref5"></a>
-[5] VEC. Análise de Valor Agregado (EVM) em Projetos: Conheça e aprenda a calcular. Acesso em Jul. 2022. Disponível em:http://valorecompetencia.com.br/gestao_de_projetos/analise-de-valor-agregado-evm-em-projetos-conheca-e-aprenda-a-calcular
+[5] VEC. Análise de Valor Agregado (EVM) em Projetos: Conheça e aprenda a calcular. Acesso em Jul. 2022. Disponível em: <http://valorecompetencia.com.br/gestao_de_projetos/analise-de-valor-agregado-evm-em-projetos-conheca-e-aprenda-a-calcular>
 
 | Versão | Data       | Descrição | Autores |
 | ------ | ---------- | --------- | ------- |

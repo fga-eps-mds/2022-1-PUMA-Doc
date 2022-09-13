@@ -18,30 +18,46 @@ nav:
         - Backlog Inicial do Produto: produto/backlog_inicial_produto.md
     - Projeto:
         - Quadro de Conhecimento: projeto/quadro_de_conhecimento.md
-        - Plano de Comunicação: projeto/quadro_de_disponibilidade.md
+        - Plano de Comunicação: projeto/plano_de_comunicacao.md
         - Plano de Contribuição: projeto/plano_de_contribuicao.md
         - Plano de Gerenciamento de Riscos: projeto/plano_de_gerenciamento_de_riscos.md
         - Plano de Custos: projeto/plano_de_custos.md
         - Metodologia: projeto/metodologia.md
         - Estrutura Analítica do Projeto: projeto/eap.md
         - Roadmap: projeto/roadmap.md
+        - Padrões da Comunidade: projeto/padroes_da_comunidade.md
     - Gestão do Projeto:
-        - Semana 0:
-            - Planning: sprints/sprint0/planning.md
         - Semana 1:
-            - Planning: sprints/sprint1/planning.md
+            - Planning: gerenciamento/semanas/semana1/planning.md
         - Semana 2:
-            - Planning: sprints/sprint2/planning.md
+            - Planning: gerenciamento/semanas/semana2/planning.md
         - Semana 3:
-            - Planning: sprints/sprint3/planning.md
-            - Review: sprints/sprint3/review.md
+            - Planning: gerenciamento/semanas/semana3/planning.md
         - Semana 4:
-            - Planning: sprints/sprint4/planning.md
-            - Review: sprints/sprint4/review.md
+            - Planning: gerenciamento/semanas/semana4/planning.md
+            - Review: gerenciamento/semanas/semana4/review.md
         - Semana 5:
-            - Planning: sprints/sprint5/planning.md
-            - Review: sprints/sprint5/review.md
-        - Semana 6:
-            - Planning: sprints/sprint6/planning.md
-        - Semana 7:
-            - Planning: sprints/sprint7/planning.md
+            - Planning: gerenciamento/semanas/semana5/planning.md   
+            - Review: gerenciamento/semanas/semana5/review.md
+        - Sprint 1:
+            - Planning: gerenciamento/sprints/sprint1/planning.md
+            - Review: gerenciamento/sprints/sprint1/review.md
+        - Sprint 2:
+            - Planning: gerenciamento/sprints/sprint2/planning.md
+            - Review: gerenciamento/sprints/sprint2/review.md
+        - Sprint 3:
+            - Planning: gerenciamento/sprints/sprint3/planning.md
+            - Review: gerenciamento/sprints/sprint3/review.md
+        - Sprint 4:
+            - Planning: gerenciamento/sprints/sprint4/planning.md
+        - Sprint 5:
+            - Planning: gerenciamento/sprints/sprint5/planning.md
+        - Sprint 6:
+            - Planning: gerenciamento/sprints/sprint6/planning.md
+        - Sprint 7:
+            - Planning: gerenciamento/sprints/sprint7/planning.md
+
+    - Testes funcionais:
+        - Release 1: testes_funcionais/r1.md
+        - Release 2: testes_funcionais/r2.md
+        - Release 3: testes_funcionais/r3.md
