@@ -50,8 +50,15 @@ nav:
             - Review: gerenciamento/sprints/sprint3/review.md
         - Sprint 4:
             - Planning: gerenciamento/sprints/sprint4/planning.md
+            - Review: gerenciamento/sprints/sprint4/review.md
         - Sprint 5:
             - Planning: gerenciamento/sprints/sprint5/planning.md
+            - Review: gerenciamento/sprints/sprint5/review.md
+        - Sprint 6:
+            - Planning: gerenciamento/sprints/sprint6/planning.md
+            - Review: gerenciamento/sprints/sprint6/review.md
+        - Sprint 7:
+            - Planning:  gerenciamento/sprints/sprint7/planning.md
     - Testes funcionais:
         - Release 1: testes_funcionais/r1.md
         - Release 2: testes_funcionais/r2.md
