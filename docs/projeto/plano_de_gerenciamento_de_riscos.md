@@ -61,6 +61,8 @@ Sendo que:
 
 <iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRadOwXUyGLBt_2fbIkZx446JHsAbbQi8Mo8Lrmi3sdPvA8sKFV_lXYHIyYh6xX6aavPU6cEquGNdsR/pubhtml"></iframe>
 
+Para visualizar a planilha [clique aqui](https://docs.google.com/spreadsheets/d/1uEExKMukGKtuFZKjP3avVxyMZfte7idBnHzgJpcurHU/edit?usp=sharing).
+
 ## Bibliografia
 
 [1] JOÃO, Lucas. Plano de Gerenciamento de Riscos do grupo ArBC. Disponível em: <https://github.com/fga-eps-mds/2019.2-ArBC/blob/develop/docs/Plano-Gerenciamento-Riscos.md>. Acesso em 09 jul 2022.
@@ -73,3 +75,4 @@ Sendo que:
 |:----------:|:------:|:-------------:|:------------------------------:|
 |09/07/2022|0.1|Criação do Documento|Enzo Gabriel e Breno Yuri|
 |11/07/2022|1.0|Atualização das referências|Enzo Gabriel|
+|18/09/2022|2.0|Atualização das referências|Eduardo|
