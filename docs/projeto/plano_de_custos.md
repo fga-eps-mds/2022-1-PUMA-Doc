@@ -40,6 +40,8 @@ Nesse projeto é necessario levar em conta o custo de publicação na nuvem. Foi
 ## Planilha de Custos de Base
 <iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform:scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQukIJxgB9rI68ySzAPsyFXSLf-TOnjljPT126DsTgey6jvmTDPSt6SI3f2JQbID0QiFhQC6p8Hdioz/pubhtml"></iframe>
 
+Para visualizar a planilha [clique aqui](https://docs.google.com/spreadsheets/d/1oA_S1x2kdo0qmJlyT4jMZZx1hzPHDg9pbpKejKWj4Ms/edit?usp=sharing).
+
 ## Custo Total
 
 Os custos acima são referentes unicamente aos gastos durante o semestre atual, sem considerar quaisquer gastos prévios com o projeto. Os dados abaixo visam ilustrar os valores estimados para o projeto, caso fosse, por exemplo, contratada uma empresa privada para desenvolver este software.
@@ -100,6 +102,8 @@ Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, p
 ### Planilha EVM
 <iframe width="700" height="300" style="-webkit-transform:scale(0.8);-moz-transform:scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQRhanQHg-5c_-EcjrciTQnGJkHgv3BZQZGXix11V6Rjmr7e4C9-IT84_H7ctLwXFOiciw6j1ZAHexT/pubhtml"></iframe>
 
+Para visualizar a planilha [clique aqui](https://docs.google.com/spreadsheets/d/1IhuQZnWB7x9qGNZbvIPSti8ktab9B11mJ15ur2vMqI4/edit?usp=sharing).
+
 ## Referências 
 
 <a id="ref1"></a>
@@ -128,3 +132,4 @@ Para isso temos alguns parametros para EVM, dentro do projeto e suas releases, p
 | 0.5    | 28/07/2022 | Adição de EVM | Giovanna |
 | 0.6    | 28/07/2022 | Retira inglês de EVM | Giovanna |
 | 0.7    | 28/07/2022 | Adiciona planilha EVM | Giovanna e Marcelo |
+| 0.8    | 18/09/2022 | Adiciona link para planilha de custo e EVM | Eduardo |
