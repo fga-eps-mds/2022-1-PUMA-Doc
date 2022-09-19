@@ -10,6 +10,9 @@ Por esse motivo, nossa equipe escolheu o quadro de conhecimentos, a função del
 <iframe width="700" height="300" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSv9Al3GRd9pA_WVTwYYDdHLPqktOUcQLEkvAO45Np4a9KNs5xQSdSR-AwrPvzO9A/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
+
+Para visualizar a planilha [clique aqui](https://docs.google.com/spreadsheets/d/1uK8q_uI7z7ldcbDBJaY1fKbFUQprF4K3/edit?usp=sharing&ouid=115061236657802302448&rtpof=true&sd=true).
+
 ## Referências
 
 <a id="1"></a>
@@ -19,3 +22,4 @@ Por esse motivo, nossa equipe escolheu o quadro de conhecimentos, a função del
 | Versão | Data       | Descrição | Autores |
 | ------ | ---------- | --------- | ------- |
 | 1.0    | 06/07/2022 | Abertura do documento | Cabral e Giovanna |
+| 2.0    | 18/09/2022 | Adiciona link para visualizar planilha | Eduardo |
