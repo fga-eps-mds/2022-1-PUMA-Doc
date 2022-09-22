@@ -2,7 +2,7 @@
     "paging": {
         "pageIndex": 1,
         "pageSize": 100,
-        "total": 52
+        "total": 57
     },
     "baseComponent": {
         "id": "AYIHqDiGeFj9HSJltYOx",
@@ -12,7 +12,7 @@
         "measures": [
             {
                 "metric": "duplicated_lines_density",
-                "value": "3.3",
+                "value": "3.9",
                 "bestValue": false
             },
             {
@@ -26,19 +26,24 @@
             },
             {
                 "metric": "files",
-                "value": "36"
+                "value": "41"
             },
             {
                 "metric": "complexity",
-                "value": "554"
+                "value": "555"
             },
             {
                 "metric": "ncloc",
-                "value": "2290"
+                "value": "2767"
+            },
+            {
+                "metric": "coverage",
+                "value": "0.0",
+                "bestValue": false
             },
             {
                 "metric": "comment_lines_density",
-                "value": "0.5",
+                "value": "0.9",
                 "bestValue": false
             }
         ]
@@ -53,8 +58,8 @@
             "measures": [
                 {
                     "metric": "duplicated_lines_density",
-                    "value": "0.0",
-                    "bestValue": true
+                    "value": "10.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "functions",
@@ -67,7 +72,7 @@
                 },
                 {
                     "metric": "files",
-                    "value": "5"
+                    "value": "6"
                 },
                 {
                     "metric": "complexity",
@@ -75,7 +80,12 @@
                 },
                 {
                     "metric": "ncloc",
-                    "value": "207"
+                    "value": "311"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
@@ -103,6 +113,11 @@
                 {
                     "metric": "ncloc",
                     "value": "12"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -169,6 +184,11 @@
                     "value": "23"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -194,6 +214,11 @@
                 {
                     "metric": "ncloc",
                     "value": "176"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -245,6 +270,11 @@
                 {
                     "metric": "ncloc",
                     "value": "25"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -304,11 +334,16 @@
                 },
                 {
                     "metric": "complexity",
-                    "value": "78"
+                    "value": "79"
                 },
                 {
                     "metric": "ncloc",
-                    "value": "347"
+                    "value": "352"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
@@ -338,6 +373,11 @@
                     "value": "68"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -359,6 +399,210 @@
                 {
                     "metric": "duplicated_lines_density",
                     "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYNEQGvC2WwFEHvD8wwZ",
+            "key": "fga-eps-mds_2022-1-PUMA-ProjectService:tests/utils/db_clear.sql",
+            "name": "db_clear.sql",
+            "qualifier": "FIL",
+            "path": "tests/utils/db_clear.sql",
+            "language": "plsql",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "23"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYNEQGvC2WwFEHvD8wwY",
+            "key": "fga-eps-mds_2022-1-PUMA-ProjectService:tests/utils/db_create.sql",
+            "name": "db_create.sql",
+            "qualifier": "FIL",
+            "path": "tests/utils/db_create.sql",
+            "language": "plsql",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "172"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYNEQGvC2WwFEHvD8wwb",
+            "key": "fga-eps-mds_2022-1-PUMA-ProjectService:tests/utils/db_drop.sql",
+            "name": "db_drop.sql",
+            "qualifier": "FIL",
+            "path": "tests/utils/db_drop.sql",
+            "language": "plsql",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "25"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AYNEQGvC2WwFEHvD8wwa",
+            "key": "fga-eps-mds_2022-1-PUMA-ProjectService:tests/utils/db_populate.sql",
+            "name": "db_populate.sql",
+            "qualifier": "FIL",
+            "path": "tests/utils/db_populate.sql",
+            "language": "plsql",
+            "measures": [
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "148"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "7.5",
+                    "bestValue": false
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "20.2",
+                    "bestValue": false
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
                     "bestValue": true
                 },
                 {
@@ -402,6 +646,11 @@
                     "value": "251"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -427,6 +676,11 @@
                 {
                     "metric": "ncloc",
                     "value": "50"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -480,6 +734,11 @@
                     "value": "201"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -529,6 +788,11 @@
                 {
                     "metric": "ncloc",
                     "value": "23"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -582,6 +846,11 @@
                     "value": "22"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -631,6 +900,11 @@
                 {
                     "metric": "ncloc",
                     "value": "19"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -697,6 +971,11 @@
                     "value": "489"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -722,6 +1001,11 @@
                 {
                     "metric": "ncloc",
                     "value": "6"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -788,6 +1072,11 @@
                     "value": "6"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -809,6 +1098,11 @@
                 {
                     "metric": "ncloc",
                     "value": "155"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "functions",
@@ -866,6 +1160,11 @@
                     "value": "93"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -915,6 +1214,11 @@
                 {
                     "metric": "ncloc",
                     "value": "177"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -968,6 +1272,11 @@
                     "value": "49"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -1017,6 +1326,11 @@
                 {
                     "metric": "ncloc",
                     "value": "17"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1083,6 +1397,11 @@
                     "value": "28"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -1108,6 +1427,11 @@
                 {
                     "metric": "ncloc",
                     "value": "28"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1209,6 +1533,57 @@
             ]
         },
         {
+            "id": "AYNEQGvC2WwFEHvD8wwc",
+            "key": "fga-eps-mds_2022-1-PUMA-ProjectService:tests/__legacy__/utils/populate.sql",
+            "name": "populate.sql",
+            "qualifier": "FIL",
+            "path": "tests/__legacy__/utils/populate.sql",
+            "language": "plsql",
+            "measures": [
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "104"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "30.4",
+                    "bestValue": false
+                },
+                {
+                    "metric": "test_errors",
+                    "value": "0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_failures",
+                    "value": "0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
             "id": "AYIHqNebGLbEQiI67Xqb",
             "key": "fga-eps-mds_2022-1-PUMA-ProjectService:src/repository/professorRepository.js",
             "name": "professorRepository.js",
@@ -1227,6 +1602,11 @@
                 {
                     "metric": "ncloc",
                     "value": "50"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1274,6 +1654,11 @@
                 {
                     "metric": "ncloc",
                     "value": "169"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "functions",
@@ -1331,6 +1716,11 @@
                     "value": "90"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -1382,6 +1772,11 @@
                     "value": "136"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -1431,6 +1826,11 @@
                 {
                     "metric": "ncloc",
                     "value": "74"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1497,6 +1897,11 @@
                     "value": "506"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.2",
                     "bestValue": false
@@ -1522,6 +1927,11 @@
                 {
                     "metric": "ncloc",
                     "value": "94"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1573,6 +1983,11 @@
                 {
                     "metric": "ncloc",
                     "value": "10"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1637,6 +2052,11 @@
                 {
                     "metric": "ncloc",
                     "value": "202"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
@@ -1710,6 +2130,11 @@
                 {
                     "metric": "ncloc",
                     "value": "11"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1822,6 +2247,11 @@
                     "value": "12"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -1855,11 +2285,16 @@
                 },
                 {
                     "metric": "complexity",
-                    "value": "352"
+                    "value": "353"
                 },
                 {
                     "metric": "ncloc",
-                    "value": "1131"
+                    "value": "1136"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
@@ -1887,6 +2322,11 @@
                 {
                     "metric": "ncloc",
                     "value": "59"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -1936,6 +2376,11 @@
                     "value": "165"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "functions",
                     "value": "44"
                 },
@@ -1979,16 +2424,8 @@
             "language": "js",
             "measures": [
                 {
-                    "metric": "complexity",
-                    "value": "28"
-                },
-                {
                     "metric": "functions",
                     "value": "24"
-                },
-                {
-                    "metric": "ncloc",
-                    "value": "164"
                 },
                 {
                     "metric": "security_rating",
@@ -1996,13 +2433,26 @@
                     "bestValue": true
                 },
                 {
-                    "metric": "comment_lines_density",
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "29"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "169"
+                },
+                {
+                    "metric": "coverage",
                     "value": "0.0",
                     "bestValue": false
                 },
                 {
-                    "metric": "files",
-                    "value": "1"
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "test_errors",
@@ -2040,6 +2490,11 @@
                 {
                     "metric": "ncloc",
                     "value": "56"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -2091,6 +2546,11 @@
                 {
                     "metric": "ncloc",
                     "value": "69"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -2178,6 +2638,11 @@
                     "value": "8"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -2217,7 +2682,7 @@
             "measures": [
                 {
                     "metric": "duplicated_lines_density",
-                    "value": "24.5",
+                    "value": "20.4",
                     "bestValue": false
                 },
                 {
@@ -2231,7 +2696,7 @@
                 },
                 {
                     "metric": "files",
-                    "value": "10"
+                    "value": "15"
                 },
                 {
                     "metric": "complexity",
@@ -2239,11 +2704,16 @@
                 },
                 {
                     "metric": "ncloc",
-                    "value": "880"
+                    "value": "1352"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
-                    "value": "0.0",
+                    "value": "0.9",
                     "bestValue": false
                 }
             ]
@@ -2280,6 +2750,11 @@
                 {
                     "metric": "ncloc",
                     "value": "176"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
@@ -2322,6 +2797,11 @@
                     "value": "22"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "8.3",
                     "bestValue": false
@@ -2337,8 +2817,53 @@
             "measures": [
                 {
                     "metric": "duplicated_lines_density",
-                    "value": "0.0",
+                    "value": "5.6",
+                    "bestValue": false
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
                     "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "6"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "552"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "2.1",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AYIHqNebGLbEQiI67XqR",
+            "key": "fga-eps-mds_2022-1-PUMA-ProjectService:tests/__legacy__/utils",
+            "name": "utils",
+            "qualifier": "DIR",
+            "path": "tests/__legacy__/utils",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "24.8",
+                    "bestValue": false
                 },
                 {
                     "metric": "functions",
@@ -2359,47 +2884,12 @@
                 },
                 {
                     "metric": "ncloc",
-                    "value": "184"
+                    "value": "129"
                 },
                 {
-                    "metric": "comment_lines_density",
+                    "metric": "coverage",
                     "value": "0.0",
                     "bestValue": false
-                }
-            ]
-        },
-        {
-            "id": "AYIHqNebGLbEQiI67XqR",
-            "key": "fga-eps-mds_2022-1-PUMA-ProjectService:tests/__legacy__/utils",
-            "name": "utils",
-            "qualifier": "DIR",
-            "path": "tests/__legacy__/utils",
-            "measures": [
-                {
-                    "metric": "duplicated_lines_density",
-                    "value": "0.0",
-                    "bestValue": true
-                },
-                {
-                    "metric": "functions",
-                    "value": "0"
-                },
-                {
-                    "metric": "security_rating",
-                    "value": "1.0",
-                    "bestValue": true
-                },
-                {
-                    "metric": "files",
-                    "value": "1"
-                },
-                {
-                    "metric": "complexity",
-                    "value": "0"
-                },
-                {
-                    "metric": "ncloc",
-                    "value": "25"
                 },
                 {
                     "metric": "comment_lines_density",
@@ -2427,6 +2917,11 @@
                 {
                     "metric": "ncloc",
                     "value": "14"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",

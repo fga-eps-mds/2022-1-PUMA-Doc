@@ -37,6 +37,11 @@
                 "value": "317"
             },
             {
+                "metric": "coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
                 "metric": "comment_lines_density",
                 "value": "0.6",
                 "bestValue": false
@@ -76,6 +81,11 @@
                 {
                     "metric": "ncloc",
                     "value": "14"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
@@ -158,6 +168,11 @@
                     "value": "244"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -183,6 +198,11 @@
                 {
                     "metric": "ncloc",
                     "value": "43"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -236,6 +256,11 @@
                     "value": "201"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -285,6 +310,11 @@
                 {
                     "metric": "ncloc",
                     "value": "14"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -338,6 +368,11 @@
                     "value": "20"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -387,6 +422,11 @@
                 {
                     "metric": "ncloc",
                     "value": "6"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -453,6 +493,11 @@
                     "value": "28"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -478,6 +523,11 @@
                 {
                     "metric": "ncloc",
                     "value": "28"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "security_rating",
@@ -673,6 +723,11 @@
                     "value": "3"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "security_rating",
                     "value": "1.0",
                     "bestValue": true
@@ -856,6 +911,11 @@
                     "value": "3"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "0.0",
                     "bestValue": false
@@ -936,6 +996,11 @@
                     "value": "39"
                 },
                 {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
                     "metric": "comment_lines_density",
                     "value": "4.9",
                     "bestValue": false
@@ -974,6 +1039,11 @@
                 {
                     "metric": "ncloc",
                     "value": "6"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
                 },
                 {
                     "metric": "comment_lines_density",
